@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianyi Zhou (周天翼)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianyizhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tianyizhou/tianyizhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tianyi Zhou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Tianyi Zhou is currently a PhD student at Paul G. Allen school of Computer Science and Engineering, University of Washington. He is supervised by Prof. Jeff Bilmes and Prof. Carlos Guestrin. He published ~50 papers at NeurIPS, ICML, ICLR, AISTATS, NAACL, KDD, ICDM, IJCAI, AAAI, ISIT, Machine Learning Journal, IEEE TIP, IEEE TNNLS, IEEE TKDE, etc, with >1800 citations. He is the recipient of the Best student paper award at ICDM 2013."
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en"
+  email            : "tianyizh@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
