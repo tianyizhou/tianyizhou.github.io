@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Tianyi Zhou (周天翼)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tianyi Zhou"
+description              : &description "Machine Learning PhD Candidate at University of Washington"
 url                      : https://tianyizhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianyizhou/tianyizhou.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Tianyi Zhou"
-  avatar           : "profile.png"
+  avatar           : "tianyi.png"
   bio              : "Tianyi Zhou is currently a PhD student at Paul G. Allen school of Computer Science and Engineering, University of Washington. He is supervised by Prof. Jeff Bilmes and Prof. Carlos Guestrin. He published ~50 papers at NeurIPS, ICML, ICLR, AISTATS, NAACL, KDD, ICDM, IJCAI, AAAI, ISIT, Machine Learning Journal, IEEE TIP, IEEE TNNLS, IEEE TKDE, etc, with >1800 citations. He is the recipient of the Best student paper award at ICDM 2013."
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en"
   email            : "tianyizh@uw.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tianyi_Zhou2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/tianyizhou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tianyizhou/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
