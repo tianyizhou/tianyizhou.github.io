@@ -85,7 +85,7 @@ author:
   bio              : "Tianyi Zhou is currently a PhD student at Paul G. Allen school of Computer Science and Engineering, University of Washington. He is supervised by Prof. Jeff Bilmes and Prof. Carlos Guestrin. He published ~50 papers at NeurIPS, ICML, ICLR, AISTATS, NAACL, KDD, ICDM, IJCAI, AAAI, ISIT, Machine Learning Journal, IEEE TIP, IEEE TNNLS, IEEE TKDE, etc, with >1800 citations. He is the recipient of the Best student paper award at ICDM 2013."
   location         : "Seattle, WA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en"
   email            : "tianyizh@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Tianyi_Zhou2"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tianyizhou/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
