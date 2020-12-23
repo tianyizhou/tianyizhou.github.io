@@ -1,11 +1,23 @@
+---
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Biography
 ======
 I am a Ph.D. student in [Paul G. Allen school of Computer Science and Engineering](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/) and a member of [MELODI lab](https://melodi.ece.uw.edu/), advised by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). My reseach interests are in machine learning, optimization, and natural language processing. I have been a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx), supervised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). I have published ~50 papers at NeurIPS, ICML, ICLR, AISTATS, NAACL, KDD, ICDM, IJCAI, AAAI, ISIT, Machine Learning Journal, IEEE TIP, IEEE TNNLS, IEEE TKDE, etc. I am the recipient of the Best student paper award at ICDM 2013 and the 2020 IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award.
 
 My Research
 ------
-* Machine Learning
-* Natural Language Processing
+* Machine Learning: Curriculum Learning, Self-supervised Learning, Semi-supervised Learning, Reinforcement Learning, Collaborative Learning, Robust Learning, Meta-Learning, Training Dynamics and Geometry of Neural Networks.
+* Natural Language Processing: Attention Models, Natural Language Inference, Semantic Role Labeling, Link Prediction in Knowledge Graphs.
+
+News
+------
 
 <!-- Getting started
 ======
