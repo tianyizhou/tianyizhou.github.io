@@ -15,7 +15,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 My Research
 ------
 * Machine Learning
-  1. Curriculum Learning (for 2-6 and other learning problems, using tools developed in 7-8)
+  1. Curriculum Learning (for 2-6 below and other learning problems, using tools developed in 7-8)
   1. Self-supervised/Semi-supervised Learning
   1. Reinforcement Learning 
   1. Collaborative Learning, Ensemble Method
