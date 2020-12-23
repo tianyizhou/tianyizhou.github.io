@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 I am a Ph.D. student in [Paul G. Allen school of Computer Science and Engineering](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/) and a member of [MELODI lab](https://melodi.ece.uw.edu/), advised by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). My reseach interests are in machine learning, optimization, and natural language processing. I have published ~50 papers at NeurIPS, ICML, ICLR, AISTATS, NAACL, KDD, ICDM, IJCAI, AAAI, ISIT, Machine Learning Journal, IEEE TIP, IEEE TNNLS, IEEE TKDE, etc. I am the recipient of the Best student paper award at ICDM 2013 and the 2020 IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award.
 
 I have been a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx), supervised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), supervised by [Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) and [Yi Chang](http://www.yichang-cs.com/), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), supervised by [Lin Xiao](https://linxiaolx.github.io/). 
