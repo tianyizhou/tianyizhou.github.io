@@ -15,7 +15,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 My Research
 ------
 * Machine Learning
-  1. Curriculum Learning (for 2-6 and other machine learning problems)
+  1. Curriculum Learning (for 2-6 and other learning problems, using tools developed in 7-8)
   1. Self-supervised/Semi-supervised Learning
   1. Reinforcement Learning 
   1. Collaborative Learning, Ensemble Method
@@ -23,8 +23,8 @@ My Research
   1. Meta-Learning, Few-shot/Zero-shot Learning
   1. Training Dynamics and Geometry of Neural Networks
   1. Continuous-discrete Optimization, Submodular Optimization
-  1. Spectral Method
-  1. Matrix Factorization
+  1. Spectral Method for Matrix Factorization and Graphical Models
+  1. Matrix Factorization: Low-rank Approximation, Robust PCA, NMF
   1. Compressed Sensing, Sparse Learning
   1. Dimension Reduction, Manifold Learning
 
