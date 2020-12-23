@@ -13,7 +13,7 @@ Education
 ======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
 * Ph.D. in Computer Science, University of Washington, 2013-present
-* B.S. in Automatic Control, Beijing Institute of Technology
+* B.Eng. in Automatic Control, Beijing Institute of Technology
 
 Work experience
 ======
@@ -37,7 +37,7 @@ Work experience
   * Instructor: Prof. Carlos Guestrin
 
 * Summer 2015: Research Intern
-  * Yahoo! Lab, Sunnyvale
+  * Yahoo! Labs, Sunnyvale
   * Supervisor: Dr. Hua Ouyang and Prof. Yi Chang
 
 * Summer 2014: Research Intern
