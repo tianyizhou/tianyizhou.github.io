@@ -15,26 +15,26 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 My Research
 ------
 * Machine Learning
-  * Curriculum Learning
-  * Self-supervised/Semi-supervised Learning
-  * Reinforcement Learning 
-  * Collaborative Learning, Ensemble Method
-  * Robust Learning on Noisy Data
-  * Meta-Learning, Few-shot/Zero-shot Learning
-  * Training Dynamics and Geometry of Neural Networks
-  * Continuous-discrete Optimization, Submodular Optimization
-  * Spectral Method
-  * Matrix Factorization
-  * Compressed Sensing, Sparse Learning
-  * Dimension Reduction, Manifold Learning
+  1. Curriculum Learning (for 2-6 and other machine learning problems)
+  1. Self-supervised/Semi-supervised Learning
+  1. Reinforcement Learning 
+  1. Collaborative Learning, Ensemble Method
+  1. Robust Learning on Noisy Data
+  1. Meta-Learning, Few-shot/Zero-shot Learning
+  1. Training Dynamics and Geometry of Neural Networks
+  1. Continuous-discrete Optimization, Submodular Optimization
+  1. Spectral Method
+  1. Matrix Factorization
+  1. Compressed Sensing, Sparse Learning
+  1. Dimension Reduction, Manifold Learning
 
 * Natural Language Processing
-  * Attention Models
-  * Natural Language Inference
-  * Semantic Role Labeling
-  * Link Prediction in Knowledge Graphs
-  * Text Classification
-  * Summarization
+  1. Attention Models
+  1. Natural Language Inference
+  1. Semantic Role Labeling
+  1. Link Prediction in Knowledge Graphs
+  1. Text Classification
+  1. Summarization
 
 News
 ------
