@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ Work experience
 ======
 * 2013-present: Research Assistant
   * University of Washington
-  * Supervisor: Professor Jeff A. Bilmes
+  * Supervisor: Prof. Jeff A. Bilmes
 
 * Spring 2019: Teaching Assistant
   * University of Washington
