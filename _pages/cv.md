@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
-* Ph.D. in Computer Science, University of Washington, 2013-2021 (expected)
+* Ph.D. in Computer Science, University of Washington, 2013-present
+* B.S. in Automatic Control, Beijing Institute of Technology
 
 Work experience
 ======
@@ -65,8 +66,42 @@ Teaching
   
 Service
 ======
-* Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), Journal of Machine Learning Research (JMLR), Machine Learning (Springer), Neural Computation, IEEE Transactions on Knowledge and Data Engineering (T-KDE), IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), IEEE Communications Letters, Pattern Recognition (Elsevier), Computational Statistics and Data Analysis (CSDA) (Elsevier), Information Sciences (INS) (Elsevier), Neurocomputing (Elsevier), Signal Processing (Elsevier), Knowledge and Information Systems (KAIS)(Springer), Pattern Analysis and Applications (PAAA) (Springer), Neural Processing Letters (NEPL) (Springer).
-* Reviewer/Program Committee Member for International Conference on Machine Learning (ICML), Annual Conference on Neural Information Processing System (NeurIPS), International Conference on Learning Representations (ICLR), The Conference on Uncertainty in Artificial Intelligence (UAI), International Conference on Artificial Intelligence and Statistics (AISTATS), SIAM International Conference on Data Mining (SDM), IEEE International Conference on Data Mining (ICDM), IEEE International Conference on Multimedia and Expo (ICME), IEEE Pacific-Rim Conference on Multimedia (PCM), ACM Conference on Information and Knowledge Management (CIKM), ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), IEEE International Conference on Computer Vision (ICCV), International Conference on Pattern Recognition (ICPR), ACM Multimedia (MM), AAAI Conference on Artificial Intelligence (AAAI), International Joint Conference on Artificial Intelligence (IJCAI).
+* Reviewer for 
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+  * Journal of Machine Learning Research (JMLR)
+  * Machine Learning (Springer)
+  * Neural Computation
+  * IEEE Transactions on Knowledge and Data Engineering (T-KDE)
+  * IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
+  * IEEE Transactions on Systems, Man, and Cybernetics (T-SMC)
+  * IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
+  * IEEE Communications Letters, Pattern Recognition (Elsevier)
+  * Computational Statistics and Data Analysis (CSDA) (Elsevier)
+  * Information Sciences (INS) (Elsevier)
+  * Neurocomputing (Elsevier)
+  * Signal Processing (Elsevier)
+  * Knowledge and Information Systems (KAIS)(Springer)
+  * Pattern Analysis and Applications (PAAA) (Springer)
+  * Neural Processing Letters (NEPL) (Springer)
+
+* Reviewer/Program Committee Member for 
+  * Annual Conference on Neural Information Processing System (NeurIPS) 
+  * International Conference on Machine Learning (ICML) 
+  * International Conference on Learning Representations (ICLR) 
+  * The Conference on Uncertainty in Artificial Intelligence (UAI) 
+  * International Conference on Artificial Intelligence and Statistics (AISTATS)
+  * AAAI Conference on Artificial Intelligence (AAAI) 
+  * International Joint Conference on Artificial Intelligence (IJCAI)
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)
+  * SIAM International Conference on Data Mining (SDM) 
+  * IEEE International Conference on Data Mining (ICDM)
+  * IEEE International Conference on Multimedia and Expo (ICME) 
+  * IEEE Pacific-Rim Conference on Multimedia (PCM)
+  * ACM Conference on Information and Knowledge Management (CIKM)
+  * IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 
+  * IEEE International Conference on Computer Vision (ICCV)
+  * International Conference on Pattern Recognition (ICPR)
+  * ACM Multimedia (MM)
 
 Awards
 ======
