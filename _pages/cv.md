@@ -52,8 +52,31 @@ Work experience
   * Nanyang Technological University (NTU)
   * Supervisor: Prof. Dacheng Tao
 
-<!-- Publications
-====== -->
+Selected Publications
+======
+A full list of publications can be found [here](https://tianyizhou.github.io/publications/).
+
+* Curriculum Learning, Learning by Selection
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning with Dynamic Instance Hardness***", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf), [Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf), [Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf), [Code](https://github.com/tianyizhou/DIHCL)
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Time-Consistent Self-Supervision for Semi-Supervised Learning***", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf), [Slides+Talk](https://icml.cc/virtual/2020/poster/6671)
+1. Meng Fang, Tianyi Zhou, Yali Du, Lei Han, and Zhengyou Zhang, "***Curriculum-guided Hindsight Experience Replay***", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019. [PDF](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Supplemental.zip), [Code](https://github.com/mengf1/CHER), [Poster](https://mengf1.github.io/files/posters/CHER-poster.pdf)
+1. Tianyi Zhou, Shengjie Wang, and Jeff A. Bilmes, "***Diverse Ensemble Evolution: Curriculum Data-Model Marriage***", Advances in Neural Information Processing Systems 32 (NeurIPS), Montreal, QC, Canada, 2018. [PDF](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf), [Appendix](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage-supplemental.zip), [Poster](https://github.com/tianyizhou/DiverseEnsembleEvolution/blob/master/Diverse_Ensemble_Evolution_NeurIPS18.pdf.pdf)
+1. Tianyi Zhou and Jeff A. Bilmes, "***Minimax Curriculum Learning: Machine Teaching with Desirable Difficulties and Scheduled Diversity***", Sixth International Conference on Learning Representations (ICLR), Vancouver, BC, Canada, 2018. [PDF](https://openreview.net/pdf?id=BywyFQlAW)
+1. Tianyi Zhou, Jeff A. Bilmes and Carlos Guestrin, "***Divide-and-Conquer Learning by Anchoring a Conical Hull***", Twenty-Eighth Annual Conference on Neural Information Processing Systems  (NeurIPS), Montreal, Canada, 2014. [PDF](https://arxiv.org/pdf/1406.5752.pdf)
+1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
+
+* Natural Language Processing
+1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang and Chengqi Zhang, "***Tensorized Self-Attention: Efficiently Modeling Pairwise and Global Dependencies Together***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019. [PDF](https://www.aclweb.org/anthology/N19-1127.pdf), [Code](https://github.com/taoshen58/mtsa)
+1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Sen Wang and Chengqi Zhang, "***Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling***", International Joint Conferences on Artificial Intelligence (IJCAI), Stockholm, Sweden, 2018. [PDF](https://www.ijcai.org/Proceedings/2018/0604.pdf), [Code](https://github.com/taoshen58/ReSAN)
+1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang and Chengqi Zhang, "***Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling***", Sixth International Conference on Learning Representations (ICLR), Vancouver, BC, Canada, 2018. [PDF](https://openreview.net/pdf?id=H1cWzoxA-), [Code](https://github.com/taoshen58/BiBloSA)
+1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Shirui Pan and Chengqi Zhang, "***DiSAN: Directional self-attention network for rnn/cnn-free language understanding***", The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Louisiana, USA, 2018. (<span style="color:red"> *Most cited student's paper, 376 citations* </span>) [PDF](https://arxiv.org/pdf/1709.04696.pdf), [Code](https://github.com/taoshen58/DiSAN)
+
+* Meta-Learning
+1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Attribute Propagation Network for Graph Zero-shot Learning***", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5923/5779), [Code](https://github.com/liulu112601/), [Poster](https://liulu112601.github.io/resources/APNet-poster-tianyi.pdf)
+1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Learning to Propagate for Graph Meta-Learning***", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019. [PDF](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Supplemental.zip), [Code](https://github.com/liulu112601/Gated-Propagation-Net), [Poster](https://liulu112601.github.io/resources/Graph-Meta-Learning-Poster-revised.pdf), [Slides](https://liulu112601.github.io/resources/GPN-NeurIPS-Slides-revised.pdf)
+1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao and Chengqi Zhang, "***Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph***", International Joint Conferences on Artificial Intelligence (IJCAI), Macau, China, 2019. [PDF](https://www.ijcai.org/Proceedings/2019/0418.pdf), [Code](https://github.com/liulu112601/Prototype-Propagation-Networks)
+1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
+
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
@@ -105,6 +128,6 @@ Service
 
 Awards
 ======
-* 2020: IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award for: Tianyi Zhou and Dacheng Tao, "GoDec: Randomized Low-rank & Sparse Matrix Decomposition in Noisy Case", Twenty-Eighth International Conference on Machine Learning (ICML), Bellevue, WA, USA, 2011.
-* 2013: International Conference on Data Mining (ICDM) Best Student Paper Award for: Tianyi Zhou, Wei Bian, and Dacheng Tao, "Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions", IEEE International Conference on Data Mining (ICDM), Dallas, TX, USA, 2013. 
+* 2020: IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award for: Tianyi Zhou and Dacheng Tao, "***GoDec: Randomized Low-rank & Sparse Matrix Decomposition in Noisy Case***", Twenty-Eighth International Conference on Machine Learning (ICML), Bellevue, WA, USA, 2011.
+* 2013: International Conference on Data Mining (ICDM) Best Student Paper Award for: Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), Dallas, TX, USA, 2013. 
 * 2007: The Meritorious winner of Mathematical Contest in Modeling (MCM) of COMAP (Top 10% of teams).
