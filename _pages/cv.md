@@ -52,11 +52,11 @@ Work experience
   * Nanyang Technological University (NTU)
   * Supervisor: Prof. Dacheng Tao
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+<!-- Publications
+====== -->
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
