@@ -12,44 +12,44 @@ redirect_from:
 Education
 ======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
-* Ph.D. in Computer Science, University of Washington, 2013-present
-* B.Eng. in Automatic Control, Beijing Institute of Technology
+* Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/), 2013-present
+* B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/)
 
 Work experience
 ======
 * 2013-present: Research Assistant
-  * University of Washington
+  * [University of Washington](https://www.washington.edu/)
   * Supervisor: Prof. Jeff A. Bilmes
 
 * Spring 2019: Teaching Assistant
-  * University of Washington
+  * [University of Washington](https://www.washington.edu/)
   * ECE 596A Spring 2019: Advanced introduction to Neural Networks
   * Instructor: Prof. Jeff A. Bilmes
 
 * Winter 2019: Teaching Assistant
-  * University of Washington
+  * [University of Washington](https://www.washington.edu/)
   * ECE 596A Winter 2019: Advanced introduction to machine learning
   * Instructor: Prof. Jeff A. Bilmes
 
 * Winter 2014: Teaching Assistant
-  * University of Washington
-  * CSEP 546 Winter 2014: Data Mining/Machine Learning
+  * [University of Washington](https://www.washington.edu/)
+  * [CSEP 546 Winter 2014: Data Mining/Machine Learning](https://courses.cs.washington.edu/courses/csep546/14wi/)
   * Instructor: Prof. Carlos Guestrin
 
 * Summer 2015: Research Intern
-  * Yahoo! Labs, Sunnyvale
+  * [Yahoo! Labs, Sunnyvale](https://research.yahoo.com/)
   * Supervisor: Dr. Hua Ouyang and Prof. Yi Chang
 
 * Summer 2014: Research Intern
-  * Microsoft Research, Redmond
+  * [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/)
   * Supervisor: Dr. Lin Xiao
 
 * 2011-2013: Research Assistant
-  * University of Technology, Sydney (UTS)
+  * [University of Technology, Sydney (UTS)](https://www.uts.edu.au/)
   * Supervisor: Prof. Dacheng Tao
 
 * 2009-2011: Research Assistant
-  * Nanyang Technological University (NTU)
+  * [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx)
   * Supervisor: Prof. Dacheng Tao
 
 Selected Publications
