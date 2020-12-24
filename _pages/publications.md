@@ -56,12 +56,12 @@ author_profile: true
 
 ## Preprint
 -----
-1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "Conditional Self-Attention for Query-based Summarization", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
-1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf)
-1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "Semantic Triple Encoder for Fast Open-Set Link Prediction", arXiv: 2004.14781, 2020. [PDF](https://arxiv.org/pdf/2004.14781.pdf)
-1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "Multi-Center Federated Learning", arXiv: 2005.01026, 2020. [PDF](https://arxiv.org/pdf/2005.01026.pdf)
-1. Tianyi Zhou and Jeff A. Bilmes, "Stream Clipper: Scalable Submodular Maximization on Stream", arXiv: 1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389.pdf)
-1. Tianyi Zhou and Dacheng Tao, "Hamming Compressed Sensing", arxiv: 1110.0073, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1110/1110.0073v2.pdf)
+1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "***Conditional Self-Attention for Query-based Summarization***", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
+1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "***Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline***", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf)
+1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "***Semantic Triple Encoder for Fast Open-Set Link Prediction***", arXiv: 2004.14781, 2020. [PDF](https://arxiv.org/pdf/2004.14781.pdf)
+1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning***", arXiv: 2005.01026, 2020. [PDF](https://arxiv.org/pdf/2005.01026.pdf)
+1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv: 1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Hamming Compressed Sensing***", arxiv: 1110.0073, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1110/1110.0073v2.pdf)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
