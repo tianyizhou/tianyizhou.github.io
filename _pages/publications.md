@@ -50,17 +50,18 @@ Journal
 1. Meng Fang, Tianyi Zhou, Jie Yin, Wang Yang, and Dacheng Tao, "Data Subset Selection with Imperfect Multiple Labels", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2018.
 1. Dongjin Song, Wei Liu, Tianyi Zhou, Dacheng Tao, and David A Meyer,"Efficient Robust Conditional Random Fields", IEEE Transactions on Image Processing (T-IP), 24(10): 3124-3136, 2015.
 1. Wei Bian, Tianyi Zhou, Aleix M. Martinez, George Baciu and Dacheng Tao, "Minimizing Nearest Neighbor Classification Error for Nonparametric Dimension Reduction", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 25(8): 1588-1594, 2014.
-1. Tianyi Zhou and Dacheng Tao, "Double Shrinking for Sparse Learning", IEEE Transactions on Image Processing (T-IP), 22(1): 244-257, 2013.
-1. Tianyi Zhou, Dacheng Tao and Xindong Wu,"Compressed Labeling on Distilled Labelsets for Multi-label Learning", Machine Learning (Springer) (MLJ) 88(1-2): 69-126, 2012.
-1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "Manifold elastic net: a unified framework for sparse dimension reduction", Data Mining and Knowledge Discovery (Springer) (DMKD) 22(3): 340-371, 2011.
+1. Tianyi Zhou and Dacheng Tao, "Double Shrinking for Sparse Learning", IEEE Transactions on Image Processing (T-IP), 22(1): 244-257, 2013. [PDF](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu,"Compressed Labeling on Distilled Labelsets for Multi-label Learning", Machine Learning (Springer) (MLJ) 88(1-2): 69-126, 2012. [PDF](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf)
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "Manifold elastic net: a unified framework for sparse dimension reduction", Data Mining and Knowledge Discovery (Springer) (DMKD) 22(3): 340-371, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
 
 Preprint
 ======
-1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "Conditional Self-Attention for Query-based Summarization", arXiv: 2002.07338, 2020.
-1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline", arXiv: 2002.10061, 2020.
-1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "Semantic Triple Encoder for Fast Open-Set Link Prediction", arXiv: 2004.14781, 2020.
-1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "Multi-Center Federated Learning", arXiv: 2005.01026, 2020.
-1. Tianyi Zhou and Jeff A. Bilmes, "Stream Clipper: Scalable Submodular Maximization on Stream", arXiv: 1606.00389, 2016.
+1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "Conditional Self-Attention for Query-based Summarization", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
+1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf)
+1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "Semantic Triple Encoder for Fast Open-Set Link Prediction", arXiv: 2004.14781, 2020. [PDF](https://arxiv.org/pdf/2004.14781.pdf)
+1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "Multi-Center Federated Learning", arXiv: 2005.01026, 2020. [PDF](https://arxiv.org/pdf/2005.01026.pdf)
+1. Tianyi Zhou and Jeff A. Bilmes, "Stream Clipper: Scalable Submodular Maximization on Stream", arXiv: 1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389.pdf)
+1. Tianyi Zhou and Dacheng Tao, "Hamming Compressed Sensing", arxiv: 1110.0073, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1110/1110.0073v2.pdf)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
