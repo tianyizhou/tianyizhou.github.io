@@ -3,9 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-<!-- redirect_from: 
-  - /publications/ -->
-<!--   - /publications.html -->
+redirect_from: 
+  <!-- - /publications/ -->
+  - /publications.html
 ---
 
 {% include base_path %}
@@ -63,9 +63,9 @@ Preprint
 1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "Multi-Center Federated Learning", arXiv: 2005.01026, 2020.
 1. Tianyi Zhou and Jeff A. Bilmes, "Stream Clipper: Scalable Submodular Maximization on Stream", arXiv: 1606.00389, 2016.
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
