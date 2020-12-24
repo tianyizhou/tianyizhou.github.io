@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Conference
+## Conference
 ======
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning with Dynamic Instance Hardness***", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf), [Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf), [Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf), [Code](https://github.com/tianyizhou/DIHCL)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Time-Consistent Self-Supervision for Semi-Supervised Learning***", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf), [Slides+Talk](https://icml.cc/virtual/2020/poster/6671)
@@ -44,7 +44,7 @@ author_profile: true
 1. Tianyi Zhou and Dacheng Tao, "***Backward-Forward Least Angle Shrinkage for Sparse Quadratic Optimization***", International Conference on Neural Information Processing (ICONIP), pp. 388-396, Sydney, Australia, 2010. [PDF](https://tianyizhou.files.wordpress.com/2010/08/bflas2.pdf)
 1. Tianyi Zhou and Dacheng Tao, "***Manifold elastic net for sparse learning***", IEEE International conference on Systems, Man and Cybernetics (SMC), pp. 3699-3704, San Antonio, Texas, USA, 2009. [PDF](https://tianyizhou.files.wordpress.com/2010/08/smc2009.pdf)
 
-##Journal
+## Journal
 ======
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
 1. Meng Fang, Tianyi Zhou, Jie Yin, Wang Yang, and Dacheng Tao, "***Data Subset Selection with Imperfect Multiple Labels***", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2018.
@@ -54,7 +54,7 @@ author_profile: true
 1. Tianyi Zhou, Dacheng Tao and Xindong Wu,"***Compressed Labeling on Distilled Labelsets for Multi-label Learning***", Machine Learning (Springer) (MLJ) 88(1-2): 69-126, 2012. [PDF](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf)
 1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "***Manifold elastic net: a unified framework for sparse dimension reduction***", Data Mining and Knowledge Discovery (Springer) (DMKD) 22(3): 340-371, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
 
-##Preprint
+## Preprint
 ======
 1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "Conditional Self-Attention for Query-based Summarization", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
 1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf)
