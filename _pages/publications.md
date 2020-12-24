@@ -3,15 +3,15 @@ layout: archive
 title: "Publications"
 permalink: /
 author_profile: true
-redirect_from: 
+<!-- redirect_from: 
   - /publications/
-  - /publications.html
+  - /publications.html -->
 ---
 
 Conference
 ------
-1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf)|[Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf)|[Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf)|[Code](https://github.com/tianyizhou/DIHCL)
-1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)|[Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf)|[Slides](https://icml.cc/virtual/2020/poster/6671)
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf), [Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf), [Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf), [Code](https://github.com/tianyizhou/DIHCL)
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf), [Slides+Talk](https://icml.cc/virtual/2020/poster/6671)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "Attribute Propagation Network for Graph Zero-shot Learning", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
 1. Yang Li, Tao Shen, Guodong Long, Jing Jiang, Tianyi Zhou, Chengqi Zhang, "Improving Long-Tail Relation Extraction with Collaborating Relation-Augmented Attention", The 28th International Conference on Computational Linguistics (COLING), 2020.
 1. Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo and Jing Jiang, "Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
