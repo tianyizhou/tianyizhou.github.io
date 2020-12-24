@@ -10,15 +10,15 @@ redirect_from:
 
 Conference
 ------
-1. Tianyi Zhou*, Shengjie Wang*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020.
-1. Yang Li, Tao Shen, Guodong Long, Jing Jiang, Tianyi Zhou, Chengqi Zhang, "Improving Long-Tail Relation Extraction with Collaborating Relation-Augmented Attention", The 28th International Conference on Computational Linguistics (COLING), 2020.
-1. Tianyi Zhou*, Shengjie Wang*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020.
+1. Tianyi Zhou<sup>*</sup>, Shengjie Wang\*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020.
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020.
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "Attribute Propagation Network for Graph Zero-shot Learning", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
+1. Yang Li, Tao Shen, Guodong Long, Jing Jiang, Tianyi Zhou, Chengqi Zhang, "Improving Long-Tail Relation Extraction with Collaborating Relation-Augmented Attention", The 28th International Conference on Computational Linguistics (COLING), 2020.
 1. Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo and Jing Jiang, "Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
-1. Meng Fang*, Tianyi Zhou*, Yali Du, Lei Han, and Zhengyou Zhang, "Curriculum-guided Hindsight Experience Replay", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019.
+1. Meng Fang, Tianyi Zhou, Yali Du, Lei Han, and Zhengyou Zhang, "Curriculum-guided Hindsight Experience Replay", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019.
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "Learning to Propagate for Graph Meta-Learning", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019.
-1. Tianyi Zhou*, Shengjie Wang*, and Jeff A. Bilmes, "Jumpout: Improved Dropout for Deep Neural Networks with Rectified Linear Units", International Conference on Machine Learning (ICML), Long Beach, CA, 2019.
-1. Tianyi Zhou*, Shengjie Wang*, and Jeff A. Bilmes, "Bias Also Matters: Bias Attribution for Deep Neural Network Explanation", International Conference on Machine Learning (ICML), Long Beach, CA, 2019.
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Jumpout: Improved Dropout for Deep Neural Networks with Rectified Linear Units", International Conference on Machine Learning (ICML), Long Beach, CA, 2019.
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Bias Also Matters: Bias Attribution for Deep Neural Network Explanation", International Conference on Machine Learning (ICML), Long Beach, CA, 2019.
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao and Chengqi Zhang, "Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph", International Joint Conferences on Artificial Intelligence (IJCAI), Macau, China, 2019.
 1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang and Chengqi Zhang, "Tensorized Self-Attention: Efficiently Modeling Pairwise and Global Dependencies Together", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019.
 1. Tianyi Zhou, Shengjie Wang, and Jeff A. Bilmes, "Diverse Ensemble Evolution: Curriculum Data-Model Marriage", Advances in Neural Information Processing Systems 32 (NeurIPS), Montreal, QC, Canada, 2018.
