@@ -1,8 +1,11 @@
 ---
 layout: archive
 title: "Publications"
-<!-- permalink: /publications/ -->
+permalink: /
 author_profile: true
+edirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 Conference
