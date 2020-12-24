@@ -77,6 +77,22 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao and Chengqi Zhang, "***Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph***", International Joint Conferences on Artificial Intelligence (IJCAI), Macau, China, 2019. [PDF](https://www.ijcai.org/Proceedings/2019/0418.pdf), [Code](https://github.com/liulu112601/Prototype-Propagation-Networks)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
 
+* Matrix Factorization
+1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Shifted Subspaces Tracking on Sparse Outlier for Motion Segmentation***", International Joint Conferences on Artificial Intelligence (IJCAI), Beijing, China, 2013. [PDF](https://tianyizhou.files.wordpress.com/2010/08/278.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Greedy Bilateral Sketch, Completion & Smoothing***", International Conference on Artificial Intelligence and Statistics (AISTATS), Journal of Machine Learning Research - Proceedings Track, Scottsdale, Arizona, USA, 2013. [PDF](http://proceedings.mlr.press/v31/zhou13b.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Multi-label Subspace Ensemble***", International Conference on Artificial Intelligence and Statistics (AISTATS), Journal of Machine Learning Research - Proceedings Track 22: 1444-1452, La Palma, Canary Islands, Spain, 2012. [PDF](http://proceedings.mlr.press/v22/zhou12a/zhou12a.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Bilateral Random Projections***", IEEE International Symposium on Information Theory (ISIT), MIT, Boston, USA, 2012. [PDF](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***GoDec: Randomized Low-rank & Sparse Matrix Decomposition in Noisy Case***", Twenty-Eighth International Conference on Machine Learning (ICML), Bellevue, WA, USA, 2011. (<span style="color:red"> *IEEE TCSC Most Influential Paper Award, Most cited first-author paper, 567 citations* </span>) [PDF](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [Code](http://sites.google.com/site/godecomposition/code), [Demo Videos](https://sites.google.com/site/godecomposition/overview), [Talk](http://techtalks.tv/talks/54296/)
+
+* Compressed Sensing, Sparse Manifold Learning
+1. Tianyi Zhou and Dacheng Tao, "***k-bit Hamming Compressed Sensing***", IEEE International Symposium on Information Theory (ISIT), Istanbul, Turkey, 2013. [PDF](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***1-bit Hamming Compressed Sensing***", IEEE International Symposium on Information Theory (ISIT), MIT, Boston, USA, 2012. [PDF](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf)
+1. Tianyi Zhou and Dacheng Tao, "***Double Shrinking for Sparse Learning***", IEEE Transactions on Image Processing (T-IP), 22(1): 244-257, 2013. [PDF](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu,"***Compressed Labeling on Distilled Labelsets for Multi-label Learning***", Machine Learning (Springer) (MLJ) 88(1-2): 69-126, 2012. [PDF](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf)
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "***Manifold elastic net: a unified framework for sparse dimension reduction***", Data Mining and Knowledge Discovery (Springer) (DMKD) 22(3): 340-371, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
+
+
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
