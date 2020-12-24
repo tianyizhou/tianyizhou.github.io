@@ -10,8 +10,8 @@ redirect_from:
 
 Conference
 ------
-1. Tianyi Zhou<sup>*</sup>, Shengjie Wang\*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020.
-1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020.
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Curriculum Learning with Dynamic Instance Hardness", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf)|[Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf)|[Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf)|[Code](https://github.com/tianyizhou/DIHCL)
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "Time-Consistent Self-Supervision for Semi-Supervised Learning", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)|[Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf)|[Slides](https://icml.cc/virtual/2020/poster/6671)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "Attribute Propagation Network for Graph Zero-shot Learning", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
 1. Yang Li, Tao Shen, Guodong Long, Jing Jiang, Tianyi Zhou, Chengqi Zhang, "Improving Long-Tail Relation Extraction with Collaborating Relation-Augmented Attention", The 28th International Conference on Computational Linguistics (COLING), 2020.
 1. Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo and Jing Jiang, "Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020.
@@ -42,6 +42,24 @@ Conference
 1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "NESVM: a Fast Gradient Method for Support Vector Machines", IEEE International Conference on Data Mining (ICDM), pp. 679-688, Sydney, Australia, 2010.
 1. Tianyi Zhou and Dacheng Tao, "Backward-Forward Least Angle Shrinkage for Sparse Quadratic Optimization", International Conference on Neural Information Processing (ICONIP), pp. 388-396, Sydney, Australia, 2010.
 1. Tianyi Zhou and Dacheng Tao, "Manifold elastic net for sparse learning", IEEE International conference on Systems, Man and Cybernetics (SMC), pp. 3699-3704, San Antonio, Texas, USA, 2009.
+
+Journal
+------
+1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. 
+1. Meng Fang, Tianyi Zhou, Jie Yin, Wang Yang, and Dacheng Tao, "Data Subset Selection with Imperfect Multiple Labels", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2018.
+1. Dongjin Song, Wei Liu, Tianyi Zhou, Dacheng Tao, and David A Meyer,"Efficient Robust Conditional Random Fields", IEEE Transactions on Image Processing (T-IP), 24(10): 3124-3136, 2015.
+1. Wei Bian, Tianyi Zhou, Aleix M. Martinez, George Baciu and Dacheng Tao, "Minimizing Nearest Neighbor Classification Error for Nonparametric Dimension Reduction", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 25(8): 1588-1594, 2014.
+1. Tianyi Zhou and Dacheng Tao, "Double Shrinking for Sparse Learning", IEEE Transactions on Image Processing (T-IP), 22(1): 244-257, 2013.
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu,"Compressed Labeling on Distilled Labelsets for Multi-label Learning", Machine Learning (Springer) (MLJ) 88(1-2): 69-126, 2012.
+1. Tianyi Zhou, Dacheng Tao and Xindong Wu, "Manifold elastic net: a unified framework for sparse dimension reduction", Data Mining and Knowledge Discovery (Springer) (DMKD) 22(3): 340-371, 2011.
+
+Preprint
+------
+1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "Conditional Self-Attention for Query-based Summarization", arXiv:  2002.07338, 2020.
+1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline", arXiv: 2002.10061, 2020.
+1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "Semantic Triple Encoder for Fast Open-Set Link Prediction", arXiv: 2004.14781, 2020.
+1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "Multi-Center Federated Learning", arXiv: 2005.01026, 2020.
+1. Tianyi Zhou and Jeff A. Bilmes, "Stream Clipper: Scalable Submodular Maximization on Stream", arXiv: 1606.00389, 2016.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
