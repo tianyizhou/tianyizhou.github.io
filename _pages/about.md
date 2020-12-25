@@ -41,7 +41,9 @@ News
 * 2020/09: One paper has been accepted to NeurIPS 2020.
 * 2020/06: One paper has been accepted to ICML 2020.
 
+<br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="10"></script>
+<br />
 
 <!-- Getting started
 ======
