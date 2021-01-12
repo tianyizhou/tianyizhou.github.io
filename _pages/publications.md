@@ -59,6 +59,7 @@ author_profile: true
 
 ## Preprint
 -----
+1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang and Chengqi Zhang, "***Extract Local Inference Chains of Deep Neural Nets***", 2021. [PDF](https://openreview.net/pdf?id=M71R_ivbTQP)
 1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "***Conditional Self-Attention for Query-based Summarization***", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
 1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "***Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline***", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf)
 1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "***Semantic Triple Encoder for Fast Open-Set Link Prediction***", arXiv: 2004.14781, 2020. [PDF](https://arxiv.org/pdf/2004.14781.pdf)
