@@ -38,10 +38,10 @@ My Research
 
 News
 ------
-* 2021/01: Three papers have been accepted to ICLR 2021.
-* 2021/01: One paper has been accepted to WWW 2021.
-* 2020/09: One paper has been accepted to NeurIPS 2020.
-* 2020/06: One paper has been accepted to ICML 2020.
+* 2021/01: Three papers have been accepted to [ICLR 2021](https://iclr.cc/).
+* 2021/01: One paper has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
+* 2020/09: One paper has been accepted to [NeurIPS 2020](https://nips.cc/).
+* 2020/06: One paper has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
