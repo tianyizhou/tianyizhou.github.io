@@ -40,6 +40,7 @@ News
 ------
 * 2021/01: Three papers have been accepted to [ICLR 2021](https://iclr.cc/).
 * 2021/01: One paper has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
+* 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
 * 2020/09: One paper has been accepted to [NeurIPS 2020](https://nips.cc/).
 * 2020/06: One paper has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
