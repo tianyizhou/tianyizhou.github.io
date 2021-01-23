@@ -57,6 +57,7 @@ Selected Publications
 A full list of publications can be found [here](https://tianyizhou.github.io/publications/).
 
 * Curriculum Learning, Learning by Selection
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Robust Curriculum Learning: from clean label detection to noisy label self-correction***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=lmTWnm3coJJ)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning with Dynamic Instance Hardness***", Advances in Neural Information Processing Systems 34 (NeurIPS), 2020. [PDF](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf), [Appendix](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_appendix.pdf), [Slides](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_slides.pdf), [Code](https://github.com/tianyizhou/DIHCL)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Time-Consistent Self-Supervision for Semi-Supervised Learning***", International Conference on Machine Learning (ICML), 2020. [PDF](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Appendix](http://proceedings.mlr.press/v119/zhou20d/zhou20d-supp.pdf), [Slides+Talk](https://icml.cc/virtual/2020/poster/6671)
