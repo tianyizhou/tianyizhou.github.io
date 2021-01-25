@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyi Zhou (周天翼)"
 title_separator          : "-"
 name                     : &name "Tianyi Zhou"
-description              : &description "Machine Learning PhD Candidate at University of Washington"
+description              : &description "Machine Learning Ph.D. Candidate at University of Washington"
 url                      : https://tianyizhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianyizhou/tianyizhou.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyi Zhou"
-  avatar           : "tianyi.png"
+  avatar           : "Tianyi_ZHOU.jpg"
   bio              : "Ph.D. student at Paul G. Allen School of Computer Science & Engineering, University of Washington."
   location         : "Seattle, WA, USA"
   employer         :
