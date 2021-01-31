@@ -69,6 +69,10 @@ author_profile: true
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv: 1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389.pdf)
 1. Tianyi Zhou and Dacheng Tao, "***Hamming Compressed Sensing***", arxiv: 1110.0073, 2011. [PDF](http://arxiv.org/PS_cache/arxiv/pdf/1110/1110.0073v2.pdf)
 
+## Misc
+-----
+1. "***Contextual Bandits: From EXP3 to EXP4***", Lecture notes for Online Learning (CSE599s, University of Washington), 2014. [PDF](https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture10/lecture10_draft.pdf)
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
