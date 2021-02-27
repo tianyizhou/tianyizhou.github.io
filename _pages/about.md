@@ -24,12 +24,12 @@ My Research
   1. Training Dynamics and Geometry of Neural Networks
   1. Continuous-discrete Optimization, Submodular Optimization
   1. Spectral Method for Matrix Factorization and Graphical Models
-  1. Matrix Factorization: Low-rank Approximation, Robust PCA, NMF
+  1. Matrix and Tensor: Low-rank Approximation, Completion, Robust PCA, NMF
   1. Compressed Sensing, Sparse Learning
   1. Dimension Reduction, Manifold Learning
 
 * Natural Language Processing
-  1. Attention Models
+  1. Attention mechanism design (for the tasks below)
   1. Natural Language Inference
   1. Semantic Role Labeling
   1. Link Prediction in Knowledge Graphs
