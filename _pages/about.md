@@ -16,25 +16,26 @@ My Research
 ------
 * Machine Learning
   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
-  1. Self-supervised/Semi-supervised Learning
-  1. Reinforcement Learning 
-  1. Collaborative Learning, Ensemble Method
-  1. Robust Learning on Noisy Data
-  1. Meta-Learning, Few-shot/Zero-shot Learning
-  1. Training Dynamics and Geometry of Neural Networks
-  1. Continuous-discrete Optimization, Submodular Optimization
-  1. Spectral Method for Matrix Factorization and Graphical Models
-  1. Matrix and Tensor: Low-rank Approximation, Completion, Robust PCA, NMF
-  1. Compressed Sensing, Sparse Learning
-  1. Dimension Reduction, Manifold Learning
+  1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
+  1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
+  1. Collaborative Learning, [Ensemble Method](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
+  1. [Robust Learning on Noisy Data](https://openreview.net/pdf?id=lmTWnm3coJJ)
+  1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), Few-shot/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
+  1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
+  1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
+  1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
+  1. Matrix and Tensor: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
+  1. Compressed Sensing ([1-bit](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf) and [k-bit](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf) measurements), [Sparse Learning](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
+  1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
+  <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
 
 * Natural Language Processing
   1. Attention mechanism design (for the tasks below)
-  1. Natural Language Inference
-  1. Semantic Role Labeling
-  1. Link Prediction in Knowledge Graphs
-  1. Text Classification
-  1. Summarization
+  1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
+  1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
+  1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
+  1. [Text Classification](https://openreview.net/pdf?id=H1cWzoxA-)
+  1. [Summarization](https://arxiv.org/pdf/2002.07338.pdf)
 
 News
 ------
