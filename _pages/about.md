@@ -20,7 +20,7 @@ My Research
   1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
   1. Collaborative Learning, [Ensemble Method](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
   1. [Robust Learning on Noisy Data](https://openreview.net/pdf?id=lmTWnm3coJJ)
-  1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), Few-shot/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
+  1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [Few-shot](https://www.ijcai.org/Proceedings/2019/0418.pdf)/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
   1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
   1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
   1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
@@ -30,7 +30,7 @@ My Research
   <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
 
 * Natural Language Processing
-  1. Attention mechanism design (for the tasks below)
+  1. Attention mechanisms (for the tasks below)
   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
   1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
   1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
