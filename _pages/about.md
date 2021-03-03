@@ -39,11 +39,11 @@ My Research
 News
 ------
 * 2021/01: One paper has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
-* 2021/01: Three papers have been accepted to [ICLR 2021](https://iclr.cc/).
-* 2021/01: One paper has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
+* 2021/01: Three papers ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
+* 2021/01: [One paper](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
 * 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
-* 2020/09: One paper has been accepted to [NeurIPS 2020](https://nips.cc/).
-* 2020/06: One paper has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
+* 2020/09: [One paper](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
+* 2020/06: [One paper](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
