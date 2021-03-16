@@ -16,7 +16,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 My Research
 ------
-* Machine Learning (2009-present)
+* Machine Learning (2008-present)
   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
   1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
   1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
