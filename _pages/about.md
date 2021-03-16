@@ -42,7 +42,7 @@ My Research
 News
 ------
 * 2021/02: Selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
-* 2021/01: One paper has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
+* 2021/01: [One paper](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
 * 2021/01: Three papers ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
 * 2021/01: [One paper](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
 * 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
