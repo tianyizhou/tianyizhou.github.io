@@ -16,7 +16,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 My Research
 ------
-* Machine Learning
+* Machine Learning (since 2009)
   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
   1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
   1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
@@ -31,7 +31,7 @@ My Research
   1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
   <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
 
-* Natural Language Processing
+* Natural Language Processing (since 2016)
   1. Attention mechanisms (for the tasks below)
   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
   1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
