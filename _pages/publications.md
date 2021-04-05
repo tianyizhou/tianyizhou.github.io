@@ -9,9 +9,11 @@ author_profile: true
 
 {% include base_path %}
 
+A more organized list of (selected) publications can be found [here](https://tianyizhou.github.io/cv/).
+
 ## Conference
 -----
-1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing)
+1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Robust Curriculum Learning: from clean label detection to noisy label self-correction***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=lmTWnm3coJJ)
 1. Yuchen Jin, Tianyi Zhou, Liangyu Zhao, Yibo Zhu, Chuanxiong Guo, Marco Canini and Arvind Krishnamurthy, "***AutoLRS: Automatic Learning-Rate Schedule by Bayesian Optimization on the Fly***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=SlrqM9_lyju)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong and Chengqi Zhang, "***Isometric Propagation Network for Generalized Zero-shot Learning***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=-mWcQVLPSPy)
