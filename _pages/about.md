@@ -41,6 +41,8 @@ My Research
 
 News
 ------
+* 2021/09: Three papers (1 spotlight, 2 posters) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
+* 2021/09: [One paper](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
 * 2021/08: I will serve as an area chair (SPC) for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
 * 2021/01: [One paper](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
