@@ -7,12 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/). I am a member of [MELODI lab](https://melodi.ece.uw.edu/), advised by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). <span style="color:red">I will be joining University of Maryland, College Park as a tenure-track assistant professor at the Department of Computer Science and affiliated with UMIACS in 2022.</span> My research interests are in machine learning, optimization, and natural language processing. I have published [~50 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, NAACL, COLING, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP, IEEE TNNLS, IEEE TKDE, etc. I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf).
+I am a Ph.D. student in [Computer Science](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/) and a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). <span style="color:red">I will be joining University of Maryland, College Park as a tenure-track assistant professor at the Department of Computer Science and affiliated with UMIACS in 2022.</span> My research interests are in machine learning, optimization, and natural language processing. I have published [~60 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, EMNLP, NAACL, COLING, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP/TNNLS/TKDE, etc. I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf).
 
-My recent works study how, why, and when to translate human learning strategies (e.g., curriculum, retention, sub-tasking, curiosity, exemplar learning, collaborative learning, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant or distributed data, with extrapolation to varying tasks and environments), via empirical and theoretical analysis to the training dynamics of neural networks, using mathematical tools of discrete and continuous optimization. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence from coevolution between human and machine. 
+My recent works study how, why, and when to translate human learning strategies (e.g., curriculum, retention, sub-tasking, curiosity, exemplar learning, collaborative learning, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant or distributed data, extrapolation to unseen tasks/environments). Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine. A list of my research topics can be found below.
 
-I have been a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx), supervised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (University of Sydney). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), supervised by [Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), supervised by [Lin Xiao](https://linxiaolx.github.io/) (Facebook AI Research). I also work closely with several members and students of [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
-<!-- My collaborators also include members from [Chengqi Zhang](https://profiles.uts.edu.au/Chengqi.Zhang) and [Guodong Long](https://profiles.uts.edu.au/Guodong.Long)'s groups in [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute) at University of Technology, Sydney, and [Meng Fang](https://mengf1.github.io/) at Tencent AI Lab. -->
+I have been a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx), supervised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (University of Sydney). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), supervised by [Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), supervised by [Lin Xiao](https://linxiaolx.github.io/) (Facebook AI Research). I also work closely with several members and students of [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute).
+<!--  and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) My collaborators also include members from [Chengqi Zhang](https://profiles.uts.edu.au/Chengqi.Zhang) and [Guodong Long](https://profiles.uts.edu.au/Guodong.Long)'s groups in [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute) at University of Technology, Sydney, and [Meng Fang](https://mengf1.github.io/) at Tencent AI Lab. -->
+
+News
+------
+* 2021/09: Three papers (1 spotlight, 2 posters) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
+* 2021/09: [One paper](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
+* 2021/08: I will serve as an area chair (SPC) for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
+* 2021/01: [One paper](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
+* 2021/01: Three papers ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
+* 2021/01: [One paper](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
+* 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
+* 2020/09: [One paper](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
+* 2020/06: [One paper](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
 My Research
 ------
@@ -38,19 +51,6 @@ My Research
   1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
   1. [Text Classification](https://openreview.net/pdf?id=H1cWzoxA-)
   1. [Summarization](https://arxiv.org/pdf/2002.07338.pdf)
-
-News
-------
-* 2021/09: Three papers (1 spotlight, 2 posters) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
-* 2021/09: [One paper](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
-* 2021/08: I will serve as an area chair (SPC) for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
-* 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
-* 2021/01: [One paper](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
-* 2021/01: Three papers ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
-* 2021/01: [One paper](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
-* 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
-* 2020/09: [One paper](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
-* 2020/06: [One paper](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
