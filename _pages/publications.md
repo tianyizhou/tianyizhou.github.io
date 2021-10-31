@@ -13,7 +13,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
-1. Tianyi Zhou\*, Shengjie Wang\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021.
+1. Tianyi Zhou\*, Shengjie Wang\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. (<span style="color:red"> *Spotlight* </span>)
 1. Shuang Ao, Tianyi Zhou\*, Guodong Long, Qinghua Lu, Liming Zhu, Jing Jiang, "***CO-PILOT: COllaborative Planning and reInforcement Learning On sub-Task curriculum***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021.
 1. Kaiwen Yang, Tianyi Zhou\*, Yonggang Zhang, Xinmei Tian, Dacheng Tao, "***Class-Disentanglement and Applications in Adversarial Detection and Defense***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021.
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf), [Slides](https://virtual.aistats.org/media/Slides/aistats/2021/virtual(14-19-45)-14-19-45UTC-1556-curriculum_lear.pdf), [Talk](https://virtual.aistats.org/virtual/2021/session/2042#sl-video-1556)
