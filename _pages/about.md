@@ -16,6 +16,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
+* 2021/12: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
 * 2021/09: Three papers (1 spotlight, 2 posters) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
 * 2021/09: [One paper](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
 * 2021/08: I will serve as an area chair (SPC) for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
