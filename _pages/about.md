@@ -16,10 +16,11 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
-* 2021/12: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
-* 2021/09: Three papers (1 spotlight, 2 posters) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
+* 2021/12: One AAAI paper of Federated Prototype Learning has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
+* 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
 * 2021/09: [One paper](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
-* 2021/08: I will serve as an area chair (SPC) for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2021/08: I will serve as an SPC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
 * 2021/01: [One paper](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
 * 2021/01: Three papers ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
