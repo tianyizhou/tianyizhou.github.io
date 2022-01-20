@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Computer Science](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/) and a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). <span style="color:red">I will be joining University of Maryland, College Park as a tenure-track assistant professor at the Department of Computer Science and affiliated with UMIACS in 2022.</span> My research interests are in machine learning, optimization, and natural language processing. I have published [~60 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, EMNLP, NAACL, COLING, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP/TNNLS/TKDE, etc. I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf).
+I am a Ph.D. student in [Computer Science](https://www.cs.washington.edu/) at [University of Washington](https://www.washington.edu/) and a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). <span style="color:red">I am a visiting research scientist at Google before joining University of Maryland, College Park as a tenure-track assistant professor at the Department of Computer Science and affiliated with UMIACS in 2022.</span> My research interests are in machine learning, optimization, and natural language processing. I have published [~60 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, EMNLP, NAACL, COLING, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP/TNNLS/TKDE, etc. I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf).
 
 My recent works study how, why, and when to translate human learning strategies (e.g., curriculum, retention, sub-tasking, curiosity, exemplar learning, collaborative learning, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant or distributed data, extrapolation to unseen tasks/environments). Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine. A list of my research topics can be found below.
 
@@ -16,7 +16,8 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
-* 2021/12: One paper of [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2022/01: Three papers (Pareto Policy Pool, Diverse Client Selection for Federated Learning, Omni-scale CNNs) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022)
+* 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
 * 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
 * 2021/09: [One paper of sentiment bias](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
@@ -41,13 +42,15 @@ My Research
   1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
   1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
   1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
-  1. Matrix and Tensor: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
+  1. Matrix and Tensor Factorization: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
   1. Compressed Sensing ([1-bit](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf) and [k-bit](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf) measurements), [Sparse Learning](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
   1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
   <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
 
 * Natural Language Processing (2016-present)
-  1. Attention mechanisms (for the tasks below)
+  1. Attention mechanisms
+  1. Bias of NLP models
+  1. Adversarial textual augmentation and generation
   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
   1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
   1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
