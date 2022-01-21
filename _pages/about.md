@@ -16,7 +16,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
-* 2022/01: Three papers (Pareto Policy Pool for Offline Model-based RL, Diverse Client Selection for Federated Learning, Omni-scale CNNs for Time Series) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
+* 2022/01: Three papers (Pareto Policy Pool for Model-based Offine RL, Diverse Client Selection for Federated Learning, Omni-scale CNNs for Time Series) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
 * 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
 * 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
