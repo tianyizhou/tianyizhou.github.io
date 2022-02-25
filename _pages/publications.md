@@ -13,6 +13,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Le Hou\*, Richard Yuanzhe Pang\*, Tianyi Zhou, Yuexin Wu, Xinying Song, Xiaodan Song, Denny Zhou, "***Token Dropping for Efficient BERT Pretraining***", Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 1. Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi, "***Pareto Policy Pool for Model-based Offline Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=OqcZu8JIIzS)
 1. Ravikumar Balakrishnan\*, Tian Li\*, Tianyi Zhou\*, Nageen Himayat, Virginia Smith, Jeff A. Bilmes, "***Diverse Client Selection for Federated Learning via Submodular Maximization***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=nwKXyFvaUm)
 1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Michael Blumenstein, Jing Jiang, "***Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=PDYs7Z2XFGv)
