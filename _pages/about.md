@@ -16,8 +16,8 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
-* 2022/03: One paper (Learning to Collaborate in Decentralized Learning of Personalized Models) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)
-* 2022/02: One paper (Token Dropping for Efficient BERT Pretraining) has been accepted by [ACL 2022](https://www.2022.aclweb.org/)
+* 2022/03: One paper (Learning to Collaborate in Decentralized Learning of Personalized Models) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
+* 2022/02: One paper (Token Dropping for Efficient BERT Pretraining) has been accepted by [ACL 2022](https://www.2022.aclweb.org/).
 * 2022/01: Three papers ([Pareto Policy Pool for Model-based Offline RL](https://openreview.net/pdf?id=OqcZu8JIIzS), [Diverse Client Selection for Federated Learning](https://openreview.net/pdf?id=nwKXyFvaUm), [Omni-scale CNNs for Time Series](https://openreview.net/pdf?id=PDYs7Z2XFGv)) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
 * 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
