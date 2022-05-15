@@ -13,6 +13,10 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022.
+1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022.
+1. Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang, "***Personalized Federated Learning With Structural Information***", International Joint Conference on Artificial Intelligence (IJCAI), 2022. (long presentation)
+1. Yibin Lei, Yu Cao, Dianqi Li, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Phrase-level Textual Adversarial Attack with Label Preservation***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL Findings), 2022.
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 1. Le Hou\*, Richard Yuanzhe Pang\*, Tianyi Zhou, Yuexin Wu, Xinying Song, Xiaodan Song, Denny Zhou, "***Token Dropping for Efficient BERT Pretraining***", Annual Meeting of the Association for Computational Linguistics (ACL), 2022. [PDF](https://arxiv.org/pdf/2203.13240.pdf)
 1. Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi, "***Pareto Policy Pool for Model-based Offline Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=OqcZu8JIIzS)
