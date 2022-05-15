@@ -16,7 +16,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 
 News
 ------
-* 2022/05: Two papers about environment and task-curriculum for reinforcement learning and adversarial augmentation for self-supervised learning have been accpeted by [ICML 2022](https://icml.cc/).
+* 2022/05: Two papers about environment-and-task-curriculum for reinforcement learning and adversarial augmentation for self-supervised learning have been accpeted by [ICML 2022](https://icml.cc/).
 * 2022/04: One paper about personalized federated learning has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
 * 2022/04: One paper about phrase-level textual adversarial attack has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.   
 * 2022/03: One paper (Learning to Collaborate in Decentralized Learning of Personalized Models) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
