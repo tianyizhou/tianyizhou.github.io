@@ -18,9 +18,9 @@ News
 ------
 * 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
 * 2022/05: Two papers about environment-and-task-curriculum for RL and adversarial augmentation for self-supervised learning have been accpeted by [ICML 2022](https://icml.cc/).
-* 2022/04: One paper about personalized federated learning has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
-* 2022/04: One paper about phrase-level textual adversarial attack has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.  
-* 2022/03: One paper (Learning to Collaborate in Decentralized Learning of Personalized Models) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
+* 2022/04: One paper about [personalized federated learning](https://arxiv.org/pdf/2203.00829.pdf) has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
+* 2022/04: One paper of [phrase-level textual adversarial attack with label preservation](https://arxiv.org/pdf/2205.10710.pdf) has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.  
+* 2022/03: One paper ([Learning to Collaborate in Decentralized Learning of Personalized Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
 * 2022/02: One paper ([Token Dropping for Efficient BERT Pretraining](https://arxiv.org/pdf/2203.13240.pdf)) has been accepted by [ACL 2022](https://www.2022.aclweb.org/).
 * 2022/01: Three papers ([Pareto Policy Pool for Model-based Offline RL](https://openreview.net/pdf?id=OqcZu8JIIzS), [Diverse Client Selection for Federated Learning](https://openreview.net/pdf?id=nwKXyFvaUm), [Omni-scale CNNs for Time Series](https://openreview.net/pdf?id=PDYs7Z2XFGv)) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
 * 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
