@@ -17,7 +17,7 @@ I have been a research assistant at [University of Technology, Sydney (UTS)](htt
 News
 ------
 * 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
-* 2022/05: Two papers about environment-and-task-curriculum for RL and adversarial augmentation for self-supervised learning have been accpeted by [ICML 2022](https://icml.cc/).
+* 2022/05: Two papers about [environment-and-task-curriculum for RL](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf) and [adversarial augmentation for self-supervised learning](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) have been accpeted by [ICML 2022](https://icml.cc/).
 * 2022/04: One paper about [personalized federated learning](https://arxiv.org/pdf/2203.00829.pdf) has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
 * 2022/04: One paper of [phrase-level textual adversarial attack with label preservation](https://arxiv.org/pdf/2205.10710.pdf) has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.  
 * 2022/03: One paper ([Learning to Collaborate in Decentralized Learning of Personalized Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).

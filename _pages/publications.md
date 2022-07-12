@@ -13,8 +13,8 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
-1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022.
-1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022.
+1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
+1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf)
 1. Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang, "***Personalized Federated Learning With Structural Information***", International Joint Conference on Artificial Intelligence (IJCAI), 2022. (long presentation) [PDF](https://arxiv.org/pdf/2203.00829.pdf)
 1. Yibin Lei, Yu Cao, Dianqi Li, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Phrase-level Textual Adversarial Attack with Label Preservation***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL Findings), 2022. [PDF](https://arxiv.org/pdf/2205.10710.pdf)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)
