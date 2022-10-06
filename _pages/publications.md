@@ -13,6 +13,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Yu Cao, Dianqi Li, Meng Fang, Tianyi Zhou, Jun Gao, Yibing Zhan and Dacheng Tao, "***TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack***", The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
 1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
 1. Kaiwen Yang, Yanchao Sun, Jiahao Su, Fengxiang He, Xinmei Tian, Furong Huang, Tianyi Zhou, Dacheng Tao, "***Adversarial Auto-Augment with Label Preservation: A Representation Learning Principle Guided Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
@@ -72,7 +73,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Journal
 -----
-1. Ming Xie, Guodong Long, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
+1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
 1. Meng Fang, Tianyi Zhou, Jie Yin, Wang Yang, and Dacheng Tao, "***Data Subset Selection with Imperfect Multiple Labels***", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2018.
 1. Dongjin Song, Wei Liu, Tianyi Zhou, Dacheng Tao, and David A Meyer,"***Efficient Robust Conditional Random Fields***", IEEE Transactions on Image Processing (T-IP), 24(10): 3124-3136, 2015.

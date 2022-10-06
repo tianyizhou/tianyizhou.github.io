@@ -12,12 +12,19 @@ redirect_from:
 Education
 ======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
-* Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/), 2013-present
+* Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/)
 * B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/)
 
 Work experience
 ======
-* 2013-present: Research Assistant
+* 2022-present: Assistant Professor of Computer Science
+  * [University of Maryland](https://www.umd.edu/)
+  * Instructor of CMSC 421 Fall 2022: Introduction to Artificial Intelligence
+
+* 2021-2022: Visiting Research Scientist
+  * Google
+
+* 2013-2021: Research Assistant
   * [University of Washington](https://www.washington.edu/)
   * Supervisor: Prof. Jeff A. Bilmes
 
@@ -56,7 +63,7 @@ Selected Publications
 ======
 A full list of publications can be found [here](https://tianyizhou.github.io/publications/).
 
-* Curriculum Learning, Learning by Selection
+* Curriculum Learning
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Robust Curriculum Learning: from clean label detection to noisy label self-correction***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=lmTWnm3coJJ), [Slides](https://iclr.cc/media/Slides/iclr/2021/virtual(04-00-00)-04-00-00UTC-3000-robust_curricul.pdf)
@@ -76,6 +83,7 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)
 1. Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang, "***Personalized Federated Learning With Structural Information***", International Joint Conference on Artificial Intelligence (IJCAI), 2022. (long presentation) [PDF](https://arxiv.org/pdf/2203.00829.pdf)
 1. Yue Tan, Guodong Long, Lu Liu, Tianyi Zhou, Qinghua Lu, Jing Jiang, Chengqi Zhang, "***FedProto: Federated Prototype Learning across Heterogeneous Clients***", The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [PDF](https://arxiv.org/pdf/2105.00243.pdf), [Code](https://github.com/yuetan031/fedproto)
+1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
 
 
 * Auto-Augmentation and Data Synthesis
@@ -137,6 +145,10 @@ Teaching
   
 Service
 ======
+* Meta-Reviewer for
+  * WACV 2022
+  * AAAI 2021
+
 * Reviewer for 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
   * Journal of Machine Learning Research (JMLR)

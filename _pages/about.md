@@ -16,6 +16,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2022/10: One paper (adversarial attacks to Question-Answer models) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
 * 2022/09: Three papers (adversarial augmentation for continual learning, adversarial augmentation for representation learning, federated learning from pre-trained models) have been accepted by [NeurIPS 2022](https://neurips.cc/).
 * 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
 * 2022/05: Two papers about [environment-and-task-curriculum for RL](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf) and [adversarial augmentation for self-supervised learning](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) have been accpeted by [ICML 2022](https://icml.cc/).
