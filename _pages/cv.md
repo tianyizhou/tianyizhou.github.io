@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
-======
+<!-- Education -->
+<!-- ====== -->
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
-* Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/)
-* B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/) -->
+<!-- * Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/) -->
+<!-- * B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/) -->
 
 Work experience
 ======
