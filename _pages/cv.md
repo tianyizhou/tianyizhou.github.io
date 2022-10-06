@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
 * Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/)
-* B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/)
+* B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/) -->
 
 Work experience
 ======
@@ -92,6 +92,7 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf)
 
 * Natural Language Processing
+1. Yu Cao, Dianqi Li, Meng Fang, Tianyi Zhou, Jun Gao, Yibing Zhan, Dacheng Tao, "***TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack***", The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
 1. Le Hou\*, Richard Yuanzhe Pang\*, Tianyi Zhou, Yuexin Wu, Xinying Song, Xiaodan Song, Denny Zhou, "***Token Dropping for Efficient BERT Pretraining***", Annual Meeting of the Association for Computational Linguistics (ACL), 2022. [PDF](https://arxiv.org/pdf/2203.13240.pdf)
 1. Yibin Lei, Yu Cao, Dianqi Li, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Phrase-level Textual Adversarial Attack with Label Preservation***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL Findings), 2022. [PDF](https://arxiv.org/pdf/2205.10710.pdf)
 1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang, "***Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction***", The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2021. [PDF](https://aclanthology.org/2021.findings-emnlp.258.pdf)
