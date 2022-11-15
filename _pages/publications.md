@@ -73,6 +73,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Journal
 -----
+1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Extracting Local Reasoning Chains of Deep Neural Networks***", Transactions on Machine Learning Research (TMLR), 2022. [PDF](https://openreview.net/pdf?id=RP6G787uD8)
 1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
 1. Meng Fang, Tianyi Zhou, Jie Yin, Wang Yang, and Dacheng Tao, "***Data Subset Selection with Imperfect Multiple Labels***", IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2018.
