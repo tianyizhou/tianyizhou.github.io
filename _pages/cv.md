@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education -->
-<!-- ====== -->
+Education
+======
 <!-- * B.S. in Automatic Control, Beijing Institute of Technology, 2004-2008 -->
-<!-- * Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/) -->
-<!-- * B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/) -->
+* Ph.D. in Computer Science, [University of Washington](https://www.washington.edu/)
+* B.Eng. in Automatic Control, [Beijing Institute of Technology](https://english.bit.edu.cn/)
 
 Work experience
 ======
@@ -79,7 +79,7 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 
 * Federated and Decentralized Learning
 1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
-1. Ravikumar Balakrishnan\*, Tian Li\*, Tianyi Zhou\*, Nageen Himayat, Virginia Smith, Jeff A. Bilmes, "***Diverse Client Selection for Federated Learning via Submodular Maximization***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=nwKXyFvaUm)
+1. Ravikumar Balakrishnan\*, Tian Li\*, Tianyi Zhou\*, Nageen Himayat, Virginia Smith, Jeff A. Bilmes, "***Diverse Client Selection for Federated Learning via Submodular Maximization***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=nwKXyFvaUm), [Code](https://github.com/melodi-lab/divfl)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)
 1. Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang, "***Personalized Federated Learning With Structural Information***", International Joint Conference on Artificial Intelligence (IJCAI), 2022. (long presentation) [PDF](https://arxiv.org/pdf/2203.00829.pdf)
 1. Yue Tan, Guodong Long, Lu Liu, Tianyi Zhou, Qinghua Lu, Jing Jiang, Chengqi Zhang, "***FedProto: Federated Prototype Learning across Heterogeneous Clients***", The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [PDF](https://arxiv.org/pdf/2105.00243.pdf), [Code](https://github.com/yuetan031/fedproto)
