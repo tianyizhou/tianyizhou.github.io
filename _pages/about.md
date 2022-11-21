@@ -16,6 +16,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
 * 2022/10: One paper ([adversarial attacks to Question-Answer models](https://arxiv.org/pdf/2210.15221.pdf)) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
 * 2022/09: Three papers ([adversarial augmentation for continual learning](https://openreview.net/pdf?id=XEoih0EwCwL), [adversarial augmentation for representation learning](https://arxiv.org/pdf/2211.00824.pdf), [federated learning from pre-trained models](https://arxiv.org/pdf/2209.10083.pdf)) have been accepted by [NeurIPS 2022](https://neurips.cc/).
 * 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
