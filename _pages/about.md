@@ -16,6 +16,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
 * 2022/12: I will serve as an SPC (meta-reviewer) for [IJCAI 2023](https://ijcai-23.org/).
 * 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
 * 2022/10: One paper ([adversarial attacks to Question-Answer models](https://arxiv.org/pdf/2210.15221.pdf)) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
