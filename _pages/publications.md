@@ -13,6 +13,10 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Yijun Yang, Tianyi Zhou, Jing Jiang, Guodong Long, and Yuhui Shi. "***Continual Task Allocation in Meta-Policy Network via Sparse Prompting***", International Conference on Machine Learning (ICML), 2023.
+1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, and Dacheng Tao. "***Structured Cooperative Learning with Graphical Model Priors***", International Conference on Machine Learning (ICML), 2023.
+1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang. "***Does Continual Learning Equally Forget All Parameters?***", International Conference on Machine Learning (ICML), 2023.
+1. Chunxu Zhang, Guodong Long, Tianyi Zhou, Peng Yan, Zijian Zhang, Chengqi Zhang, and Bo Yang, "***Dual Personalization on Federated Recommendation***", International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 1. Yu Cao, Dianqi Li, Meng Fang, Tianyi Zhou, Jun Gao, Yibing Zhan and Dacheng Tao, "***TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack***", The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. [PDF](https://arxiv.org/pdf/2210.15221.pdf)
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=XEoih0EwCwL)
 1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://arxiv.org/pdf/2209.10083.pdf)

@@ -16,6 +16,8 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2023/04: Three papers (training dynamics of continual learning, continual RL via sparse prompting, structured cooperative learning) have been accepted by ICML 2023.
+* 2023/04: One paper about personalization in federated recommendation system has been accepted by IJCAI 2023.
 * 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
 * 2022/12: I will serve as an SPC (meta-reviewer) for [IJCAI 2023](https://ijcai-23.org/).
 * 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
