@@ -16,6 +16,9 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2023/06: Invited talk at Purdue on "Structured Decentralized Learning".
+* 2023/06: Two papers (Meta-Vote Pruning and Eigensubspace of Temporal-Difference Dynamics) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
+* 2023/05: I will teach CMSC-421 on "Introduction to Artificial Intelligence" in Fall 2023.
 * 2023/04: Three papers (training dynamics of continual learning, continual RL via sparse prompting, structured cooperative learning) have been accepted by [ICML 2023](https://icml.cc/).
 * 2023/04: One paper about personalization in federated recommendation system has been accepted by [IJCAI 2023](https://ijcai-23.org/). 
 * 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
