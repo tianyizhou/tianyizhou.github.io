@@ -16,6 +16,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
+* 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) are provided.
 * 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
 * 2023/06: Two papers (Meta-Vote Pruning and Eigensubspace of Temporal-Difference Dynamics) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
 * 2023/05: I will teach CMSC-421 on "Introduction to Artificial Intelligence" in Fall 2023.
