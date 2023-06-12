@@ -19,7 +19,8 @@ Work experience
 ======
 * 2022-present: Assistant Professor of Computer Science
   * [University of Maryland](https://www.umd.edu/)
-  * Instructor of CMSC 421 Fall 2022: Introduction to Artificial Intelligence
+  * Instructor of CMSC 421 Fall 2022-2023: Introduction to Artificial Intelligence
+  * Instructor of CMSC 828A Spring 2023: Fantastic Machine Learning Paradigms and Where to Use Them
 
 * 2021-2022: Visiting Research Scientist
   * Google
@@ -63,6 +64,8 @@ Selected Publications
 ======
 A full list of publications can be found [here](https://tianyizhou.github.io/publications/).
 
+Preprints can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=OKvgizMAAAAJ&view_op=list_works&sortby=pubdate).
+
 * Curriculum Learning
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
@@ -77,14 +80,28 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 1. Tianyi Zhou, Jeff A. Bilmes and Carlos Guestrin, "***Divide-and-Conquer Learning by Anchoring a Conical Hull***", Twenty-Eighth Annual Conference on Neural Information Processing Systems  (NeurIPS), Montreal, Canada, 2014. [PDF](https://arxiv.org/pdf/1406.5752.pdf)
 1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
 
-* Federated and Decentralized Learning
-1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
-1. Ravikumar Balakrishnan\*, Tian Li\*, Tianyi Zhou\*, Nageen Himayat, Virginia Smith, Jeff A. Bilmes, "***Diverse Client Selection for Federated Learning via Submodular Maximization***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=nwKXyFvaUm), [Code](https://github.com/melodi-lab/divfl)
+* Structured Federated and Decentralized Learning
+1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, and Dacheng Tao. "***Structured Cooperative Learning with Graphical Model Priors***", International Conference on Machine Learning (ICML), 2023. [PDF](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)
+1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
+1. Chunxu Zhang, Guodong Long, Tianyi Zhou, Peng Yan, Zijian Zhang, Chengqi Zhang, and Bo Yang, "***Dual Personalization on Federated Recommendation***", International Joint Conference on Artificial Intelligence (IJCAI), 2023. [PDF](https://arxiv.org/pdf/2301.08143.pdf)
+1. Ravikumar Balakrishnan\*, Tian Li\*, Tianyi Zhou\*, Nageen Himayat, Virginia Smith, Jeff A. Bilmes, "***Diverse Client Selection for Federated Learning via Submodular Maximization***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=nwKXyFvaUm), [Code](https://github.com/melodi-lab/divfl)
 1. Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang, "***Personalized Federated Learning With Structural Information***", International Joint Conference on Artificial Intelligence (IJCAI), 2022. (long presentation) [PDF](https://arxiv.org/pdf/2203.00829.pdf)
 1. Yue Tan, Guodong Long, Lu Liu, Tianyi Zhou, Qinghua Lu, Jing Jiang, Chengqi Zhang, "***FedProto: Federated Prototype Learning across Heterogeneous Clients***", The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [PDF](https://arxiv.org/pdf/2105.00243.pdf), [Code](https://github.com/yuetan031/fedproto)
 1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
 
+* Continual Learning, Plasticity-Stability Trade-off
+1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang. "***Does Continual Learning Equally Forget All Parameters?***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2304.04158.pdf)
+1. Yijun Yang, Tianyi Zhou, Jing Jiang, Guodong Long, and Yuhui Shi. "***Continual Task Allocation in Meta-Policy Network via Sparse Prompting***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2305.18444.pdf), [Code](https://github.com/stevenyangyj/CoTASP)
+1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=XEoih0EwCwL)
+
+* Reinforcement Learning
+1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Eigensubspace of Temporal-Difference Dynamics and How It Improves Value Approximation in Reinforcement Learning***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. 
+1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
+1. Shuang Ao, Tianyi Zhou, Guodong Long, Qinghua Lu, Liming Zhu, Jing Jiang, "***CO-PILOT: COllaborative Planning and reInforcement Learning On sub-Task curriculum***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. [PDF](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Supplemental.pdf)
+1. Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi, "***Pareto Policy Pool for Model-based Offline Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2022. [PDF](https://openreview.net/pdf?id=OqcZu8JIIzS)
+1. Meng Fang, Tianyi Zhou, Yali Du, Lei Han, and Zhengyou Zhang, "***Curriculum-guided Hindsight Experience Replay***", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019. [PDF](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Supplemental.zip), [Code](https://github.com/mengf1/CHER), [Poster](https://mengf1.github.io/files/posters/CHER-poster.pdf)
+1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Sen Wang and Chengqi Zhang, "***Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling***", International Joint Conferences on Artificial Intelligence (IJCAI), Stockholm, Sweden, 2018. [PDF](https://www.ijcai.org/Proceedings/2018/0604.pdf), [Code](https://github.com/taoshen58/ReSAN)
 
 * Auto-Augmentation and Data Synthesis
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
@@ -110,6 +127,7 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv: 1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389.pdf)
 
 * Meta-Learning, Few-shot/Zero-shot Learning, Multi-task Learning
+1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Voting from Nearest Tasks: Meta-Vote Pruning of Pre-trained Models for Downstream Tasks***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. [PDF](https://arxiv.org/pdf/2301.11560.pdf)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong and Chengqi Zhang, "***Isometric Propagation Network for Generalized Zero-shot Learning***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=-mWcQVLPSPy)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Attribute Propagation Network for Graph Zero-shot Learning***", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5923/5779), [Code](https://github.com/liulu112601/), [Poster](https://liulu112601.github.io/resources/APNet-poster-tianyi.pdf)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Learning to Propagate for Graph Meta-Learning***", Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, 2019. [PDF](https://papers.nips.cc/paper/2019/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2019/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Supplemental.zip), [Code](https://github.com/liulu112601/Gated-Propagation-Net), [Poster](https://liulu112601.github.io/resources/Graph-Meta-Learning-Poster-revised.pdf), [Slides](https://liulu112601.github.io/resources/GPN-NeurIPS-Slides-revised.pdf)
@@ -147,7 +165,10 @@ Teaching
 Service
 ======
 * Meta-Reviewer for
+  * IJCAI 2023
+  * WACV 2023
   * WACV 2022
+  * SIGKDD 2022
   * AAAI 2021
 
 * Reviewer for 
