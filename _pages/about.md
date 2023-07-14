@@ -19,9 +19,9 @@ News
 * 2023/07: Two papers (model-adaptive data augmentation curriculum, subclass balancing in Long-tail recognition) have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
 * 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) have been released.
 * 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
-* 2023/06: Two papers (Meta-Vote Pruning and Eigensubspace of Temporal-Difference Dynamics) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
+* 2023/06: Two papers ([Meta-Vote Pruning](https://arxiv.org/pdf/2301.11560.pdf) and [Eigensubspace of Temporal-Difference Dynamics](https://arxiv.org/pdf/2306.16750.pdf)) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
 * 2023/05: I will teach CMSC-421 on "Introduction to Artificial Intelligence" in Fall 2023.
-* 2023/04: Three papers (training dynamics of continual learning, continual RL via sparse prompting, structured cooperative learning) have been accepted by [ICML 2023](https://icml.cc/).
+* 2023/04: Three papers ([training dynamics of continual learning](ttps://arxiv.org/pdf/2304.04158.pdf), [continual RL via sparse prompting](https://arxiv.org/pdf/2305.18444.pdf), [structured cooperative learning](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)) have been accepted by [ICML 2023](https://icml.cc/).
 * 2023/04: One paper about personalization in federated recommendation system has been accepted by [IJCAI 2023](https://ijcai-23.org/). 
 * 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
 * 2022/12: I will serve as an SPC (meta-reviewer) for [IJCAI 2023](https://ijcai-23.org/).

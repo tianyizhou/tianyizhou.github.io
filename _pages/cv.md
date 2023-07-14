@@ -67,6 +67,7 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 Preprints can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=OKvgizMAAAAJ&view_op=list_works&sortby=pubdate).
 
 * Curriculum Learning
+1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023.
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Robust Curriculum Learning: from clean label detection to noisy label self-correction***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=lmTWnm3coJJ), [Slides](https://iclr.cc/media/Slides/iclr/2021/virtual(04-00-00)-04-00-00UTC-3000-robust_curricul.pdf)
