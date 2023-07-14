@@ -62,7 +62,7 @@ My Research
   1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
   1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
   1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
-  1. Matrix and Tensor Factorization: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
+  1. Matrix/Tensor Factorization: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
   1. Compressed Sensing ([1-bit](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf) and [k-bit](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf) measurements), [Sparse Learning](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
   1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
   <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
