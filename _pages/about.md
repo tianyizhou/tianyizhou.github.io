@@ -54,13 +54,13 @@ Research Topics
 ------
 * Machine Learning (2008-present)
   1. Learning over time: Curriculum Learning, Continual Learning
-  1. Learning across tasks and domains: Multi-task and Meta-learning, Domain Adaptation/Generalization
-  1. Learning multiple models: Ensemble and Mixture-of-Experts (MoE), Collaborative Learning
+  1. Learning across tasks/domains: Multi-task Learning, Meta-Learning, Domain Adaptation/Generalization
+  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative Learning
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning
-  1. Learning representations: Self-Supervised Learning, Dimension Reduction, Manifold Learning
+  1. Learning representations: Self-Supervised Learning, Dimension Reduction
   1. Learning via interactions: Reinforcement Learning, Online Learning
   1. Federated and Decentralized Learning
-  1. Sparse Learning: Compressed Sensing, Matrix Facttorization
+  1. Sparse Learning: Compressed Sensing, Matrix Factorization
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms
