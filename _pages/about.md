@@ -50,22 +50,17 @@ News
 * 2020/09: [One paper of curriculum learning and training dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
 * 2020/06: [One paper of curriculum semi/self-supervised learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
 
-My Research
+Research Topics
 ------
 * Machine Learning (2008-present)
-  1. Curriculum Learning (for 2-6 below, using tools in 7-8)
-  1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
-  1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
-  1. [Collaborative Learning on graphs/networks](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf), [Ensemble and Mixture-of-Experts](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
-  1. [Robust Learning on Noisy Data](https://openreview.net/pdf?id=lmTWnm3coJJ)
-  1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf), [Few-shot](https://www.ijcai.org/Proceedings/2019/0418.pdf)/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
-  1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
-  1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
-  1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
-  1. Matrix/Tensor Factorization: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
-  1. Compressed Sensing ([1-bit](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf) and [k-bit](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf) measurements), [Sparse Learning](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
-  1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
-  <!-- 1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
+  1. Learning over time: Curriculum Learning, Continual Learning
+  1. Learning across tasks and domains: Multi-task and Meta-learning, Domain Adaptation/Generalization
+  1. Learning multiple models: Ensemble and Mixture-of-Experts (MoE), Collaborative Learning
+  1. Learning under noises: Noisy-Label Learning, Adversarial Learning
+  1. Learning representations: Self-Supervised Learning, Dimension Reduction, Manifold Learning
+  1. Learning via interactions: Reinforcement Learning, Online Learning
+  1. Federated and Decentralized Learning
+  1. Sparse Learning: Compressed Sensing, Matrix Facttorization
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms
@@ -83,6 +78,19 @@ My Research
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
 <br />
 
+<!--   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
+  1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
+  1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
+  1. [Collaborative Learning on graphs/networks](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf), [Ensemble and Mixture-of-Experts](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
+  1. [Robust Learning on Noisy Data](https://openreview.net/pdf?id=lmTWnm3coJJ)
+  1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf), [Few-shot](https://www.ijcai.org/Proceedings/2019/0418.pdf)/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
+  1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
+  1. [Continuous-discrete Optimization](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Optimization](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf)
+  1. Spectral Method for [Matrix Factorization](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and [Graphical Models](https://arxiv.org/pdf/1406.5752.pdf)
+  1. Matrix/Tensor Factorization: [Low-rank Approximation](https://tianyizhou.files.wordpress.com/2010/08/brpisit.pdf), [Completion](http://proceedings.mlr.press/v31/zhou13b.pdf), [Robust PCA](http://www.icml-2011.org/papers/41_icmlpaper.pdf), [NMF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf)
+  1. Compressed Sensing ([1-bit](https://tianyizhou.files.wordpress.com/2010/08/hcsisit5pages.pdf) and [k-bit](https://tianyizhou.files.wordpress.com/2010/08/kbithcs.pdf) measurements), [Sparse Learning](https://tianyizhou.files.wordpress.com/2010/08/ds.pdf)
+  1. Dimension Reduction, [Manifold Learning](http://arxiv.org/PS_cache/arxiv/pdf/1007/1007.3564v3.pdf)
+  1. [Multi-label Learning](https://tianyizhou.files.wordpress.com/2011/12/cl.pdf) -->
   
 <!--   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
   1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
