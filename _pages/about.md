@@ -37,18 +37,7 @@ News
 * 2022/03: One paper ([Learning to Collaborate in Decentralized Learning of Personalized Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
 * 2022/02: One paper ([Token Dropping for Efficient BERT Pretraining](https://arxiv.org/pdf/2203.13240.pdf)) has been accepted by [ACL 2022](https://www.2022.aclweb.org/).
 * 2022/01: Three papers ([Pareto Policy Pool for Model-based Offline RL](https://openreview.net/pdf?id=OqcZu8JIIzS), [Diverse Client Selection for Federated Learning](https://openreview.net/pdf?id=nwKXyFvaUm), [Omni-scale CNNs for Time Series](https://openreview.net/pdf?id=PDYs7Z2XFGv)) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
-* 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
-* 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
-* 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
-* 2021/09: [One paper of sentiment bias](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
-* 2021/08: I will serve as an SPC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
-* 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
-* 2021/01: [One paper of curriculum learning and training dynamics](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
-* 2021/01: Three papers ([RoCL for curriculum noisy-label learning](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS for auto-learning rate schedule](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN for prototype zero-shot learning](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
-* 2021/01: [One paper of knowledge graph completion](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
-* 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
-* 2020/09: [One paper of curriculum learning and training dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
-* 2020/06: [One paper of curriculum semi/self-supervised learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020).
+
 
 Research Topics
 ------
@@ -77,6 +66,19 @@ Research Topics
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
 <br />
+
+<!-- * 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
+* 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
+* 2021/09: [One paper of sentiment bias](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
+* 2021/08: I will serve as an SPC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+* 2021/02: I am selected as an expert reviewer for [ICML 2021](https://icml.cc/Conferences/2021).
+* 2021/01: [One paper of curriculum learning and training dynamics](https://drive.google.com/file/d/13_uEga3FVBZGSZTHbBEcMOouSYVcJ9VI/view?usp=sharing) has been accepted to [AISTATS 2021](https://aistats.org/aistats2021/).
+* 2021/01: Three papers ([RoCL for curriculum noisy-label learning](https://openreview.net/pdf?id=lmTWnm3coJJ), [AutoLRS for auto-learning rate schedule](https://openreview.net/pdf?id=SlrqM9_lyju), [IPN for prototype zero-shot learning](https://openreview.net/pdf?id=-mWcQVLPSPy)) have been accepted to [ICLR 2021](https://iclr.cc/).
+* 2021/01: [One paper of knowledge graph completion](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
+* 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
+* 2020/09: [One paper of curriculum learning and training dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
+* 2020/06: [One paper of curriculum semi/self-supervised learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020). -->
 
 <!--   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
   1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
