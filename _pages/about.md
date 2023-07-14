@@ -56,7 +56,7 @@ My Research
   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
   1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
   1. [Reinforcement Learning](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf) 
-  1. [Collaborative Learning on graphs/networks](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf), [Ensemble Methodm and Mixture-of-Experts](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
+  1. [Collaborative Learning on graphs/networks](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf), [Ensemble and Mixture-of-Experts](https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf)
   1. [Robust Learning on Noisy Data](https://openreview.net/pdf?id=lmTWnm3coJJ)
   1. [Meta-Learning](https://papers.nips.cc/paper/2019/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf), [Few-shot](https://www.ijcai.org/Proceedings/2019/0418.pdf)/[Zero-shot Learning](https://openreview.net/pdf?id=-mWcQVLPSPy)
   1. [Training Dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) and [Geometry](http://proceedings.mlr.press/v97/wang19q/wang19q.pdf) of Neural Networks
@@ -72,21 +72,23 @@ My Research
   1. Bias of NLP models
   1. Adversarial textual augmentation and generation
   1. Large language models (LLMs)
-<!--   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
-  1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
-  1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
-  1. [Text Classification](https://openreview.net/pdf?id=H1cWzoxA-)
-  1. [Summarization](https://arxiv.org/pdf/2002.07338.pdf) -->
 
 * Multi-modality models (2021-present)
   1. Vision-language models
   1. Human-AI alignment
   1. VLM/LLM + RL
-  1. Multi-modality Embodied AI
+  1. Multi-modality Embodied-AI
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
 <br />
+
+  
+<!--   1. [Natural Language Inference](https://arxiv.org/pdf/1709.04696.pdf)
+  1. [Semantic Role Labeling](https://www.aclweb.org/anthology/N19-1127.pdf)
+  1. [Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/2004.14781.pdf)
+  1. [Text Classification](https://openreview.net/pdf?id=H1cWzoxA-)
+  1. [Summarization](https://arxiv.org/pdf/2002.07338.pdf) -->
 
 <!-- Getting started
 ======
