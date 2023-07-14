@@ -15,6 +15,8 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023.
+1. Chengkai Hou, Jieyu Zhang, Haonan Wang, Tianyi Zhou, "***Subclass-balancing Contrastive Learning for Long-tailed Recognition***", International Conference on Computer Vision (ICCV), 2023.
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Voting from Nearest Tasks: Meta-Vote Pruning of Pre-trained Models for Downstream Tasks***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. [PDF](https://arxiv.org/pdf/2301.11560.pdf)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Eigensubspace of Temporal-Difference Dynamics and How It Improves Value Approximation in Reinforcement Learning***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. [PDF](https://arxiv.org/pdf/2306.16750.pdf)
 1. Yijun Yang, Tianyi Zhou, Jing Jiang, Guodong Long, and Yuhui Shi. "***Continual Task Allocation in Meta-Policy Network via Sparse Prompting***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2305.18444.pdf), [Code](https://github.com/stevenyangyj/CoTASP)
