@@ -44,25 +44,24 @@ Research Topics
 ------
 * Machine Learning (2008-present)
   1. Learning over time: Curriculum Learning, Continual Learning
+  1. Learning via interactions: Reinforcement Learning, Online Learning
   1. Learning across tasks/domains: Multi-task Learning, Meta-Learning, Domain Adaptation/Generalization
-  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative Learning
+  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning
   1. Learning representations: Self-Supervised Learning, Dimension Reduction
-  1. Learning via interactions: Reinforcement Learning, Online Learning
-  1. Federated and Decentralized Learning
   1. Sparse Learning: Compressed Sensing, Matrix Factorization
+  1. Optimization: Continuous, Combinatorial, Multi-Objective, Black-Box
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms
-  1. Bias of NLP models
-  1. Adversarial textual augmentation and generation
+  1. Toxicity and Bias in NLP models
+  1. Adversarial textual augmentation, generation, and defense
   1. Large language models (LLMs)
 
 * Multi-modality models (2021-present)
-  1. Vision-language models
+  1. Vision-Language Models
   1. Human-AI alignment
-  1. VLM/LLM + RL
-  1. Multi-modality Embodied-AI
+  1. VLM/LLM + RL and Multi-modality Embodied-AI
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
