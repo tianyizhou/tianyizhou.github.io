@@ -49,7 +49,7 @@ Research Topics
   1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning
   1. Learning representations: Self-Supervised Learning, Dimension Reduction
-  1. Sparse Learning: Compressed Sensing, Matrix Factorization
+  1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method
   1. Optimization: Continuous, Combinatorial, Multi-Objective, Black-Box
 
 * Natural Language Processing (2016-present)
@@ -57,8 +57,9 @@ Research Topics
   1. Toxicity and Bias in NLP models
   1. Adversarial textual augmentation, generation, and defense
   1. Large language models (LLMs)
+  1. Personalization
 
-* Multi-modality models (2021-present)
+* Multi-modality Models (2021-present)
   1. Vision-Language Models
   1. Human-AI alignment
   1. VLM/LLM + RL and Multi-modality Embodied-AI
