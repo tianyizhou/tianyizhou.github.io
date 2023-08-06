@@ -55,7 +55,7 @@ Research Topics
 * Natural Language Processing (2016-present)
   1. Attention mechanisms
   1. Toxicity and Bias in NLP models
-  1. Adversarial textual augmentation, generation, and defense
+  1. Adversarial textual attack and defense
   1. Large language models (LLMs)
   1. Personalization
 
