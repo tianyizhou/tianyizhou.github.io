@@ -16,17 +16,17 @@ author_profile: true
 
 ## Ph.D. Students at UMD
 -----
-1. Jiuhai Chen
-1. Lichang Chen
+1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)
+1. [Lichang Chen](https://lichang-chen.github.io/)
 1. Kwesi Cobbina
-1. Maharshi Gor
-1. Shwai He 
+1. [Maharshi Gor](https://mgor.info/)
+1. [Shwai He](https://scholar.google.com.hk/citations?user=4y5BYF0AAAAJ&hl=zh-CN) 
 1. Daeun Jung
-1. Ming Li
+1. [Ming Li](https://scholar.google.com/citations?user=MpEoJegAAAAJ&hl=en)
 1. Yijun Liang
-1. Ziyue Li
-1. Dang Minh Nguyen
-1. Hongyu Zhao
+1. [Ziyue Li](https://scholar.google.com/citations?user=NQVzCSkAAAAJ&hl=zh-CN)
+1. [Dang Minh Nguyen](https://dangne.github.io/)
+1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 
 
 ## Master Students at UMD
