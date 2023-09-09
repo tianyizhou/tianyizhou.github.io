@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyi Zhou (周天翼)"
 title_separator          : "-"
 name                     : &name "Tianyi Zhou"
-description              : &description "Machine Learning Ph.D. Candidate at University of Washington"
+description              : &description "Assistant Professor of Computer Science & UMIACS at University of Maryland"
 url                      : https://tianyizhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianyizhou/tianyizhou.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &zhoutianyi
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianyi Zhou"
   avatar           : "Tianyi_ZHOU.jpg"
-  bio              : "Assistant Professor of Computer Science and UMIACS, University of Maryland."
+  bio              : "Assistant Professor of Computer Science"
   location         : "College Park, MD, USA"
-  employer         :
+  employer         : "UMIACS, University of Maryland"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en"
-  email            : "tianyi.david.zhou@gmail.com"
+  email            : "tianyi@umd.edu"
   researchgate     : "https://www.researchgate.net/profile/Tianyi_Zhou2"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tianyizhou"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-5348-0632"
   pinterest        :
   soundcloud       :
   stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "zhoutianyi"
   vine             :
   weibo            :
   xing             :
