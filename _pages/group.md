@@ -31,6 +31,7 @@ I am fortunate to work with a group of brilliant people.
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 1. [Yu Shen](https://www.cs.umd.edu/~yushen/)
 1. [Divya Kothandaraman](https://divyakraman.github.io/)
+1. [Bhrij Patel](https://bridge00.github.io/)
 
 
 ## Master Students at UMD
