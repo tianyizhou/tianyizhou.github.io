@@ -64,17 +64,17 @@ I am fortunate to work with a group of brilliant people.
 1. [Jieyu Zhang](https://jieyuz2.github.io/)
 1. [Lovish Madaan](https://lovishmadaan.github.io/)
 1. [Yue Tan](https://yuetan031.github.io/)
-1. Jie Ma
+1. [Jie Ma](https://scholar.google.com/citations?user=tSmDoz0AAAAJ&hl=en)
 1. Weisi Tang
 1. Yucheng Yang
-1. Qiang He
-1. Jiangtao Kong
+1. [Qiang He](https://sweetice.github.io/)
+1. [Jiangtao Kong](https://scholar.google.com/citations?user=tu5GG9sAAAAJ&hl=en)
 1. [Yujie Xie](https://scholar.google.com/citations?user=r2FiAE4AAAAJ&hl=en)
 1. Chunxu Zhang
 1. Zhiwei Li
 1. Hao Huang
 1. Ming Xie
-1. Songhua Wu
+1. [Songhua Wu](https://scholar.google.co.jp/citations?user=Zh6LYnMAAAAJ&hl=en)
 1. [Zhihong Deng](https://2wildkids.com/)
 
 <!-- {% if author.googlescholar %}
