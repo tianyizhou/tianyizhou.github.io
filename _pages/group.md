@@ -7,6 +7,8 @@ author_profile: true
   - /resume -->
 ---
 
+{% include base_path %}
+
 ## Faculty
 -----
 1. Tianyi Zhou
@@ -21,6 +23,10 @@ author_profile: true
 
 
 ## Undergraduate Students
+-----
+
+
+## Collaborators
 -----
 
 <!-- {% if author.googlescholar %}
