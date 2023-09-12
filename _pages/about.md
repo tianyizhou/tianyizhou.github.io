@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/) and [UMIACS](https://www.umiacs.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/). My research interests are in machine learning, optimization, and natural language processing. I have published [~90 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, ECML/PKDD, ACL, EMNLP, NAACL, COLING, CVPR, ICCV, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP/TNNLS/TKDE, etc. I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf).
 
-Our recent works study (1) How, why, and when to transfer human learning strategies (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, unseen tasks/environments, distribution shift); (2) Controllable AI in both training and inference/adaptation; and (3) Human-AI alignment. 
+Our recent works study (1) How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant or distributed data, unseen tasks/environments, distribution shift); (2) Controllable AI in both training and inference/adaptation; and (3) Human-AI alignment. 
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  -->
-And yes we are developing these methods for LLMs, multi-modality models, and RL foundation models. Our goal is to develop efficient, versatile, trustworthy, and environment-friendly hybrid-intelligence driven by coevolution between humans and machines. A list of our research topics can be found at the bottom of this webpage.
+And Yes we are developing these methods for LLMs, multi-modality foundation models, and RL. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine. A list of our research topics can be found at the bottom of this webpage.
 
 I was a visiting research scientist at Google between 2021-2022. Before that, I received my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/handle/1773/49655)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/), where I was a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). I have been working with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (University of Sydney) as a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), mentored by [Dr. Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Prof. Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), mentored by [Dr. Lin Xiao](https://linxiaolx.github.io/) (Facebook AI Research). 
 <!-- I also work closely with several members and students of [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute). -->
@@ -19,7 +19,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
-* 2023/07: Two papers (model-adaptive data augmentation curriculum, subclass balancing for long-tail recognition) have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
+* 2023/07: Two papers ([model-adaptive data augmentation curriculum](https://arxiv.org/pdf/2309.04747.pdf), [subclass balancing for long-tail recognition](https://arxiv.org/pdf/2306.15925.pdf)) have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
 * 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) have been released.
 * 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
 * 2023/06: Two papers ([Meta-Vote Pruning](https://arxiv.org/pdf/2301.11560.pdf) and [Eigensubspace of Temporal-Difference Dynamics](https://arxiv.org/pdf/2306.16750.pdf)) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
@@ -54,7 +54,7 @@ Research Topics
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms
-  1. Toxicity and Bias in NLP models
+  1. Toxicity and Bias in NLP models    
   1. Adversarial textual attack and defense
   1. Large language models (LLMs)
   1. Personalization
