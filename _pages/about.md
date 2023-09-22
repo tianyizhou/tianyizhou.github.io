@@ -32,13 +32,7 @@ News
 * 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
 * 2022/10: One paper ([adversarial attacks to Question-Answer models](https://arxiv.org/pdf/2210.15221.pdf)) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
 * 2022/09: Three papers ([adversarial augmentation for continual learning](https://openreview.net/pdf?id=XEoih0EwCwL), [adversarial augmentation for representation learning](https://arxiv.org/pdf/2211.00824.pdf), [federated learning from pre-trained models](https://arxiv.org/pdf/2209.10083.pdf)) have been accepted by [NeurIPS 2022](https://neurips.cc/).
-* 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
-* 2022/05: Two papers about [environment-and-task-curriculum for RL](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf) and [adversarial augmentation for self-supervised learning](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) have been accpeted by [ICML 2022](https://icml.cc/).
-* 2022/04: One paper about [personalized federated learning](https://arxiv.org/pdf/2203.00829.pdf) has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
-* 2022/04: One paper of [phrase-level textual adversarial attack with label preservation](https://arxiv.org/pdf/2205.10710.pdf) has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.  
-* 2022/03: One paper ([Learning to Collaborate in Decentralized Learning of Personalized Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
-* 2022/02: One paper ([Token Dropping for Efficient BERT Pretraining](https://arxiv.org/pdf/2203.13240.pdf)) has been accepted by [ACL 2022](https://www.2022.aclweb.org/).
-* 2022/01: Three papers ([Pareto Policy Pool for Model-based Offline RL](https://openreview.net/pdf?id=OqcZu8JIIzS), [Diverse Client Selection for Federated Learning](https://openreview.net/pdf?id=nwKXyFvaUm), [Omni-scale CNNs for Time Series](https://openreview.net/pdf?id=PDYs7Z2XFGv)) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).
+
 
 
 Research Topics
@@ -80,7 +74,14 @@ Research Topics
 * 2021/01: [One paper of knowledge graph completion](https://arxiv.org/pdf/2004.14781.pdf) has been accepted to [WWW 2021](https://www2021.thewebconf.org/).
 * 2020/10: Selected among the top 10% of high-scoring reviewers for [NeurIPS 2020](https://nips.cc/).
 * 2020/09: [One paper of curriculum learning and training dynamics](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf) has been accepted to [NeurIPS 2020](https://nips.cc/).
-* 2020/06: [One paper of curriculum semi/self-supervised learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020). -->
+* 2020/06: [One paper of curriculum semi/self-supervised learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf) has been accepted to [ICML 2020](https://icml.cc/Conferences/2020). 
+* 2022/06: I will serve as an Area Chair for Winter Conference on Applications of Computer Vision ([WACV](https://wacv2023.thecvf.com/home)) 2023.
+* 2022/05: Two papers about [environment-and-task-curriculum for RL](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf) and [adversarial augmentation for self-supervised learning](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf) have been accpeted by [ICML 2022](https://icml.cc/).
+* 2022/04: One paper about [personalized federated learning](https://arxiv.org/pdf/2203.00829.pdf) has been accpeted by [IJCAI 2022](https://ijcai-22.org/) as a long presentation.
+* 2022/04: One paper of [phrase-level textual adversarial attack with label preservation](https://arxiv.org/pdf/2205.10710.pdf) has been accpeted by [NAACL 2022](https://2022.naacl.org/) Findings.  
+* 2022/03: One paper ([Learning to Collaborate in Decentralized Learning of Personalized Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)) has been accepted by [CVPR 2022](https://cvpr2022.thecvf.com/).
+* 2022/02: One paper ([Token Dropping for Efficient BERT Pretraining](https://arxiv.org/pdf/2203.13240.pdf)) has been accepted by [ACL 2022](https://www.2022.aclweb.org/).
+* 2022/01: Three papers ([Pareto Policy Pool for Model-based Offline RL](https://openreview.net/pdf?id=OqcZu8JIIzS), [Diverse Client Selection for Federated Learning](https://openreview.net/pdf?id=nwKXyFvaUm), [Omni-scale CNNs for Time Series](https://openreview.net/pdf?id=PDYs7Z2XFGv)) have been accepted by [ICLR 2022](https://iclr.cc/Conferences/2022).-->
 
 <!--   1. Curriculum Learning (for 2-6 below, using tools in 7-8)
   1. [Self-supervised/Semi-supervised Learning](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
