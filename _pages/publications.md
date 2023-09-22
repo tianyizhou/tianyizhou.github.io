@@ -15,6 +15,8 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023.
+1. Jie Ma, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Structured Federated Learning through Clustered Additive Modeling***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023.
 1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
 1. Chengkai Hou, Jieyu Zhang, Haonan Wang, Tianyi Zhou, "***Subclass-balancing Contrastive Learning for Long-tailed Recognition***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2306.15925.pdf)
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Voting from Nearest Tasks: Meta-Vote Pruning of Pre-trained Models for Downstream Tasks***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. [PDF](https://arxiv.org/pdf/2301.11560.pdf)
