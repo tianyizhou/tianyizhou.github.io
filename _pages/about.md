@@ -19,7 +19,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
-* 2023/07: Two papers (multi-modality model distillation for task adaptation, clustered additive modeling for federated learning) have been accepted by [NeurIPS 2023](https://neurips.cc/). 
+* 2023/09: Two papers (multi-modality model distillation for task adaptation, clustered additive modeling for federated learning) have been accepted by [NeurIPS 2023](https://neurips.cc/). 
 * 2023/07: Two papers ([model-adaptive data augmentation curriculum](https://arxiv.org/pdf/2309.04747.pdf), [subclass balancing for long-tail recognition](https://arxiv.org/pdf/2306.15925.pdf))  have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
 * 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) have been released.
 * 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
