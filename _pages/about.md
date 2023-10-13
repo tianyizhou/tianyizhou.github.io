@@ -52,7 +52,7 @@ Research Topics
   1. Attention mechanisms
   1. Toxicity and Bias in NLP models    
   1. Adversarial textual attack and defense
-  1. Large language models (LLMs)
+  1. Large language models (LLMs) ([Alpagasus](https://lichang-chen.github.io/AlpaGasus/) and [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM) created by our group)
   1. Personalization
 
 * Multi-modality Models (2021-present)
