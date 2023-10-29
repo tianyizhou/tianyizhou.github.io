@@ -19,7 +19,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
-* 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/07. 
+* 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/03. 
 * 2023/10: We release [HallusionBench](https://github.com/tianyi-lab/HallusionBench) focusing on the Language Hallucination and Visual Illusion of GPT-4V(ision), Llava-1.5, and other multi-modality models. Analyses and insights can be found in the [preprint](https://arxiv.org/abs/2310.14566). 
 * 2023/10: Data recycling and filtering improves instruction-tuning of LLMs, leading to recycled LLMs outperforming other larger LLMs trained on new data and RLHF. We release [Reflection-Tuning preprint](https://arxiv.org/abs/2310.11716), [codebase](https://github.com/tianyi-lab/Reflection_Tuning), and the [model](https://huggingface.co/umd-zhou-lab/recycled-wizardlm-7b-v2.0). 
 * 2023/10: Two papers ([How Many Demonstrations Do You Need for In-context Learning](https://arxiv.org/pdf/2303.08119.pdf), Merging Mixture-of-Experts into One) have been accepted by [EMNLP 2023](https://2023.emnlp.org/). 
