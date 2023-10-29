@@ -15,9 +15,9 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
-1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023.
+1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 1. Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
-1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023.
+1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023.m [PDF](https://arxiv.org/pdf/2310.04550.pdf)
 1. Jie Ma, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Structured Federated Learning through Clustered Additive Modeling***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023.
 1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
 1. Chengkai Hou, Jieyu Zhang, Haonan Wang, Tianyi Zhou, "***Subclass-balancing Contrastive Learning for Long-tailed Recognition***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2306.15925.pdf)
