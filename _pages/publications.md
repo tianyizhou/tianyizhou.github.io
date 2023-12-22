@@ -15,6 +15,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 1. Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. [PDF](https://arxiv.org/pdf/2310.09832.pdf)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models***", The 16th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia Pacific (SIGGRAPH Asia), 2023. [PDF](https://arxiv.org/pdf/2303.11444.pdf), [CODE](https://github.com/divyakraman/AerialDiffusion)
