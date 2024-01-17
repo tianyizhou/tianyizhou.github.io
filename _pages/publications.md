@@ -15,11 +15,15 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Conference
 -----
+
+### 2024
 1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2024. (<span style="color:red"> *Spotlight* </span>)[PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=apXtolxDaJ)
 1. Zhiwei Li, Guodong Long, Tianyi Zhou, "***Federated Recommendation with Additive Personalization***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=xkXdE81mOK)
 1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
+
+### 2023
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 1. Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. [PDF](https://arxiv.org/pdf/2310.09832.pdf)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models***", The 16th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia Pacific (SIGGRAPH Asia), 2023. [PDF](https://arxiv.org/pdf/2303.11444.pdf), [CODE](https://github.com/divyakraman/AerialDiffusion)
