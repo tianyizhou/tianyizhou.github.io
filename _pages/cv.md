@@ -176,7 +176,7 @@ Teaching
 Service
 ======
 * Meta-Reviewer for
-  * ICPR 2023
+  * ICPR 2024
   * IJCAI 2023
   * WACV 2023
   * WACV 2022
