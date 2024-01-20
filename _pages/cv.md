@@ -67,7 +67,8 @@ A full list of publications can be found [here](https://tianyizhou.github.io/pub
 Preprints can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=OKvgizMAAAAJ&view_op=list_works&sortby=pubdate).
 
 * Curriculum Learning
-1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023.
+1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
+1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Robust Curriculum Learning: from clean label detection to noisy label self-correction***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=lmTWnm3coJJ), [Slides](https://iclr.cc/media/Slides/iclr/2021/virtual(04-00-00)-04-00-00UTC-3000-robust_curricul.pdf)
@@ -82,6 +83,8 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
 
 * Structured Federated and Decentralized Learning
+1. Zhiwei Li, Guodong Long, Tianyi Zhou, "***Federated Recommendation with Additive Personalization***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=xkXdE81mOK)
+1. Jie Ma, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Structured Federated Learning through Clustered Additive Modeling***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://openreview.net/pdf?id=2XT3UpOv48)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, and Dacheng Tao. "***Structured Cooperative Learning with Graphical Model Priors***", International Conference on Machine Learning (ICML), 2023. [PDF](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Learning to Collaborate in Decentralized Learning of Personalized Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf)
 1. Yue Tan, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang, "***Federated Learning from Pre-Trained Models: A Contrastive Learning Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
@@ -97,6 +100,8 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=XEoih0EwCwL)
 
 * Reinforcement Learning
+1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2024. (<span style="color:red"> *Spotlight* </span>)[PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
+1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=apXtolxDaJ)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Eigensubspace of Temporal-Difference Dynamics and How It Improves Value Approximation in Reinforcement Learning***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. 
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Shuang Ao, Tianyi Zhou, Guodong Long, Qinghua Lu, Liming Zhu, Jing Jiang, "***CO-PILOT: COllaborative Planning and reInforcement Learning On sub-Task curriculum***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. [PDF](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Supplemental.pdf)
@@ -110,6 +115,10 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf)
 
 * Natural Language Processing
+1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
+1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024
+1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
+1. Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. [PDF](https://arxiv.org/pdf/2310.09832.pdf)
 1. Yu Cao, Dianqi Li, Meng Fang, Tianyi Zhou, Jun Gao, Yibing Zhan, Dacheng Tao, "***TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack***", The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
 1. Le Hou\*, Richard Yuanzhe Pang\*, Tianyi Zhou, Yuexin Wu, Xinying Song, Xiaodan Song, Denny Zhou, "***Token Dropping for Efficient BERT Pretraining***", Annual Meeting of the Association for Computational Linguistics (ACL), 2022. [PDF](https://arxiv.org/pdf/2203.13240.pdf)
 1. Yibin Lei, Yu Cao, Dianqi Li, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Phrase-level Textual Adversarial Attack with Label Preservation***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL Findings), 2022. [PDF](https://arxiv.org/pdf/2205.10710.pdf)
@@ -166,6 +175,7 @@ Teaching
 Service
 ======
 * Meta-Reviewer for
+  * ICPR 2023
   * IJCAI 2023
   * WACV 2023
   * WACV 2022
