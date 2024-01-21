@@ -68,6 +68,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 
 * Curriculum Learning
 1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
+1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
 1. Tianyi Zhou\*, Shengjie Wang\*, and Jeff A. Bilmes, "***Curriculum Learning by Optimizing Learning Dynamics***", International Conference on Artificial Intelligence and Statistics (AISTATS), 2021. [PDF](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf), [Appendix](http://proceedings.mlr.press/v130/zhou21a/zhou21a-supp.pdf)
