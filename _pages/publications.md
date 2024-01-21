@@ -17,7 +17,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 -----
 
 ### 2024
-1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024
+1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024.W
 1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2024. (<span style="color:red"> *Spotlight* </span>)[PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=apXtolxDaJ)
@@ -110,7 +110,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Journal
 -----
-<!-- 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023. -->
+1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang, "***False Correlation Reduction for Offline Reinforcement Learning***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Extracting Local Reasoning Chains of Deep Neural Networks***", Transactions on Machine Learning Research (TMLR), 2022. [PDF](https://openreview.net/pdf?id=RP6G787uD8)
 1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
