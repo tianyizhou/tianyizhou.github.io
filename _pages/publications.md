@@ -17,6 +17,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 -----
 
 ### 2024
+1. Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang, "***When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions***", The Web Conference (WWW), 2024.
 1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024.
 1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2024. (<span style="color:red"> *Spotlight* </span>)[PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
