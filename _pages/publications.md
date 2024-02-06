@@ -112,7 +112,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Journal
 -----
-<!-- 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023. -->
+1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang, "***False Correlation Reduction for Offline Reinforcement Learning***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Extracting Local Reasoning Chains of Deep Neural Networks***", Transactions on Machine Learning Research (TMLR), 2022. [PDF](https://openreview.net/pdf?id=RP6G787uD8)
 1. Guodong Long, Ming Xie, Tao Shen, Tianyi Zhou, Xianzhi Wang, Jing Jiang, "***Multi-Center Federated Learning: clients clustering for better personalization***", World Wide Web Journal (Springer), 2022. [PDF](https://link.springer.com/content/pdf/10.1007/s11280-022-01046-x.pdf)
