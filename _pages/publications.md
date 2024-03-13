@@ -17,6 +17,8 @@ A more organized list of (selected) publications can be found [here](https://tia
 -----
 
 ### 2024
+1. Ming Li, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, and Jing Xiao. "***From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
+1. Lilly Kumari, Shengjie Wang, Arnav Mohanty Das, Tianyi Zhou, and Jeff Bilmes. "***An End-to-End Submodular Framework for Data-Efficient In-Context Learning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL findings), 2024. 
 1. Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, and Tianyi Zhou. "***HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition
 (CVPR), 2024. 
 1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
