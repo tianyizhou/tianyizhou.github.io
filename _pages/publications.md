@@ -21,7 +21,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 1. Lilly Kumari, Shengjie Wang, Arnav Mohanty Das, Tianyi Zhou, and Jeff Bilmes. "***An End-to-End Submodular Framework for Data-Efficient In-Context Learning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL findings), 2024. 
 1. Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, and Tianyi Zhou. "***HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition
 (CVPR), 2024. [PDF](https://arxiv.org/pdf/2310.14566), [CODE+DATA](https://github.com/tianyi-lab/HallusionBench)
-1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714)
+1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
 1. Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang, "***When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions***", The Web Conference (WWW), 2024. [PDF](https://arxiv.org/pdf/2305.12650)
 1. Yu Shen, Laura Zheng, Tianyi Zhou, Ming C. Lin, "***Task-Driven Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering***", IEEE International Conference on Robotics and Automation (ICRA), 2024.
 1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024. [PDF](https://arxiv.org/pdf/2402.18031)
@@ -129,6 +129,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 
 ## Preprint
 -----
+1. Zhuowei Wang, Tianyi Zhou, Guodong Long, Bo Han, and Jing Jiang, "***FedNoiL: A Simple Two-Level Sampling Method for Federated Learning with Noisy Labels***", arXiv: 2205.10110, 2022. [PDF](https://arxiv.org/pdf/2205.10110.pdf)
 <!-- 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang and Chengqi Zhang, "***Extract Local Inference Chains of Deep Neural Nets***", 2021. [PDF](https://openreview.net/pdf?id=M71R_ivbTQP) -->
 1. Yujia Xie, Tianyi Zhou, Yi Mao and Weizhu Chen, "***Conditional Self-Attention for Query-based Summarization***", arXiv: 2002.07338, 2020. [PDF](https://arxiv.org/pdf/2002.07338.pdf)
 <!-- 1. Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Jing Jiang, Michael Blumenstein, "***Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline***", arXiv: 2002.10061, 2020. [PDF](https://arxiv.org/pdf/2002.10061.pdf) -->
