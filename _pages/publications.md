@@ -17,7 +17,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 -----
 
 ### 2024
-1. Lichang Chen, Jiuhai Chen, Heng Huang, Tom Goldstein, and Tianyi Zhou. "***InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2306.03082), [CODE](https://github.com/Lichang-Chen/InstructZero)
+1. Lichang Chen\*, Jiuhai Chen\*, Heng Huang, Tom Goldstein, and Tianyi Zhou. "***InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2306.03082), [CODE](https://github.com/Lichang-Chen/InstructZero)
 1. Ruochen Wang, Sohyun An, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, and Cho-Jui Hsieh. "***One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts***", International Conference on Machine Learning (ICML), 2024.
 1. Lichang Chen, Chen Zhu, Davit Soselia, Jiuhai Chen, Tianyi Zhou, Tom Goldstein, Heng Huang, Mohammad Shoeybi, and Bryan Catanzaro. "***ODIN: Disentangled Reward Mitigates Hacking in RLHF***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2402.07319)
 1. Lichao Sun, Yue Huang, et al. "***TrustLLM: Trustworthiness in Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2401.05561)
