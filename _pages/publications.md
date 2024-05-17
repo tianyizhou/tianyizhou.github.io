@@ -17,6 +17,7 @@ A more organized list of (selected) publications can be found [here](https://tia
 -----
 
 ### 2024
+1. Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, and Bo Yang, "***GPFedRec: Graph-Guided Personalization for Federated Recommendation***", 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.[PDF](https://arxiv.org/pdf/2305.07866)
 1. Ming Li, Yong Zhang, Shwai He, Zhitao Li, Hongyu Zhao, Jianzong Wang, Ning Cheng, and Tianyi Zhou, "***Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning***", Annual Meeting of the Association for Computational Linguistics (ACL), 2024. [PDF](https://arxiv.org/pdf/2402.00530), [CODE](https://github.com/tianyi-lab/Superfiltering)
 1. Yibin Lei, Di Wu, Tianyi Zhou, Tao Shen, Yu Cao, Chongyang Tao, and Andrew Yates, "***Meta-Task Prompting Elicits Embedding from Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL), 2024. 
 1. Dang Nguyen, Jiuhai Chen, and Tianyi Zhou, "***Multi-Objective Linguistic Control of Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. 
