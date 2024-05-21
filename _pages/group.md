@@ -22,16 +22,12 @@ I am fortunate to work with a group of brilliant people.
 1. [Lichang Chen](https://lichang-chen.github.io/)
 1. [Kwesi Cobbina](https://www.cs.umd.edu/people/kcobbina)
 1. [Maharshi Gor](https://mgor.info/)
-1. [Shwai He](https://scholar.google.com.hk/citations?user=4y5BYF0AAAAJ&hl=zh-CN) 
 1. [Daeun Jung](https://www.cs.umd.edu/people/daeunj)
 1. [Ming Li](https://scholar.google.com/citations?user=MpEoJegAAAAJ&hl=en)
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
 1. [Ziyue Li](https://scholar.google.com/citations?user=NQVzCSkAAAAJ&hl=zh-CN)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
-1. [Yu Shen](https://www.cs.umd.edu/~yushen/)
-1. [Divya Kothandaraman](https://divyakraman.github.io/)
-1. [Bhrij Patel](https://bridge00.github.io/)
 
 
 ## Master Students at UMD
