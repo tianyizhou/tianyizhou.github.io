@@ -20,7 +20,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
-* 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry (UMD+UCLA+PSU+Google) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [eights projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications. 
+* 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications. 
 * 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
 * 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning.  
 * 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/03. 
