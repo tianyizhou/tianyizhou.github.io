@@ -3,8 +3,6 @@ layout: archive
 title: "Group"
 permalink: /group/
 author_profile: true
-<!-- redirect_from:
-  - /resume -->
 ---
 
 {% include base_path %}
@@ -14,13 +12,13 @@ author_profile: true
 1. Tianyi Zhou -->
 
 
-## Current Ph.D. Students at UMD
+## Current Ph.D. Students
 -----
 1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advise with [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. Kwesi Cobbina
 1. [Maharshi Gor](https://mgor.info/) (co-advise with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
-1. [Ming Li](https://scholar.google.com/citations?user=MpEoJegAAAAJ&hl=en)
+1. [Ming Li](https://mingliiii.github.io/)
 1. Yijun Liang
 1. [Ziyue Li](https://scholar.google.com/citations?user=NQVzCSkAAAAJ&hl=zh-CN)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
