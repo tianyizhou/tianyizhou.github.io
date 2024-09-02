@@ -21,7 +21,7 @@ redirect_from:
 1. [Maharshi Gor](https://mgor.info/) (co-advise with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
 1. [Ming Li](https://mingliiii.github.io/)
-1. Yijun Liang
+1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
 1. [Ziyue Li](https://l0i6t1z9y.github.io/)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
