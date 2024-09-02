@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/) and [UMIACS](https://www.umiacs.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/). My research interests are in machine learning, optimization, and natural language processing. I have published [~100 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) at NeurIPS, ICML, ICLR, AISTATS, ECML/PKDD, ACL, EMNLP, NAACL, COLING, CVPR, ICCV, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
+I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/) and [UMIACS](https://www.umiacs.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/). My research interests are in machine learning, optimization, and natural language processing. I have published [~100 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in NeurIPS, ICML, ICLR, AISTATS, ECML/PKDD, ACL, EMNLP, NAACL, COLING, CVPR, ICCV, ECCV, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 
-Our recent works study (1) How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, unseen tasks/environments); (2) Controllable Generative AI in both training and inference/adaptation; and (3) Human-AI and Environment-AI alignment, personalization. 
+Our recent works study (1) How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); (2) Controllable Generative AI in both training and inference/adaptation; (3) Synthetic data, self-evolving AI, and auto-benchmarking; and (4) Human-AI teaming and hybrid agent with personalization. 
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  -->
-And Yes we are developing these methods for LLMs, multi-modality foundation models, and RL. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine. A list of our research topics can be found at the bottom of this webpage.
+We are developing these methods with LLMs, multi-modality foundation models, and RL. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine. A list of research topics can be found at the bottom of this webpage.
 
 I was a visiting research scientist at Google between 2021-2022. Before that, I received my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/handle/1773/49655)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/), where I was a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). I have been working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) as a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), mentored by [Dr. Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Prof. Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), mentored by [Dr. Lin Xiao](https://linxiaolx.github.io/) (Meta AI). 
 <!-- I also work closely with several members and students of [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute). -->
@@ -30,17 +30,6 @@ News
 * 2023/09: Two papers ([multi-modality model distillation for task adaptation](https://arxiv.org/pdf/2310.04550.pdf), [clustered additive modeling for structured federated learning](https://openreview.net/pdf?id=2XT3UpOv48)) have been accepted by [NeurIPS 2023](https://neurips.cc/). 
 * 2023/07: Two papers ([model-adaptive data augmentation curriculum](https://arxiv.org/pdf/2309.04747.pdf), [subclass balancing for long-tail recognition](https://arxiv.org/pdf/2306.15925.pdf))  have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
 * 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) have been released.
-* 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
-* 2023/06: Two papers ([Meta-Vote Pruning](https://arxiv.org/pdf/2301.11560.pdf) and [Eigensubspace of Temporal-Difference Dynamics](https://arxiv.org/pdf/2306.16750.pdf)) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
-* 2023/05: I will teach CMSC-421 on "Introduction to Artificial Intelligence" in Fall 2023.
-* 2023/04: Three papers ([training dynamics of continual learning](ttps://arxiv.org/pdf/2304.04158.pdf), [continual RL via sparse prompting](https://arxiv.org/pdf/2305.18444.pdf), [structured cooperative learning](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)) have been accepted by [ICML 2023](https://icml.cc/). See you at Hawaii in July!
-* 2023/04: One paper about personalization in federated recommendation system has been accepted by [IJCAI 2023](https://ijcai-23.org/). 
-* 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
-* 2022/12: I will serve as an SPC (meta-reviewer) for [IJCAI 2023](https://ijcai-23.org/).
-* 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
-* 2022/10: One paper ([adversarial attacks to Question-Answer models](https://arxiv.org/pdf/2210.15221.pdf)) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
-* 2022/09: Three papers ([adversarial augmentation for continual learning](https://openreview.net/pdf?id=XEoih0EwCwL), [adversarial augmentation for representation learning](https://arxiv.org/pdf/2211.00824.pdf), [federated learning from pre-trained models](https://arxiv.org/pdf/2209.10083.pdf)) have been accepted by [NeurIPS 2022](https://neurips.cc/).
-
 
 
 Research Topics
@@ -71,7 +60,18 @@ Research Topics
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
 <br />
 
-<!-- * 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+<!-- 
+* 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
+* 2023/06: Two papers ([Meta-Vote Pruning](https://arxiv.org/pdf/2301.11560.pdf) and [Eigensubspace of Temporal-Difference Dynamics](https://arxiv.org/pdf/2306.16750.pdf)) have been accepted by [ECML/PKDD 2023](https://2023.ecmlpkdd.org/). 
+* 2023/05: I will teach CMSC-421 on "Introduction to Artificial Intelligence" in Fall 2023.
+* 2023/04: Three papers ([training dynamics of continual learning](ttps://arxiv.org/pdf/2304.04158.pdf), [continual RL via sparse prompting](https://arxiv.org/pdf/2305.18444.pdf), [structured cooperative learning](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)) have been accepted by [ICML 2023](https://icml.cc/). See you at Hawaii in July!
+* 2023/04: One paper about personalization in federated recommendation system has been accepted by [IJCAI 2023](https://ijcai-23.org/). 
+* 2022/12: I will teach CMSC-828A on "Fantastic Machine Learning Paradigms and Where to use Them" in Spring 2023.
+* 2022/12: I will serve as an SPC (meta-reviewer) for [IJCAI 2023](https://ijcai-23.org/).
+* 2022/11: One [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) paper on extracting local reasoning chains for subtasks from neural networks such as ResNet and ViT has been accepted by [TMLR](https://www.jmlr.org/tmlr/).
+* 2022/10: One paper ([adversarial attacks to Question-Answer models](https://arxiv.org/pdf/2210.15221.pdf)) has been accepted by [EMNLP 2022](https://2022.emnlp.org/).
+* 2022/09: Three papers ([adversarial augmentation for continual learning](https://openreview.net/pdf?id=XEoih0EwCwL), [adversarial augmentation for representation learning](https://arxiv.org/pdf/2211.00824.pdf), [federated learning from pre-trained models](https://arxiv.org/pdf/2209.10083.pdf)) have been accepted by [NeurIPS 2022](https://neurips.cc/).
+* 2021/12: One paper of [Federated Prototype Learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 2021/11: I will serve as an SPC for [SIGKDD 2022](https://kdd.org/kdd2022/). 
 * 2021/09: Three papers (1 spotlight for [Submodular Partitioning](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Curriculum RL and Planning](https://papers.nips.cc/paper/2021/file/56577889b3c1cd083b6d7b32d32f99d5-Paper.pdf), [Class-Disentanglement](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf)) have been accepted to [NeurIPS 2021](https://nips.cc/). Congratulations to Shuang Ao and Kaiwen Yang for their first paper!
 * 2021/09: [One paper of sentiment bias](https://arxiv.org/pdf/2109.02403.pdf) has been accepted to [EMNLP 2021](https://2021.emnlp.org/) (findings). 
