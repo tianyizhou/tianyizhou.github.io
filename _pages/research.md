@@ -79,16 +79,14 @@ redirect_from:
 1. Kaiwen Yang, Yanchao Sun, Jiahao Su, Fengxiang He, Xinmei Tian, Furong Huang, Tianyi Zhou, Dacheng Tao, "***Adversarial Auto-Augment with Label Preservation: A Representation Learning Principle Guided Approach***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
 1. Kaiwen Yang, Tianyi Zhou, Xinmei Tian, Dacheng Tao, "***Identity-Disentangled Adversarial Augmentation for Self-supervised Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/yang22s/yang22s.pdf)
 
-## Data Augmentation and Synthesis
+## Continual Learning, Plasticity-Stability Trade-off
 -----
-* Continual Learning, Plasticity-Stability Trade-off
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang. "***Does Continual Learning Equally Forget All Parameters?***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2304.04158.pdf)
 1. Yijun Yang, Tianyi Zhou, Jing Jiang, Guodong Long, and Yuhui Shi. "***Continual Task Allocation in Meta-Policy Network via Sparse Prompting***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2305.18444.pdf), [Code](https://github.com/stevenyangyj/CoTASP)
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=XEoih0EwCwL)
 
-## Data Augmentation and Synthesis
+## Transfer Learning, Multi-task Learning, Meta-Learning
 -----
-* Transfer Learning, Multi-task Learning, Meta-Learning
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Voting from Nearest Tasks: Meta-Vote Pruning of Pre-trained Models for Downstream Tasks***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. [PDF](https://arxiv.org/pdf/2301.11560.pdf)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong and Chengqi Zhang, "***Isometric Propagation Network for Generalized Zero-shot Learning***", International Conference on Learning Representations (ICLR), 2021. [PDF](https://openreview.net/pdf?id=-mWcQVLPSPy)
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Attribute Propagation Network for Graph Zero-shot Learning***", The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, 2020. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5923/5779), [Code](https://github.com/liulu112601/), [Poster](https://liulu112601.github.io/resources/APNet-poster-tianyi.pdf)
