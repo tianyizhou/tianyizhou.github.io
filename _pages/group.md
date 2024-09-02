@@ -3,6 +3,8 @@ layout: archive
 title: "Group"
 permalink: /group/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
@@ -20,7 +22,7 @@ author_profile: true
 1. Daeun Jung
 1. [Ming Li](https://mingliiii.github.io/)
 1. Yijun Liang
-1. [Ziyue Li](https://scholar.google.com/citations?user=NQVzCSkAAAAJ&hl=zh-CN)
+1. [Ziyue Li](https://l0i6t1z9y.github.io/)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 
