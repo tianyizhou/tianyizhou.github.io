@@ -81,8 +81,7 @@ Service
 * Meta-Reviewer for
   * ICPR 2024
   * IJCAI 2023
-  * WACV 2023
-  * WACV 2022
+  * WACV 2022, 2023, 2024
   * SIGKDD 2022
   * AAAI 2021
 
