@@ -9,10 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-
-## Curriculum Learning
+## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
-1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
+* LLMs
+1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Nikhil Sarda, Anthony Rowe, Jeff Bilmes, "***BumbleBee: Dynamic KV Cache Summarization in Transformers using Submodular Optimization***", First Conference on Language Modeling (COLM), 2024. [PDF](https://openreview.net/pdf?id=8w0RApM5yG)
+1. Ming Li, Yong Zhang, Shwai He, Zhitao Li, Hongyu Zhao, Jianzong Wang, Ning Cheng, and Tianyi Zhou, "***Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning***", Annual Meeting of the Association for Computational Linguistics (ACL), 2024. [PDF](https://arxiv.org/pdf/2402.00530), [CODE](https://github.com/tianyi-lab/Superfiltering)
+1. Yibin Lei, Di Wu, Tianyi Zhou, Tao Shen, Yu Cao, Chongyang Tao, and Andrew Yates, "***Meta-Task Prompting Elicits Embedding from Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL), 2024. [PDF](https://arxiv.org/pdf/2402.18458), [CODE](https://github.com/Yibin-Lei/MetaEOL)
+1. Dang Nguyen, Jiuhai Chen, and Tianyi Zhou, "***Multi-Objective Linguistic Control of Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2406.16229), [CODE](https://github.com/tianyi-lab/mctune)
+1. Ming Li, Jiuhai Chen, Lichang Chen, and Tianyi Zhou, "***Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2402.10614), [CODE](https://github.com/tianyi-lab/DEBATunE) 
+1. Ming Li, Lichang Chen, Jiuhai Chen, Shwai He, Jiuxiang Gu, and Tianyi Zhou, "***Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2402.10110), [CODE](https://github.com/tianyi-lab/Reflection_Tuning)
+1. Tao Shen, Guodong Long, Xiubo Geng, Chongyang Tao, Yibin Lei, Tianyi Zhou, Michael Blumenstein, and Daxin Jiang, "***Large Language Models are Strong Zero-Shot Retriever***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2304.14233)
+1. Lichang Chen\*, Jiuhai Chen\*, Heng Huang, Tom Goldstein, and Tianyi Zhou. "***InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2306.03082), [CODE](https://github.com/Lichang-Chen/InstructZero)
+1. Ruochen Wang, Sohyun An, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, and Cho-Jui Hsieh. "***One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2407.00256), [CODE](https://github.com/ruocwang/mixture-of-prompts)
+1. Lichang Chen, Chen Zhu, Davit Soselia, Jiuhai Chen, Tianyi Zhou, Tom Goldstein, Heng Huang, Mohammad Shoeybi, and Bryan Catanzaro. "***ODIN: Disentangled Reward Mitigates Hacking in RLHF***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2402.07319), [MODEL](https://huggingface.co/Lichang-Chen/ODIN-ppo-L230-best)
+1. Lichao Sun, Yue Huang, et al. "***TrustLLM: Trustworthiness in Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2401.05561)
+1. Ming Li, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, and Jing Xiao. "***From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. [PDF](https://arxiv.org/pdf/2308.12032), [CODE](https://github.com/tianyi-lab/Cherry_LLM)
+1. Lilly Kumari, Shengjie Wang, Arnav Mohanty Das, Tianyi Zhou, and Jeff Bilmes. "***An End-to-End Submodular Framework for Data-Efficient In-Context Learning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024. [PDF](https://aclanthology.org/2024.findings-naacl.209.pdf)
+1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024. [PDF](https://arxiv.org/pdf/2402.18031)
+1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
+1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
+
+* MLLMs
+1. Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, and Tianyi Zhou. "***HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models***", IEEE/CVF Conference on Computer Vision and Pattern Recognition
+(CVPR), 2024. [PDF](https://arxiv.org/pdf/2310.14566), [CODE+DATA](https://github.com/tianyi-lab/HallusionBench)
+1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
+1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://arxiv.org/pdf/2310.04550.pdf)
+
+
+* Diffusion Models
+1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh, "***When and How do negative prompts take effect?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2406.02965)
+1. Soumik Mukhopadhyay, Matthew Gwilliam, Yosuke Yamaguchi, Vatsal Agarwal, Namitha Padmanabhan, Archana Swaminathan, Tianyi Zhou, Jun Ohya, Abhinav Shrivastava, "***Do text-free diffusion models learn discriminative visual representations?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2311.17921)
+
+## Curriculum Learning, Data Selection
+-----
+1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024. [PDF](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2002.pdf)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
@@ -40,11 +70,8 @@ redirect_from:
 1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Sen Wang and Chengqi Zhang, "***Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling***", International Joint Conferences on Artificial Intelligence (IJCAI), Stockholm, Sweden, 2018. [PDF](https://www.ijcai.org/Proceedings/2018/0604.pdf), [Code](https://github.com/taoshen58/ReSAN)
 
 
-## Natural Language Processing
+## Natural Language Processing (pre-LLM)
 -----
-1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
-1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024.
-1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 1. Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. [PDF](https://arxiv.org/pdf/2310.09832.pdf)
 1. Yu Cao, Dianqi Li, Meng Fang, Tianyi Zhou, Jun Gao, Yibing Zhan, Dacheng Tao, "***TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack***", The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
 1. Le Hou\*, Richard Yuanzhe Pang\*, Tianyi Zhou, Yuexin Wu, Xinying Song, Xiaodan Song, Denny Zhou, "***Token Dropping for Efficient BERT Pretraining***", Annual Meeting of the Association for Computational Linguistics (ACL), 2022. [PDF](https://arxiv.org/pdf/2203.13240.pdf)
@@ -59,7 +86,7 @@ redirect_from:
 1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Shirui Pan and Chengqi Zhang, "***DiSAN: Directional self-attention network for rnn/cnn-free language understanding***", The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Louisiana, USA, 2018. (<span style="color:red"> *Most cited student's paper, 808 citations* </span>) [PDF](https://arxiv.org/pdf/1709.04696.pdf), [Code](https://github.com/taoshen58/DiSAN)
 
 
-## Federated Learning, Decentralized Learning
+## Distributed (Federated, Decentralized) Learning
 -----
 1. Zhiwei Li, Guodong Long, Tianyi Zhou, "***Federated Recommendation with Additive Personalization***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=xkXdE81mOK)
 1. Jie Ma, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Structured Federated Learning through Clustered Additive Modeling***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://openreview.net/pdf?id=2XT3UpOv48)
