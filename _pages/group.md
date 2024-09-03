@@ -12,9 +12,9 @@ redirect_from:
 
 ## Current Ph.D. Students
 -----
-1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advise with [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/))
+1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. Kwesi Cobbina
-1. [Maharshi Gor](https://mgor.info/) (co-advise with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
+1. [Maharshi Gor](https://mgor.info/) (co-advised with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
 1. [Ming Li](https://mingliiii.github.io/)
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
