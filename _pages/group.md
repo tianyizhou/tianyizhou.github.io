@@ -13,8 +13,8 @@ redirect_from:
 ## Current Ph.D. Students
 -----
 1. [Shweta Bhardwaj](https://shwetabhardwaj44.github.io/)
-1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/))
-1. Kwesi Cobbina
+1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)(co-advised with [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/))
+1. [Kwesi Cobbina](https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en)
 1. [Maharshi Gor](https://mgor.info/) (co-advised with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
 1. [Ming Li](https://mingliiii.github.io/)
