@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<img src="/assets/img/topics.png" alt="Current Research Topics" style="height: 100px; width:100px;"/>
+
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
