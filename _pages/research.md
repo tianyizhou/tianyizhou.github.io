@@ -11,7 +11,7 @@ redirect_from:
 
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
-### LLMs
+### Large Language Models (LLMs)
 1. Ming Li, Pei Chen, Chenguang Wang, Hongyu Zhao, Yijun Liang, Yupeng Hou, Fuxiao Liu, and Tianyi Zhou, "***Mosaic IT: Enhancing Instruction Tuning with Data Mosaics***", arXiv:2405.13326, 2024. [PDF](https://arxiv.org/pdf/2405.13326), [CODE](https://github.com/tianyi-lab/Mosaic-IT)
 1. Lichang Chen, Jiuhai Chen, Chenxi Liu, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Heng Huang, and Tianyi Zhou, "***OPTune: Efficient Online Preference Tuning***", arXiv:2406.07657, 2024. [PDF](https://arxiv.org/pdf/2406.07657)
 1. Jiuhai Chen, Rifaa Qadri, Yuxin Wen, Neel Jain, John Kirchenbauer, Tianyi Zhou, Tom Goldstein, "***GenQA: Generating Millions of Instructions from a Handful of Prompts***", arXiv:2406.10323, 2024. [PDF](https://arxiv.org/pdf/2406.10323), [DATA](https://huggingface.co/datasets/tomg-group-umd/GenQA)
@@ -39,7 +39,7 @@ redirect_from:
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 
-### MLLMs
+### Multimodal Large Language Models (MLLMs)
 1. Xiyang Wu, Tianrui Guan, Dianqi Li, Shuaiyi Huang, Xiaoyu Liu, Xijun Wang, Ruiqi Xian, Abhinav Shrivastava, Furong Huang, Jordan Lee Boyd-Graber, Tianyi Zhou, Dinesh Manocha, "***AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models***", arXiv:2406.10900, 2024. [PDF](https://arxiv.org/pdf/2406.10900)
 1. Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh, "***MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?***", arXiv:2406.17806, 2024. [PDF](https://arxiv.org/pdf/2406.17806), [CODE](https://github.com/xirui-li/MOSSBench)
 1. Xiyao Wang, Jiuhai Chen, Zhaoyang Wang, Yuhang Zhou, Yiyang Zhou, Huaxiu Yao, Tianyi Zhou, Tom Goldstein, Parminder Bhatia, Furong Huang, Cao Xiao, "***Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement***", arXiv:2405.15973, 2024. [PDF](https://arxiv.org/pdf/2405.15973)
@@ -58,7 +58,7 @@ redirect_from:
 1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
 1. Soumik Mukhopadhyay, Matthew Gwilliam, Yosuke Yamaguchi, Vatsal Agarwal, Namitha Padmanabhan, Archana Swaminathan, Tianyi Zhou, Jun Ohya, Abhinav Shrivastava, "***Do text-free diffusion models learn discriminative visual representations?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2311.17921)
 
-## Curriculum Learning, Data Selection
+## Curriculum Learning and Data Selection
 -----
 1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024. [PDF](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2002.pdf)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
@@ -107,9 +107,10 @@ redirect_from:
 1. Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Shirui Pan and Chengqi Zhang, "***DiSAN: Directional self-attention network for rnn/cnn-free language understanding***", The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Louisiana, USA, 2018. (<span style="color:red"> *Most cited student's paper, 808 citations* </span>) [PDF](https://arxiv.org/pdf/1709.04696.pdf), [Code](https://github.com/taoshen58/DiSAN)
 
 
-## Distributed (Federated, Decentralized) Learning
+## Distributed and Collaborative (Federated, Decentralized) Learning
 -----
 1. Shutong Chen, Tianyi Zhou, Guodong Long, Jie Ma, Jing Jiang, Chengqi Zhang, "***Multi-Level Additive Modeling for Structured Non-IID Federated Learning***", arXiv:2405.16472, 2024. [PDF](https://arxiv.org/pdf/2405.16472)
+1. Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, Tianyi Zhou, "***Many-Objective Multi-Solution Transport***", arXiv:2403.04099, 2024. [PDF](https://arxiv.org/pdf/2403.04099)
 1. Zhiwei Li, Guodong Long, Tianyi Zhou, "***Federated Recommendation with Additive Personalization***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=xkXdE81mOK)
 1. Jie Ma, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Structured Federated Learning through Clustered Additive Modeling***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://openreview.net/pdf?id=2XT3UpOv48)
 1. Shuangtong Li, Tianyi Zhou, Xinmei Tian, and Dacheng Tao. "***Structured Cooperative Learning with Graphical Model Priors***", International Conference on Machine Learning (ICML), 2023. [PDF](https://github.com/ShuangtongLi/SCooL/blob/main/paper/SCooL_ICML2023.pdf)
@@ -153,7 +154,7 @@ redirect_from:
 1. Tianyi Zhou, Hua Ouyang, Jeff A. Bilmes, Yi Chang and Carlos Guestrin, "***Scaling Submodular Maximization via Pruned Submodularity Graphs***", Twentyth International Conference on Artificial Intelligence and Statistics (AISTATS), Fort Lauderdale, FL, 2017. [PDF](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf), [Appendix](http://proceedings.mlr.press/v54/zhou17a/zhou17a-supp.pdf)
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv:1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389)
 
-## Matrix Factorization and Disentanglement
+## Matrix Factorization and Feature Disentanglement
 -----
 1. Kaiwen Yang, Tianyi Zhou, Yonggang Zhang, Xinmei Tian, Dacheng Tao, "***Class-Disentanglement and Applications in Adversarial Detection and Defense***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. [PDF](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf), [Appendix](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf)
 1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
