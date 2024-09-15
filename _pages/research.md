@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img title="Current Research Topics" src="/assets/img/topics.png" alt="Current Research Topics" style="height: 210px; width: 386px;"/>
+<img title="Current Research Topics" src="/assets/img/topics.png" alt="Current Research Topics" style="height: 700px; width: 1289px;"/>
 
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
