@@ -79,6 +79,7 @@ Teaching
 Service
 ======
 * Meta-Reviewer for
+  * ICLR 2025
   * ICPR 2024
   * IJCAI 2023
   * WACV 2022, 2023, 2024
