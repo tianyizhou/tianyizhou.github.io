@@ -22,3 +22,12 @@ redirect_from:
 1. [Ziyue Li](https://l0i6t1z9y.github.io/)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
+
+## Alumni
+-----
+1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
+1. [Lu Liu](https://liulu112601.github.io/), Google
+1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
+1. [Yijun Yang](https://stevenyangyj.github.io/), Tencent AI Lab
+1. [Kaiwen Yang](https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en), Bytedance
+1. [Shuangtong Li](http://staff.ustc.edu.cn/~xinmei/stli.html)
