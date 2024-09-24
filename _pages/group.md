@@ -24,6 +24,16 @@ redirect_from:
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 
 
+## Alumni
+-----
+1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
+1. [Lu Liu](https://liulu112601.github.io/), Google
+1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
+1. [Yijun Yang](https://stevenyangyj.github.io/), Tencent AI Lab
+1. [Kaiwen Yang](https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en), Bytedance
+1. [Shuangtong Li](http://staff.ustc.edu.cn/~xinmei/stli.html)
+
+
 ## Collaborating Ph.D. Students
 -----
 1. [Lichang Chen](https://lichang-chen.github.io/)
@@ -42,13 +52,3 @@ redirect_from:
 1. [Ruochen Wang](https://ruocwang.github.io/)
 1. [Yucheng Yang](https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN)
 1. [Jieyu Zhang](https://jieyuz2.github.io/)
-
-
-## Alumni
------
-1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
-1. [Lu Liu](https://liulu112601.github.io/), Google
-1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
-1. [Yijun Yang](https://stevenyangyj.github.io/), Tencent AI Lab
-1. [Kaiwen Yang](https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en), Bytedance
-1. [Shuangtong Li](http://staff.ustc.edu.cn/~xinmei/stli.html)
