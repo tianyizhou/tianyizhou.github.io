@@ -23,6 +23,27 @@ redirect_from:
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 
+
+## Collaborating Ph.D. Students
+-----
+1. [Lichang Chen](https://lichang-chen.github.io/)
+1. [Chunxu Zhang](https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN)
+1. [Tianrui Guan](https://tianruiguan.phd/)
+1. [Jie Ma](https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en)
+1. [Qiang He](https://sweetice.github.io/)
+1. [Chengkai Hou](https://jackhck.github.io/)
+1. [Divya Kothandaraman](https://divyakraman.github.io/)
+1. [Lilly Kumari](https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en)
+1. [Zhiwei Li](https://profiles.uts.edu.au/student_Zhiwei.Li)
+1. [Yibin Lei](https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en)
+1. [Fuxiao Liu](https://fuxiaoliu.github.io/)
+1. [Yu Shen](https://www.cs.umd.edu/~yushen/)
+1. [Wensi Tang](https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en)
+1. [Ruochen Wang](https://ruocwang.github.io/)
+1. [Yucheng Yang](https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN)
+1. [Jieyu Zhang](https://jieyuz2.github.io/)
+
+
 ## Alumni
 -----
 1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
