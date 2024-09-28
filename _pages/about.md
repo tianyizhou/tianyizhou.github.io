@@ -20,7 +20,7 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 
 News
 ------
-* 2024/09: Five papers (3 main + 2 findings) are accepted by [EMNLP 2024](https://2024.emnlp.org/). 
+* 2024/09: Five papers (3 main + 2 findings) have been accepted by [EMNLP 2024](https://2024.emnlp.org/). 
 * 2024/09: I will serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
 * 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications and new datasets. 
 * 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
