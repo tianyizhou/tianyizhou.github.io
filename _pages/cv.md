@@ -78,7 +78,10 @@ Teaching
   
 Service
 ======
-* Meta-Reviewer for
+* Student Travel Award Chair for
+  * The Wed Conference (WWW) 2025
+
+* Meta-Reviewer or Area Chair for
   * ICLR 2025
   * ICPR 2024
   * IJCAI 2023
