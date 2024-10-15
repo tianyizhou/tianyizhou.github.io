@@ -14,6 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", arXiv:2410.10814, 2024. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Ming Li, Pei Chen, Chenguang Wang, Hongyu Zhao, Yijun Liang, Yupeng Hou, Fuxiao Liu, and Tianyi Zhou, "***Mosaic IT: Enhancing Instruction Tuning with Data Mosaics***", arXiv:2405.13326, 2024. [PDF](https://arxiv.org/pdf/2405.13326), [CODE](https://github.com/tianyi-lab/Mosaic-IT)
 1. Lichang Chen, Jiuhai Chen, Chenxi Liu, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Heng Huang, and Tianyi Zhou, "***OPTune: Efficient Online Preference Tuning***", arXiv:2406.07657, 2024. [PDF](https://arxiv.org/pdf/2406.07657)
