@@ -14,6 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou, "***BenTo: Benchmark Task Reduction with In-Context Transferability***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/pdf/2410.13804), [CODE](https://github.com/tianyi-lab/bento)
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", arXiv:2410.10814, 2024. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Ming Li, Pei Chen, Chenguang Wang, Hongyu Zhao, Yijun Liang, Yupeng Hou, Fuxiao Liu, and Tianyi Zhou, "***Mosaic IT: Enhancing Instruction Tuning with Data Mosaics***", arXiv:2405.13326, 2024. [PDF](https://arxiv.org/pdf/2405.13326), [CODE](https://github.com/tianyi-lab/Mosaic-IT)
@@ -24,6 +25,7 @@ redirect_from:
 1. Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou, "***A survey on knowledge distillation of large language models***", arXiv:2402.13116, 2024. [PDF](https://arxiv.org/pdf/2402.13116), [CODE](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)
 1. Linxin Song, Jieyu Zhang, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, and Irene Li, "***NLPBench: Evaluating Large Language Models on Solving NLP Problems***", arXiv:2309.15630, 2023. [PDF](https://arxiv.org/pdf/2309.15630), [CODE](https://github.com/LinxinS97/NLPBench)
 1. Jiuhai Chen, Lichang Chen, Heng Huang, and Tianyi Zhou, "***When do you need Chain-of-Thought Prompting for ChatGPT?***", arXiv:2304.03262, 2023. [PDF](https://arxiv.org/pdf/2304.03262)
+1. Mucong Ding, Chenghao Deng, Jocelyn Choo, Zichu Wu, Aakriti Agrawal, Avi Schwarzschild, Tianyi Zhou, Tom Goldstein, John Langford, Anima Anandkumar, Furong Huang, "***Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization***", Advances in Neural Information Processing Systems 38 (NeurIPS Datasets and Benchmarks Track), 2024. [PDF](https://arxiv.org/pdf/2409.18433), [DATASET](https://huggingface.co/datasets/furonghuang-lab/Easy2Hard-Bench)
 1. Maharshi Gor, Hal Daumé III, Tianyi Zhou, Jordan Lee Boyd-Graber, "***Do great minds think alike? Investigating Human-AI Complementarity for Question Answering***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2410.06524)
 1. Hanchi Sun, Tianyi Zhou, Xun Chen, Lichao Sun, "***SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://openreview.net/pdf?id=z4zVpx8OLs), [CODE](https://github.com/MasterGodzilla/Speculative_decoding_OT)
 1. Yue Huang, Chenrui Fan, Yuan Li, Siyuan Wu, Tianyi Zhou, Xiangliang Zhang, Lichao Sun, "***1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2406.14721)
@@ -46,6 +48,7 @@ redirect_from:
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 
 ### Multimodal Large Language Models (MLLMs)
+1. Lichang Chen, Hexiang Hu, Mingda Zhang, Yiwen Chen, Zifeng Wang, Yandong Li, Pranav Shyam, Tianyi Zhou, Heng Huang, Ming-Hsuan Yang, Boqing Gong, "***OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities***", arXiv:2410.12219, 2024. [PDF](https://arxiv.org/pdf/2410.12219)
 1. Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh, "***MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?***", arXiv:2406.17806, 2024. [PDF](https://arxiv.org/pdf/2406.17806), [CODE](https://github.com/xirui-li/MOSSBench)
 1. Xiyao Wang, Jiuhai Chen, Zhaoyang Wang, Yuhang Zhou, Yiyang Zhou, Huaxiu Yao, Tianyi Zhou, Tom Goldstein, Parminder Bhatia, Furong Huang, Cao Xiao, "***Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement***", arXiv:2405.15973, 2024. [PDF](https://arxiv.org/pdf/2405.15973)
 1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
@@ -59,6 +62,7 @@ redirect_from:
 
 
 ### Diffusion Models
+1. Yijun Liang*, Shweta Bhardwaj*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", arXiv:2410.13674, 2024. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, and Minhao Cheng, "***The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise***", arXiv:2406.01970, 2024. [PDF](https://arxiv.org/pdf/2406.01970)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh, "***When and How do negative prompts take effect?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2406.02965)
 1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
