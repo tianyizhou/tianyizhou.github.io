@@ -19,7 +19,7 @@ redirect_from:
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Ming Li, Pei Chen, Chenguang Wang, Hongyu Zhao, Yijun Liang, Yupeng Hou, Fuxiao Liu, and Tianyi Zhou, "***Mosaic IT: Enhancing Instruction Tuning with Data Mosaics***", arXiv:2405.13326, 2024. [PDF](https://arxiv.org/pdf/2405.13326), [CODE](https://github.com/tianyi-lab/Mosaic-IT)
 1. Lichang Chen, Jiuhai Chen, Chenxi Liu, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Heng Huang, and Tianyi Zhou, "***OPTune: Efficient Online Preference Tuning***", arXiv:2406.07657, 2024. [PDF](https://arxiv.org/pdf/2406.07657)
-1. Jiuhai Chen, Rifaa Qadri, Yuxin Wen, Neel Jain, John Kirchenbauer, Tianyi Zhou, Tom Goldstein, "***GenQA: Generating Millions of Instructions from a Handful of Prompts***", arXiv:2406.10323, 2024. [PDF](https://arxiv.org/pdf/2406.10323), [DATA](https://huggingface.co/datasets/tomg-group-umd/GenQA)
+1. Jiuhai Chen, Rifaa Qadri, Yuxin Wen, Neel Jain, John Kirchenbauer, Tianyi Zhou, Tom Goldstein, "***GenQA: Generating Millions of Instructions from a Handful of Prompts***", arXiv:2406.10323, 2024. [PDF](https://arxiv.org/pdf/2406.10323), [DATASET](https://huggingface.co/datasets/tomg-group-umd/GenQA)
 1. Ming Li, Han Chen, Chenguang Wang, Dang Nguyen, Dianqi Li, Tianyi Zhou, "***RuleR: Improving LLM Controllability by Rule-based Data Recycling***", arXiv:2406.15938, 2024. [PDF](https://arxiv.org/pdf/2406.15938), [CODE](https://github.com/tianyi-lab/RuleR)
 1. Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun, "***UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models***", arXiv:2406.18966, 2024. [PDF](https://arxiv.org/pdf/2406.18966), [CODE](https://github.com/HowieHwong/UniGen)
 1. Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou, "***A survey on knowledge distillation of large language models***", arXiv:2402.13116, 2024. [PDF](https://arxiv.org/pdf/2402.13116), [CODE](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)
@@ -60,13 +60,17 @@ redirect_from:
 1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
 1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://arxiv.org/pdf/2310.04550.pdf)
 
-
 ### Diffusion Models
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", arXiv:2410.13674, 2024. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, and Minhao Cheng, "***The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise***", arXiv:2406.01970, 2024. [PDF](https://arxiv.org/pdf/2406.01970)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh, "***When and How do negative prompts take effect?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2406.02965)
 1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
 1. Soumik Mukhopadhyay, Matthew Gwilliam, Yosuke Yamaguchi, Vatsal Agarwal, Namitha Padmanabhan, Archana Swaminathan, Tianyi Zhou, Jun Ohya, Abhinav Shrivastava, "***Do text-free diffusion models learn discriminative visual representations?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2311.17921)
+
+## LLM/VLM-based Agent
+1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
+1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
+1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
 
 ## Curriculum Learning and Data Selection
 -----
@@ -134,6 +138,7 @@ redirect_from:
 
 ## Data Augmentation and Synthesis
 -----
+1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", arXiv:2410.13674, 2024. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image***", arXiv:2311.15478, 2023. [PDF](https://arxiv.org/pdf/2311.15478)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models***", The 16th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia Pacific (SIGGRAPH Asia), 2023. [PDF](https://arxiv.org/pdf/2303.11444.pdf), [CODE](https://github.com/divyakraman/AerialDiffusion)
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://papers.neurips.cc/paper_files/paper/2022/file/b6ffbbacbe2e56f2ec9a0da907382b4a-Paper-Conference.pdf), [CODE](https://github.com/lillykumari8/RAR-CL)
@@ -142,6 +147,7 @@ redirect_from:
 
 ## Continual Learning, Plasticity-Stability Trade-off
 -----
+1. Jiangtao Kong, Jiacheng Shi, Ashley Gao, Shaohan Hu, Tianyi Zhou, Huajie Shao, "***Hybrid Memory Replay: Blending Real and Distilled Data for Class Incremental Learning***", arXiv:2410.15372, 2024. [PDF](https://arxiv.org/pdf/2410.15372)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***Condensed Prototype Replay for Class Incremental Learning***", arXiv:2305.16143, 2023. [PDF](https://arxiv.org/pdf/2305.16143)
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang. "***Does Continual Learning Equally Forget All Parameters?***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2304.04158.pdf)
 1. Yijun Yang, Tianyi Zhou, Jing Jiang, Guodong Long, and Yuhui Shi. "***Continual Task Allocation in Meta-Policy Network via Sparse Prompting***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2305.18444.pdf), [Code](https://github.com/stevenyangyj/CoTASP)
