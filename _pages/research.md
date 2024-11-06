@@ -14,6 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 1. Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou, "***BenTo: Benchmark Task Reduction with In-Context Transferability***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/pdf/2410.13804), [CODE](https://github.com/tianyi-lab/bento)
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", arXiv:2410.10814, 2024. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
