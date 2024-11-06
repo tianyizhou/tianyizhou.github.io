@@ -92,6 +92,7 @@ redirect_from:
 1. Tianyi Zhou, Jeff A. Bilmes and Carlos Guestrin, "***Divide-and-Conquer Learning by Anchoring a Conical Hull***", Twenty-Eighth Annual Conference on Neural Information Processing Systems  (NeurIPS), Montreal, Canada, 2014. [PDF](https://arxiv.org/pdf/1406.5752.pdf)
 1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
 
+
 ## Reinforcement Learning
 -----
 1. Shuang Ao, Tianyi Zhou, Guodong Long, Xuan Song, Jing Jiang, "***Curriculum Reinforcement Learning via Morphology-Environment Co-Evolution***", arXiv:2309.12529, 2023. [PDF](https://arxiv.org/pdf/2309.12529)
@@ -165,15 +166,16 @@ redirect_from:
 1. Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang, "***Many-Class Few-Shot Learning on Multi-Granularity Class Hierarchy***", IEEE Transactions on Knowledge and Data Engineering (T-KDE), 2020. [PDF](https://arxiv.org/pdf/2006.15479.pdf), [Code](https://github.com/liulu112601/)
 1. Tianyi Zhou and Dacheng Tao, "***Multi-task Copula by Sparse Graph Regression***", ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), NYC, USA, 2014. [PDF](https://tianyizhou.files.wordpress.com/2010/08/frp0819-zhoua.pdf)
 
-## Submodular Optimization
+## Optimization
 -----
+1. Tian Li, Tianyi Zhou, Jeffrey A Bilmes, "***Reweighting Local Mimina with Tilted SAM***", arXiv:2410.22656, 2024. [PDF](https://arxiv.org/pdf/2410.22656)
 1. Shengjie Wang\*, Tianyi Zhou\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. (<span style="color:red"> *Spotlight* </span>) [PDF](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Supplemental.pdf)
 1. Tianyi Zhou, Hua Ouyang, Jeff A. Bilmes, Yi Chang and Carlos Guestrin, "***Scaling Submodular Maximization via Pruned Submodularity Graphs***", Twentyth International Conference on Artificial Intelligence and Statistics (AISTATS), Fort Lauderdale, FL, 2017. [PDF](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf), [Appendix](http://proceedings.mlr.press/v54/zhou17a/zhou17a-supp.pdf)
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv:1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389)
 
 ## Matrix Factorization and Feature Disentanglement
 -----
-1. Kaiwen Yang, Tianyi Zhou, Yonggang Zhang, Xinmei Tian, Dacheng Tao, "***Class-Disentanglement and Applications in Adversarial Detection and Defense***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. [PDF](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf), [Appendix](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf)
+1. Kaiwen Yang, Tianyi Zhou, Yonggang Zhang, Xinmei Tian, Dacheng Tao, "***Class-Disentanglement and Applications in Adversarial Detection and Defense***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. [PDF](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf), [Appendix](https://proceedings.neurips.cc/paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Supplemental.pdf), [CODE](https://github.com/kai-wen-yang/CD-VAE)
 1. Tianyi Zhou, Wei Bian, and Dacheng Tao, "***Divide-and-Conquer Anchoring for Near Separable Nonnegative Matrix Factorization and Completion in High Dimensions***", IEEE International Conference on Data Mining (ICDM), pp., Dallas, TX, USA, 2013. (<span style="color:red"> *Best Student Paper Award* </span>) [PDF](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf), [Slides](https://tianyizhou.files.wordpress.com/2010/08/dca-icdm.pdf)
 1. Tianyi Zhou and Dacheng Tao, "***Shifted Subspaces Tracking on Sparse Outlier for Motion Segmentation***", International Joint Conferences on Artificial Intelligence (IJCAI), Beijing, China, 2013. [PDF](https://tianyizhou.files.wordpress.com/2010/08/278.pdf)
 1. Tianyi Zhou and Dacheng Tao, "***Greedy Bilateral Sketch, Completion & Smoothing***", International Conference on Artificial Intelligence and Statistics (AISTATS), Journal of Machine Learning Research - Proceedings Track, Scottsdale, Arizona, USA, 2013. [PDF](http://proceedings.mlr.press/v31/zhou13b.pdf)
