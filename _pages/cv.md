@@ -83,6 +83,7 @@ Service
 
 * Meta-Reviewer or Area Chair for
   * ICLR 2025
+  * ARR Dec 2024
   * ICPR 2024
   * IJCAI 2023
   * WACV 2022, 2023, 2024
