@@ -11,7 +11,7 @@ author_profile: true
 
 Preprints can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=OKvgizMAAAAJ&view_op=list_works&sortby=pubdate) or [Research](https://tianyizhou.github.io/research/)
 
-A more organized list of (selected) publications can be found [here](https://tianyizhou.github.io/cv/).
+<!-- A more organized list of (selected) publications can be found [here](https://tianyizhou.github.io/cv/). -->
 
 ## Conference
 -----
