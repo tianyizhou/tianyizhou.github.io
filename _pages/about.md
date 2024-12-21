@@ -44,8 +44,7 @@ Research Topics
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning
   1. Learning representations: Self-Supervised Learning, Dimension Reduction
   1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method
-  1. Optimization: Continuous, Combinatorial, Multi-Objective, Black-Box
-  1. Controllable Generative AI
+  1. Optimization: Continuous, Combinatorial, Multi-Objective, Zeroth-order
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
