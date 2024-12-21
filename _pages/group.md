@@ -17,6 +17,7 @@ redirect_from:
 1. [Kwesi Cobbina](https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en)
 1. [Maharshi Gor](https://mgor.info/) (co-advised with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
+1. [Fuxiao Liu](https://fuxiaoliu.github.io/)(co-advised with [Prof. Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Dr. Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
 1. [Ming Li](https://mingliiii.github.io/)
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
 1. [Ziyue Li](https://l0i6t1z9y.github.io/)
