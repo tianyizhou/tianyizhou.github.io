@@ -45,18 +45,23 @@ Research Topics
   1. Learning representations: Self-Supervised Learning, Dimension Reduction
   1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method
   1. Optimization: Continuous, Combinatorial, Multi-Objective, Black-Box
+  1. Controllable Generative AI
 
 * Natural Language Processing (2016-present)
-  1. Attention mechanisms
-  1. Toxicity and Bias in NLP models    
-  1. Adversarial textual attack and defense
-  1. Large language models (LLMs) ([Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), and [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM) created by our group)
-  1. Personalization
+  1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
+  1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM)), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT)
+  1. LLM Agents, NeuroSymbolic World Models: [Wall-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur)
+  1. Personalization and Human-AI Alignment: [DEBATunE](https://github.com/tianyi-lab/DEBATunE), [MCTune](https://github.com/tianyi-lab/mctune), [CAIMIRA](https://youtu.be/joeNRMM5abI)
+  1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
+  1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
+  1. Embedding: [MoEE](https://github.com/tianyi-lab/MoE-Embedding), [MetaEOL](https://github.com/Yibin-Lei/MetaEOL)
+  1. Adversarial attack and defense, regarding Jailbreak and Unlearning: [DrAttack](https://github.com/xirui-li/DrAttack)
 
 * Multi-modality Models (2021-present)
-  1. Vision-Language Models
-  1. Human-AI alignment
-  1. VLM/LLM + RL and Multi-modality Embodied-AI
+  1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL)
+  1. VLM + RL, Multi-modality Embodied-AI: [EMMA](https://github.com/stevenyangyj/Emma-Alfworld)
+  1. Multi-modal Generative Agents for Design Creativity: [MuLan](https://github.com/measure-infinity/mulan-code)
+  1. Hallucinations, Illusions, Oversensitivity: [HallusionBench](https://github.com/tianyi-lab/HallusionBench), [AutoHallusion](https://github.com/wuxiyang1996/AutoHallusion), [MOSSBench](https://github.com/xirui-li/MOSSBench)
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
