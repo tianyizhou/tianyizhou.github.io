@@ -55,12 +55,12 @@ Research Topics
   1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
   1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
   1. Embedding: [MoEE](https://github.com/tianyi-lab/MoE-Embedding), [MetaEOL](https://github.com/Yibin-Lei/MetaEOL)
-  1. Adversarial attack and defense, regarding Jailbreak and Unlearning: [DrAttack](https://github.com/xirui-li/DrAttack)
+  1. Adversarial attack and defense（Jailbreak, Unlearning, etc.): [DrAttack](https://github.com/xirui-li/DrAttack)
 
 * Multi-modality Models (2021-present)
   1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL)
   1. VLM + RL, Multi-modality Embodied-AI: [EMMA](https://github.com/stevenyangyj/Emma-Alfworld), [CoTASP](https://github.com/stevenyangyj/CoTASP)
-  1. Multi-modal Generative Agents for Design Creativity: [MuLan](https://github.com/measure-infinity/mulan-code)
+  1. Multi-modal Generative Agents: [MuLan](https://github.com/measure-infinity/mulan-code)
   1. Hallucinations, Illusions, Oversensitivity: [HallusionBench](https://github.com/tianyi-lab/HallusionBench), [AutoHallusion](https://github.com/wuxiyang1996/AutoHallusion), [MOSSBench](https://github.com/xirui-li/MOSSBench)
 
 <br />
