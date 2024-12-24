@@ -21,8 +21,9 @@ I was a visiting research scientist at Google between 2021-2022. Before that, I 
 News
 ------
 * 2024/12: I am going to serve as an Area Chair for [ARR](https://aclrollingreview.org/) Dec 2024. 
+* 2024/11: I am going to serve as an Area Chair (SPC) for [IJCAI 2025](https://2025.ijcai.org/). 
 * 2024/09: Five papers (3 main + 2 findings) have been accepted by [EMNLP 2024](https://2024.emnlp.org/). 
-* 2024/09: I will serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
+* 2024/09: I am going to serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
 * 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications and new datasets. 
 * 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
 * 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning. 
@@ -49,7 +50,7 @@ Research Topics
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
-  1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT)
+  1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT), [RuleR](https://github.com/tianyi-lab/RuleR)
   1. LLM Agents, NeuroSymbolic World Models: [Wall-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur)
   1. Personalization and Human-AI Alignment: [DEBATunE](https://github.com/tianyi-lab/DEBATunE), [MCTune](https://github.com/tianyi-lab/mctune), [CAIMIRA](https://youtu.be/joeNRMM5abI)
   1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
