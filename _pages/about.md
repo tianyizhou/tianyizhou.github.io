@@ -38,14 +38,14 @@ News
 Research Topics
 ------
 * Machine Learning (2008-present)
-  1. Learning over time: Curriculum Learning, Continual Learning
-  1. Learning via interactions: Reinforcement Learning, Online Learning
-  1. Learning across tasks/domains: Multi-task Learning, Meta-Learning, Domain Adaptation/Generalization
-  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning
-  1. Learning under noises: Noisy-Label Learning, Adversarial Learning
-  1. Learning representations: Self-Supervised Learning, Dimension Reduction
-  1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method
-  1. Optimization: Continuous, Combinatorial, Multi-Objective, Zeroth-order
+  1. Learning over time: Curriculum Learning, Continual Learning ([DisCL](https://github.com/tianyi-lab/DisCL), [DIH](https://github.com/tianyizhou/DIHCL), [MECE](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Time-Consistency](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [RAR](https://github.com/lillykumari8/RAR-CL), [FPF](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf))
+  1. Learning via interactions: Reinforcement Learning, Online Learning ([CHER](https://github.com/mengf1/CHER), [Unsupervised RL](https://openreview.net/pdf?id=zSxpnKh1yS), [CO-PILOT](https://github.com/Shuang-AO/CO-PILOT), [P3](https://github.com/stevenyangyj/P3))
+  1. Learning across tasks/domains: Multi-task Learning, Meta-Learning, Domain Adaptation/Generalization ([GPN](https://github.com/liulu112601/Gated-Propagation-Net), [MTC](https://dl.acm.org/doi/abs/10.1145/2623330.2623697?download=true))
+  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning ([DivE2](https://papers.nips.cc/paper_files/paper/2018/file/3070e6addcd702cb58de5d7897bfdae1-Paper.pdf), [L2C](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf), [DivFL](https://github.com/melodi-lab/divfl), [CAM](https://openreview.net/pdf?id=2XT3UpOv48))
+  1. Learning under noises: Noisy-Label Learning, Adversarial Learning ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [CD-VAE](https://github.com/kai-wen-yang/CD-VAE))
+  1. Learning representations: Self-Supervised Learning, Dimension Reduction ([MEN](https://arxiv.org/pdf/1007.3564), [LPA3](https://github.com/kai-wen-yang/LPA3), [IDAA](https://github.com/kai-wen-yang/IDAA))
+  1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method ([GoDec](https://icml.cc/Conferences/2011/papers/41_icmlpaper.pdf), [DCA](https://arxiv.org/pdf/1406.5752.pdf))
+  1. Optimization: Continuous, Combinatorial, Multi-Objective, Zeroth-order ([MosT](https://arxiv.org/pdf/2403.04099), [Minimax CL](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Partition](https://proceedings.neurips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [TSAM](https://arxiv.org/pdf/2410.22656))
   1. Controllable Generative AI
 
 * Natural Language Processing (2016-present)
