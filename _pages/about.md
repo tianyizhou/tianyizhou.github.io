@@ -44,7 +44,7 @@ Research Topics
   1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning ([DivE2](https://papers.nips.cc/paper_files/paper/2018/file/3070e6addcd702cb58de5d7897bfdae1-Paper.pdf), [L2C](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf), [DivFL](https://github.com/melodi-lab/divfl), [CAM](https://openreview.net/pdf?id=2XT3UpOv48))
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [CD-VAE](https://github.com/kai-wen-yang/CD-VAE))
   1. Learning representations: Self-Supervised Learning, Dimension Reduction ([MEN](https://arxiv.org/pdf/1007.3564), [LPA3](https://github.com/kai-wen-yang/LPA3), [IDAA](https://github.com/kai-wen-yang/IDAA))
-  1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method ([GoDec](https://icml.cc/Conferences/2011/papers/41_icmlpaper.pdf), [DCA](https://arxiv.org/pdf/1406.5752.pdf))
+  1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method ([GoDec](https://icml.cc/Conferences/2011/papers/41_icmlpaper.pdf), [DCA](https://arxiv.org/pdf/1406.5752.pdf), [k-bit HCS](https://ieeexplore.ieee.org/document/6620312))
   1. Optimization: Continuous, Combinatorial, Multi-Objective, Zeroth-order ([MosT](https://arxiv.org/pdf/2403.04099), [Minimax CL](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Partition](https://proceedings.neurips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [TSAM](https://arxiv.org/pdf/2410.22656))
   1. Controllable Generative AI
 
