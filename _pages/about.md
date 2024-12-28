@@ -51,7 +51,7 @@ Research Topics
 * Natural Language Processing (2016-present)
   1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
   1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT), [RuleR](https://github.com/tianyi-lab/RuleR)
-  1. LLM Agents, NeuroSymbolic World Models: [Wall-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur)
+  1. LLM Agents, NeuroSymbolic World Models: [WALL-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur)
   1. Personalization and Human-AI Alignment: [DEBATunE](https://github.com/tianyi-lab/DEBATunE), [MCTune](https://github.com/tianyi-lab/mctune), [CAIMIRA](https://youtu.be/joeNRMM5abI)
   1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
   1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
