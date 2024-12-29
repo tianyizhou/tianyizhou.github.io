@@ -56,6 +56,7 @@ Research Topics
   1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
   1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
   1. Embedding: [MoEE](https://github.com/tianyi-lab/MoE-Embedding), [MetaEOL](https://github.com/Yibin-Lei/MetaEOL)
+  1. Efficient Inference: [SpecHub](https://github.com/MasterGodzilla/Speculative_decoding_OT), [BumbleBee](https://openreview.net/pdf?id=8w0RApM5yG)
   1. Adversarial attack and defense（Jailbreak, Unlearning, etc.): [DrAttack](https://github.com/xirui-li/DrAttack)
 
 * Multi-modality Models (2021-present)
