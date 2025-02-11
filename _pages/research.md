@@ -14,7 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
-1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
+1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR) <span style="color:red"> *Oral* </span>, 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Ziyue Li, Tianyi Zhou, "***Sparser Mixture-of-Adapters with Cross-Layer Generalization***", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025. [PDF](), [CODE]()
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 1. Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou, "***BenTo: Benchmark Task Reduction with In-Context Transferability***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.13804), [CODE](https://github.com/tianyi-lab/bento)
