@@ -104,7 +104,7 @@ redirect_from:
 ## Reinforcement Learning
 -----
 1. Shuang Ao, Tianyi Zhou, Guodong Long, Xuan Song, Jing Jiang, "***Curriculum Reinforcement Learning via Morphology-Environment Co-Evolution***", arXiv:2309.12529, 2023. [PDF](https://arxiv.org/pdf/2309.12529)
-1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR), 2024. (<span style="color:red"> *Spotlight* </span>)[PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
+1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR) <span style="color:red"> *Spotlight* </span>, 2024. [PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=apXtolxDaJ)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Eigensubspace of Temporal-Difference Dynamics and How It Improves Value Approximation in Reinforcement Learning***", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD), 2023. 
 1. Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang, "***EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning***", International Conference on Machine Learning (ICML), 2022. [PDF](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
@@ -178,7 +178,7 @@ redirect_from:
 ## Optimization
 -----
 1. Tian Li, Tianyi Zhou, Jeffrey A Bilmes, "***Reweighting Local Mimina with Tilted SAM***", arXiv:2410.22656, 2024. [PDF](https://arxiv.org/pdf/2410.22656)
-1. Shengjie Wang\*, Tianyi Zhou\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS), 2021. (<span style="color:red"> *Spotlight* </span>) [PDF](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Supplemental.pdf)
+1. Shengjie Wang\*, Tianyi Zhou\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS) <span style="color:red"> *Spotlight* </span>, 2021. [PDF](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Supplemental.pdf)
 1. Tianyi Zhou, Hua Ouyang, Jeff A. Bilmes, Yi Chang and Carlos Guestrin, "***Scaling Submodular Maximization via Pruned Submodularity Graphs***", Twentyth International Conference on Artificial Intelligence and Statistics (AISTATS), Fort Lauderdale, FL, 2017. [PDF](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf), [Appendix](http://proceedings.mlr.press/v54/zhou17a/zhou17a-supp.pdf)
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv:1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389)
 
