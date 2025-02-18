@@ -20,7 +20,7 @@ redirect_from:
 1. [Fuxiao Liu](https://fuxiaoliu.github.io/)(co-advised with [Prof. Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Dr. Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
 1. [Ming Li](https://mingliiii.github.io/)
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
-1. [Ziyue Li](https://l0i6t1z9y.github.io/)
+1. [Ziyue Li](https://litzy0619.github.io/)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
 1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
 
