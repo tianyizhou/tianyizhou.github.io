@@ -20,7 +20,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Boqi
 
 News
 ------
-* 2025/02: Check the first "Aha moment" of multimodal reasoning by RL [here](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) acheived by VisualThinker-R1-Zero from our [Turningpoint-AI](https://www.turningpoint-ai.com/people)
+* 2025/02: Check the very first "Aha moment" of multimodal reasoning by RL [here](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) acheived by VisualThinker-R1-Zero from our [Turningpoint-AI](https://www.turningpoint-ai.com/people)
 * 2025/01: 7 ICLR + 3 NAACL accepted, featuring our latest works on [synthetic data for post-training](https://github.com/tianyi-lab/RuleR), [MoE](https://github.com/tianyi-lab/MoE-Embedding) <span style="color:red">*(ICLR Oral)*</span>, [many-objective optimization](https://arxiv.org/pdf/2403.04099), [in-context transferality](https://github.com/tianyi-lab/bento), [multi-modality imbalance](https://arxiv.org/pdf/2410.12219) & [alignment](https://arxiv.org/pdf/2405.15973), [oversensitiveness](https://github.com/xirui-li/MOSSBench) & [controllability of GenAI](https://arxiv.org/pdf/2406.01970). 
 * 2024/12: I am going to serve as an Area Chair for [ARR](https://aclrollingreview.org/) Dec 2024 & Feb 2025 ([ACL 2025](https://2025.aclweb.org/)). 
 * 2024/11: I am going to serve as an Area Chair (SPC) for [IJCAI 2025](https://2025.ijcai.org/). 
