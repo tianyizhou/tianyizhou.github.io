@@ -28,7 +28,7 @@ redirect_from:
 ## Alumni
 -----
 1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
-1. [Lu Liu](https://liulu112601.github.io/), Google
+1. [Lu Liu](https://liulu112601.github.io/), OpenAI
 1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
 1. [Yijun Yang](https://stevenyangyj.github.io/), Tencent AI Lab
 1. [Kaiwen Yang](https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en), Bytedance
