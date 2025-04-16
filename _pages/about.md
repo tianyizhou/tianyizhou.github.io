@@ -21,6 +21,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Boqi
 News
 ------
 * 2025/04: I am going to serve as an Area Chair of [NeurIPS 2025](https://neurips.cc/). 
+* 2025/03: [Florence-VL](https://github.com/JiuhaiChen/CVPR2025-Florence-VL) (3B/8B pretrained/SFT VLMs) trained with depth-breadth fusion has been accepted by [CVPR 2025](https://cvpr.thecvf.com/) and the complete training recipe has been open-sourced. 
 * 2025/02: Check the very first ["Aha moment" of multimodal reasoning by RL](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) acheived by VisualThinker-R1-Zero from our [TurningPoint-AI](https://www.turningpoint-ai.com/people) team!
 * 2025/01: 7 ICLR + 3 NAACL accepted, featuring our latest works on [synthetic data for post-training](https://github.com/tianyi-lab/RuleR), [MoE](https://github.com/tianyi-lab/MoE-Embedding) <span style="color:red">*(ICLR Oral)*</span>, [many-objective optimization](https://arxiv.org/pdf/2403.04099), [in-context transferality](https://github.com/tianyi-lab/bento), [multi-modality imbalance](https://arxiv.org/pdf/2410.12219) & [alignment](https://arxiv.org/pdf/2405.15973), [oversensitiveness](https://github.com/xirui-li/MOSSBench) & [controllability of GenAI](https://arxiv.org/pdf/2406.01970). 
 * 2024/12: I am going to serve as an Area Chair for [ARR](https://aclrollingreview.org/) Dec 2024 & Feb 2025 ([ACL 2025](https://2025.aclweb.org/)). 
