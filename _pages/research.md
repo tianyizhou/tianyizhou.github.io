@@ -14,7 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
-1. Ming Li, Yanhong Li, Ziyue Li, \textbf{Tianyi Zhou}, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
+1. Ming Li, Yanhong Li, Ziyue Li, Tianyi Zhou, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
 1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Rea-
 soning Models losing Critical Thinking Skill?***", arXiv:2504.06514, 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
