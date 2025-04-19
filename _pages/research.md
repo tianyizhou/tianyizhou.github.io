@@ -14,10 +14,12 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Ming Li, Yanhong Li, Ziyue Li, \textbf{Tianyi Zhou}, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
 1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Rea-
 soning Models losing Critical Thinking Skill?***", arXiv:2504.06514, 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
 Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
+1. Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou, "***ATLaS: Agent tuning via learning critical steps***", arXiv:2503.02197, 2025. [PDF](https://arxiv.org/pdf/2503.02197), [CODE]()
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR) <span style="color:red"> *Oral* </span>, 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Ziyue Li, Tianyi Zhou, "***Sparser Mixture-of-Adapters with Cross-Layer Generalization***", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025. [PDF](), [CODE]()
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
