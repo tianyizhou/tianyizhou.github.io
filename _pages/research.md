@@ -15,8 +15,7 @@ redirect_from:
 -----
 ### Large Language Models (LLMs)
 1. Ming Li, Yanhong Li, Ziyue Li, Tianyi Zhou, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
-1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Rea-
-soning Models losing Critical Thinking Skill?***", arXiv:2504.06514, 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
+1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", arXiv:2504.06514, 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
 Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou, "***ATLaS: Agent tuning via learning critical steps***", arXiv:2503.02197, 2025. [PDF](https://arxiv.org/pdf/2503.02197), [CODE]()
@@ -170,6 +169,8 @@ alization via Model Merging***", arXiv:2504.06768, 2025. [PDF](https://arxiv.org
 ## Data Augmentation and Synthesis
 -----
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", arXiv:2410.13674, 2024. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
+1. Han Bao, Yue Huang, Yanbo Wang, Jiayi Ye, Xiangqi Wang, Xiuying Chen, Yue Zhao, Tianyi Zhou, Mohamed Elhoseiny, Xiangliang Zhang, "***AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?***", arXiv:2410.21259, 2024. PDF](https://arxiv.org/pdf/2410.21259), [CODE](https://github.com/wad3birch/AutoBench-V)
+1. Xiyang Wu\*, Tianrui Guan\*, Dianqi Li, Shuaiyi Huang, Xiaoyu Liu, Xijun Wang, Ruiqi Xian, Abhinav Shrivastava, Furong Huang, Jordan Lee Boyd-Graber, Tianyi Zhou, Dinesh Manocha, "***AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2024. [PDF](https://arxiv.org/pdf/2406.10900), [CODE](https://github.com/wuxiyang1996/AutoHallusion)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image***", arXiv:2311.15478, 2023. [PDF](https://arxiv.org/pdf/2311.15478)
 1. Divya Kothandaraman, Tianyi Zhou, Ming Lin, Dinesh Manocha, "***Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models***", The 16th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia Pacific (SIGGRAPH Asia), 2023. [PDF](https://arxiv.org/pdf/2303.11444.pdf), [CODE](https://github.com/divyakraman/AerialDiffusion)
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Jeff A. Bilmes, "***Retrospective Adversarial Replay for Continual Learning***", Advances in Neural Information Processing Systems 36 (NeurIPS), 2022. [PDF](https://papers.neurips.cc/paper_files/paper/2022/file/b6ffbbacbe2e56f2ec9a0da907382b4a-Paper-Conference.pdf), [CODE](https://github.com/lillykumari8/RAR-CL)
