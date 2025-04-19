@@ -14,6 +14,10 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Rea-
+soning Models losing Critical Thinking Skill?***", arXiv:2504.06514, 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
+1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
+Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR) <span style="color:red"> *Oral* </span>, 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Ziyue Li, Tianyi Zhou, "***Sparser Mixture-of-Adapters with Cross-Layer Generalization***", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025. [PDF](), [CODE]()
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", arXiv:2410.13804, 2024. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
@@ -52,6 +56,11 @@ redirect_from:
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 
 ### Multimodal Large Language Models (MLLMs)
+1. Yijun Liang, Ming Li, Chenrui Fan, Ziyue Li, Dang Nguyen, Kwesi Cobbina, Shweta Bhardwaj, Jiuhai Chen, Fuxiao Liu, Tianyi Zhou, "***ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness***", arXiv:2504.10514, 2025. [PDF](https://arxiv.org/pdf/2504.10514), [CODE](https://github.com/tianyi-lab/ColorBench), [DATASET](https://huggingface.co/datasets/umd-zhou-lab/ColorBench)
+1. Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh, "***R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model***", arXiv:2503.05132, 2025. [PDF](https://arxiv.org/pdf/2503.05132), [CODE](https://github.com/turningpoint-ai/VisualThinker-R1-Zero), [MODEL](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)
+1. Dayeon Ki, Tianyi Zhou, Marine Carpuat, Gang Wu, Puneet Mathur, Viswanathan Swaminathan, "***GraphicBench: A Planning Benchmark for Graphic Design with Language Agents***", arXiv:2504.11571, 2025. [PDF](https://arxiv.org/pdf/2504.11571)
+1. Ming Li, Ruiyi Zhang, Jian Chen, Jiuxiang Gu, Yufan Zhou, Franck Dernoncourt, Wanrong Zhu, Tianyi Zhou, Tong Sun, "***Towards Visual Text Grounding of Multimodal Large Language Model***", arXiv:2504.04974, 2025. [PDF](https://arxiv.org/pdf/2504.04974)
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing***", arXiv:2504.07964, 2025. [PDF](https://arxiv.org/pdf/2504.07964), [CODE](https://github.com/tianyi-lab/C3PO) 
 1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts***", arXiv: 2502.20395, 2025. [PDF](https://arxiv.org/pdf/2502.20395), [CODE](https://github.com/tianyi-lab/R2-T2) 
 1. Jiuhai Chen, Jianwei Yang, Haiping Wu, Dianqi Li, Jianfeng Gao, Tianyi Zhou, Bin Xiao, "***Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion***", The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [PDF](https://arxiv.org/pdf/2412.04424), [CODE+DATA](https://github.com/JiuhaiChen/Florence-VL), [MODEL](https://huggingface.co/jiuhai/florence-vl-8b-sft), [DEMO](https://huggingface.co/spaces/jiuhai/Florence-VL-8B)
 1. Lichang Chen, Hexiang Hu, Mingda Zhang, Yiwen Chen, Zifeng Wang, Yandong Li, Pranav Shyam, Tianyi Zhou, Heng Huang, Ming-Hsuan Yang, Boqing Gong, "***OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.12219)
@@ -76,6 +85,10 @@ redirect_from:
 
 ## Agents and World Models
 -----
+1. Advait Gupta, NandaKiran Velaga, Dang Nguyen Tianyi Zhou, "***CoSTA\*: Cost-Sensitive Toolpath Agent
+for Multi-turn Image Editing***", arXiv:2503.10613, 2025. [PDF](https://arxiv.org/pdf/2503.10613), [CODE](https://github.com/tianyi-lab/CoSTAR), [DEMO](https://storage.googleapis.com/costa-frontend/index.html), [DATASET](https://huggingface.co/datasets/advaitgupta/CoSTAR)
+1. Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou, "***ATLaS: Agent tuning via learning critical steps***", arXiv:2503.02197, 2025. [PDF](https://arxiv.org/pdf/2503.02197), [CODE]()
+1. Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt, "***GUI Agents: A Survey***", arXiv:2412.13501, 2024. [PDF](https://arxiv.org/pdf/2412.13501)
 1. Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou, "***DynaSaur: Large Language Agents Beyond Predefined Actions***", arXiv:2411.01747, 2024. [PDF](https://arxiv.org/pdf/2411.01747), [CODE](https://github.com/adobe-research/dynasaur)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
@@ -84,6 +97,8 @@ redirect_from:
 
 ## Curriculum Learning and Data Selection
 -----
+1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
+Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Yucheng Yang, Tianyi Zhou, Lei Han, Meng Fang, Mykola Pechenizkiy, "***Automatic Curriculum for Unsupervised Reinforcement Learning***", International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024. [PDF](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2002.pdf)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Chengkai Hou, Jieyu Zhang, Tianyi Zhou, "***When to Learn What: Model-Adaptive Data Augmentation Curriculum***", International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/pdf/2309.04747.pdf)
@@ -134,6 +149,8 @@ redirect_from:
 
 ## Distributed and Collaborative (Federated, Decentralized) Learning
 -----
+1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Person-
+alization via Model Merging***", arXiv:2504.06768, 2025. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge).
 1. Shutong Chen, Tianyi Zhou, Guodong Long, Jie Ma, Jing Jiang, Chengqi Zhang, "***Multi-Level Additive Modeling for Structured Non-IID Federated Learning***", arXiv:2405.16472, 2024. [PDF](https://arxiv.org/pdf/2405.16472), [CODE](https://github.com/shutong043/FeMAM)
 1. Zhiwei Li, Guodong Long, Tianyi Zhou, Jing Jiang, Chengqi Zhang, "***Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach***", The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. [PDF](https://arxiv.org/pdf/2408.08931), [CODE](https://github.com/mtics/FedDAE)
 1. Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, Tianyi Zhou, "***Many-Objective Multi-Solution Transport***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2403.04099)
