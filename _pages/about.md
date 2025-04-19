@@ -35,11 +35,6 @@ News
 * 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
 * 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning. 
 * 2024/02: We release [a survey on knowledge distillation of LLMs](https://arxiv.org/pdf/2402.13116) with [GitHub repo](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs).
-* 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/03. 
-* 2023/10: We release [HallusionBench](https://github.com/tianyi-lab/HallusionBench) focusing on the Language Hallucination and Visual Illusion of GPT-4V(ision), Llava-1.5, and other multi-modality models. Analyses and insights can be found in the [preprint](https://arxiv.org/abs/2310.14566). 
-* 2023/10: Data recycling and filtering improves instruction-tuning of LLMs, leading to recycled LLMs outperforming other larger LLMs trained on new data and RLHF. We release [Reflection-Tuning preprint](https://arxiv.org/abs/2310.11716), [codebase](https://github.com/tianyi-lab/Reflection_Tuning), and the [model](https://huggingface.co/umd-zhou-lab/recycled-wizardlm-7b-v2.0). 
-* 2023/10: Two papers ([How Many Demonstrations Do You Need for In-context Learning](https://arxiv.org/pdf/2303.08119.pdf), [Merging Mixture-of-Experts into One](https://arxiv.org/pdf/2310.09832.pdf)) have been accepted by [EMNLP 2023](https://2023.emnlp.org/). 
-* 2023/09: Two papers ([multi-modality model distillation for task adaptation](https://arxiv.org/pdf/2310.04550.pdf), [clustered additive modeling for structured federated learning](https://openreview.net/pdf?id=2XT3UpOv48)) have been accepted by [NeurIPS 2023](https://neurips.cc/). 
 
 
 Research Topics
@@ -77,6 +72,11 @@ Research Topics
 <br />
 
 <!-- 
+* 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/03. 
+* 2023/10: We release [HallusionBench](https://github.com/tianyi-lab/HallusionBench) focusing on the Language Hallucination and Visual Illusion of GPT-4V(ision), Llava-1.5, and other multi-modality models. Analyses and insights can be found in the [preprint](https://arxiv.org/abs/2310.14566). 
+* 2023/10: Data recycling and filtering improves instruction-tuning of LLMs, leading to recycled LLMs outperforming other larger LLMs trained on new data and RLHF. We release [Reflection-Tuning preprint](https://arxiv.org/abs/2310.11716), [codebase](https://github.com/tianyi-lab/Reflection_Tuning), and the [model](https://huggingface.co/umd-zhou-lab/recycled-wizardlm-7b-v2.0). 
+* 2023/10: Two papers ([How Many Demonstrations Do You Need for In-context Learning](https://arxiv.org/pdf/2303.08119.pdf), [Merging Mixture-of-Experts into One](https://arxiv.org/pdf/2310.09832.pdf)) have been accepted by [EMNLP 2023](https://2023.emnlp.org/). 
+* 2023/09: Two papers ([multi-modality model distillation for task adaptation](https://arxiv.org/pdf/2310.04550.pdf), [clustered additive modeling for structured federated learning](https://openreview.net/pdf?id=2XT3UpOv48)) have been accepted by [NeurIPS 2023](https://neurips.cc/). 
 * 2023/07: Two papers ([model-adaptive data augmentation curriculum](https://arxiv.org/pdf/2309.04747.pdf), [subclass balancing for long-tail recognition](https://arxiv.org/pdf/2306.15925.pdf))  have been accepted by [ICCV 2023](https://iccv2023.thecvf.com/). 
 * 2023/06: How to efficiently optimize the textual instructions applied to API black-box LLMs (e.g., ChatGPT) for solving downstream tasks? Please check our recent work [InstructZero](https://lichang-chen.github.io/InstructZero/), [paper](http://arxiv.org/abs/2306.03082) and [code](https://github.com/Lichang-Chen/InstructZero) have been released.
 * 2023/06: Invited talk at Purdue Statistics on "Structured Decentralized Learning".
