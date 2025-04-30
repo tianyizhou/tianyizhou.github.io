@@ -55,10 +55,11 @@ Research Topics
 * Natural Language Processing (2016-present)
   1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
   1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT), [RuleR](https://github.com/tianyi-lab/RuleR)
-  1. LLM Agents, NeuroSymbolic World Models: [WALL-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur)
+  1. LLM Agents, NeuroSymbolic World Models: [WALL-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur), [ATLaS](https://arxiv.org/pdf/2503.02197), [EEF](https://arxiv.org/abs/2504.13145)
   1. Personalization and Human-AI Alignment: [DEBATunE](https://github.com/tianyi-lab/DEBATunE), [MCTune](https://github.com/tianyi-lab/mctune), [CAIMIRA](https://youtu.be/joeNRMM5abI)
   1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
   1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
+  1. Test-Time Optimization: [C3PO](https://github.com/tianyi-lab/C3PO), [R2-T2](https://github.com/tianyi-lab/R2-T2)
   1. Embedding: [MoEE](https://github.com/tianyi-lab/MoE-Embedding), [MetaEOL](https://github.com/Yibin-Lei/MetaEOL)
   1. Efficient Inference: [SpecHub](https://github.com/MasterGodzilla/Speculative_decoding_OT), [BumbleBee](https://openreview.net/pdf?id=8w0RApM5yG)
   1. Adversarial attack and defense（Jailbreak, Unlearning, etc.): [DrAttack](https://github.com/xirui-li/DrAttack)
@@ -66,8 +67,9 @@ Research Topics
 * Multi-modality Models (2021-present)
   1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL)
   1. VLM + RL, Multi-modality Embodied-AI: [EMMA](https://github.com/stevenyangyj/Emma-Alfworld), [CoTASP](https://github.com/stevenyangyj/CoTASP)
-  1. Multi-modal Generative Agents: [MuLan](https://github.com/measure-infinity/mulan-code)
-  1. Hallucinations, Illusions, Oversensitivity: [HallusionBench](https://github.com/tianyi-lab/HallusionBench), [AutoHallusion](https://github.com/wuxiyang1996/AutoHallusion), [MOSSBench](https://github.com/xirui-li/MOSSBench)
+  1. Multi-modal Generative Agents: [MuLan](https://github.com/measure-infinity/mulan-code), [CoSTA\*](https://github.com/tianyi-lab/CoSTAR)
+  1. Benchmarks: [HallusionBench](https://github.com/tianyi-lab/HallusionBench), [AutoHallusion](https://github.com/wuxiyang1996/AutoHallusion), [MOSSBench](https://github.com/xirui-li/MOSSBench), [ColorBench](https://huggingface.co/datasets/umd-zhou-lab/ColorBench)
+  1. Reasoning: [VisualThinker-R1-Zero](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 
 <br />
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yS55EhS2ol9nZNevQxAHb2-_nUUI3Opt9QjGnAYIFrg" size="1"></script>
