@@ -45,24 +45,25 @@ Research Topics
   1. Learning over time: Curriculum Learning, Continual Learning ([DisCL](https://github.com/tianyi-lab/DisCL), [DIH](https://github.com/tianyizhou/DIHCL), [DoCL](https://github.com/tianyizhou/DoCL), [MECE](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [Time-Consistency](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf), [RAR](https://github.com/lillykumari8/RAR-CL), [FPF](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf), [CoTASP](https://github.com/stevenyangyj/CoTASP))
   1. Learning via interactions: Reinforcement Learning, Online Learning ([CHER](https://github.com/mengf1/CHER), [Unsupervised RL](https://openreview.net/pdf?id=zSxpnKh1yS), [CO-PILOT](https://github.com/Shuang-AO/CO-PILOT), [P3](https://github.com/stevenyangyj/P3))
   1. Learning across tasks/domains: Multi-task Learning, Meta-Learning, Domain Adaptation/Generalization ([GPN](https://github.com/liulu112601/Gated-Propagation-Net), [PPN](https://github.com/liulu112601/Prototype-Propagation-Net), [MTC](https://dl.acm.org/doi/abs/10.1145/2623330.2623697?download=true))
-  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning ([MoEE](https://github.com/tianyi-lab/MoE-Embedding), [DivE2](https://papers.nips.cc/paper_files/paper/2018/file/3070e6addcd702cb58de5d7897bfdae1-Paper.pdf), [L2C](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf), [SCooL](https://github.com/ShuangtongLi/SCooL), [DivFL](https://github.com/melodi-lab/divfl), [FedProto](https://github.com/yuetan031/FedProto), [FedRAP](https://github.com/mtics/FedRAP), [CAM](https://openreview.net/pdf?id=2XT3UpOv48))
+  1. Learning multiple models: Mixture-of-Experts (MoE), Collaborative/Cooperative Learning, Federated/Decentralized Learning ([MoEE](https://github.com/tianyi-lab/MoE-Embedding), [DivE2](https://papers.nips.cc/paper_files/paper/2018/file/3070e6addcd702cb58de5d7897bfdae1-Paper.pdf), [L2C](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.pdf), [SCooL](https://github.com/ShuangtongLi/SCooL), [DivFL](https://github.com/melodi-lab/divfl), [FedProto](https://github.com/yuetan031/FedProto), [FedRAP](https://github.com/mtics/FedRAP), [CAM](https://openreview.net/pdf?id=2XT3UpOv48), [MosT](https://github.com/tianyi-lab/MosT))
   1. Learning under noises: Noisy-Label Learning, Adversarial Learning ([RoCL](https://openreview.net/pdf?id=lmTWnm3coJJ), [CD-VAE](https://github.com/kai-wen-yang/CD-VAE))
   1. Learning representations: Self-Supervised Learning, Dimension Reduction ([MEN](https://arxiv.org/pdf/1007.3564), [LPA3](https://github.com/kai-wen-yang/LPA3), [IDAA](https://github.com/kai-wen-yang/IDAA))
   1. Sparse Learning: Compressed Sensing, Matrix Factorization, Spectral Method ([GoDec](https://icml.cc/Conferences/2011/papers/41_icmlpaper.pdf), [DCA](https://arxiv.org/pdf/1406.5752.pdf), [k-bit HCS](https://ieeexplore.ieee.org/document/6620312))
   1. Optimization: Continuous, Combinatorial, Multi-Objective, Zeroth-order ([MosT](https://arxiv.org/pdf/2403.04099), [Minimax CL](https://openreview.net/pdf?id=BywyFQlAW), [Submodular Partition](https://proceedings.neurips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [TSAM](https://arxiv.org/pdf/2410.22656))
-  1. Controllable Generative AI
+  <!-- 1. Controllable Generative AI -->
 
 * Natural Language Processing (2016-present)
   1. Attention mechanisms: [DiSAN](https://github.com/taoshen58/DiSAN), [BiBloSA](https://github.com/taoshen58/BiBloSA)
   1. Data Engineering (selection, exploration, synthesis) for Large language models (LLMs) training: [Reflection-Tuning](https://github.com/tianyi-lab/Reflection_Tuning), [SuperFiltering](https://github.com/tianyi-lab/Superfiltering), [Alpagasus](https://lichang-chen.github.io/AlpaGasus/), [Cherry LLM](https://github.com/MingLiiii/Cherry_LLM), [Mosaic-IT](https://github.com/tianyi-lab/Mosaic-IT), [RuleR](https://github.com/tianyi-lab/RuleR)
   1. LLM Agents, NeuroSymbolic World Models: [WALL-E](https://github.com/elated-sawyer/WALL-E), [DynaSaur](https://github.com/adobe-research/dynasaur), [ATLaS](https://arxiv.org/pdf/2503.02197), [EEF](https://arxiv.org/abs/2504.13145)
   1. Personalization and Human-AI Alignment: [DEBATunE](https://github.com/tianyi-lab/DEBATunE), [MCTune](https://github.com/tianyi-lab/mctune), [CAIMIRA](https://youtu.be/joeNRMM5abI)
-  1. Prompt Optimization: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
+  1. Prompting: [InstructZero](https://github.com/Lichang-Chen/InstructZero), [MoP](https://github.com/ruocwang/mixture-of-prompts)
   1. In-Context Learning: [BenTo](https://github.com/tianyi-lab/BenTo), [Div-S3](https://github.com/lillykumari8/ICL-Div-S3)
   1. Test-Time Optimization: [C3PO](https://github.com/tianyi-lab/C3PO), [R2-T2](https://github.com/tianyi-lab/R2-T2)
   1. Embedding: [MoEE](https://github.com/tianyi-lab/MoE-Embedding), [MetaEOL](https://github.com/Yibin-Lei/MetaEOL)
   1. Efficient Inference: [SpecHub](https://github.com/MasterGodzilla/Speculative_decoding_OT), [BumbleBee](https://openreview.net/pdf?id=8w0RApM5yG)
   1. Adversarial attack and defense（Jailbreak, Unlearning, etc.): [DrAttack](https://github.com/xirui-li/DrAttack)
+  1. Reasoning: [MiP-Overthinking](https://github.com/tianyi-lab/MiP-Overthinking), [AdaRFT](https://github.com/uscnlp-lime/verl)
 
 * Multi-modality Models (2021-present)
   1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL)
