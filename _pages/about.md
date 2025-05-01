@@ -20,7 +20,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
-* 2025/05: 3 [ICML](https://icml.cc/): [R2-T2](https://github.com/tianyi-lab/R2-T2) (Test-Time Multimodal MoE), Preference Controllable Multi-Objective RL, and [Tilted Sharpness-Aware Minimization](https://arxiv.org/abs/2410.22656) have been accepted. 
+* 2025/05: 3 [ICML](https://icml.cc/) accepted: [R2-T2](https://github.com/tianyi-lab/R2-T2) (Test-Time Multimodal MoE), Preference Controllable Multi-Objective RL, and [Tilted Sharpness-Aware Minimization](https://arxiv.org/abs/2410.22656).
 * 2025/04: We release [WALL-E 2.0](https://huggingface.co/papers/2504.15785) ([code](https://github.com/elated-sawyer/WALL-E)) to improve the world model for LLM-based embodied agents. TL;DR: WALL-E 2.0 = Neuro-Symbolic World Model + MPC-based LLM Agent, where Neuro-Symbolic World Model = LLM + Complementary Symbolic knowledge (action rules, scene graph, knowledge graph) extracted from LLM errors in experiences. 
 * 2025/04: We release [ColorBench](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), the first comprehensive benchmark exposing the weaknesses of existing VLMs on [color perception, reasoning, and robustness](https://x.com/zhoutianyi/status/1912922850136121571), across >5,800 images from 11 tasks based on real applications including shopping, medical test-kit reading, map-reading, agriculture, art, wildlife research, etc.  
 * 2025/04: We release [C3PO](https://github.com/tianyi-lab/C3PO) and [R2-T2](https://github.com/tianyi-lab/R2-T2), which develop a novel class of test-time optimization approaches that can significantly boost the performance of existing MoE VLMs and MoE LLMs by 7-15% on challenging tasks. 
