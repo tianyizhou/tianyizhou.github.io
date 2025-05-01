@@ -17,6 +17,9 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2025
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts***", Forty-Second International Conference on Machine Learning (ICML), 2025. [PDF](https://arxiv.org/pdf/2502.20395), [CODE](https://github.com/tianyi-lab/R2-T2) 
+1. Yucheng Yang, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Preference Controllable Reinforcement Learning with Advanced Multi-Objective Optimization***", Forty-Second International Conference on Machine Learning (ICML), 2024.
+1. Tian Li, Tianyi Zhou, Jeffrey A Bilmes, "***Reweighting Local Mimina with Tilted SAM***", Forty-Second International Conference on Machine Learning (ICML), 2025. [PDF](https://arxiv.org/pdf/2410.22656)
 1. Jiuhai Chen, Jianwei Yang, Haiping Wu, Dianqi Li, Jianfeng Gao, Tianyi Zhou, Bin Xiao, "***Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion***", The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [PDF](https://arxiv.org/pdf/2412.04424), [CODE+DATA](https://github.com/JiuhaiChen/Florence-VL), [MODEL](https://huggingface.co/jiuhai/florence-vl-8b-sft), [DEMO](https://huggingface.co/spaces/jiuhai/Florence-VL-8B)
 1. Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou, "***BenTo: Benchmark Task Reduction with In-Context Transferability***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.13804), [CODE](https://github.com/tianyi-lab/bento)
 1. Lichang Chen, Hexiang Hu, Mingda Zhang, Yiwen Chen, Zifeng Wang, Yandong Li, Pranav Shyam, Tianyi Zhou, Heng Huang, Ming-Hsuan Yang, Boqing Gong, "***OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities***",  The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.12219)
