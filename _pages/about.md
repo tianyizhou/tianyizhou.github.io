@@ -20,6 +20,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2025/05: We release [BLIP3-o](https://github.com/JiuhaiChen/BLIP3o), a fully-open sourced framework to unify image reasoning + generation in one model. It aligns the two foundamental tasks via CLIP-level features. You can find [report](https://huggingface.co/papers/2505.09568) and [demo](https://t.co/dbv6xed2X5).  
 * 2025/05: 6 works (3 main + 3 findings) have been accepted by [ACL 2025](https://2025.aclweb.org/).
 * 2025/05: 3 [ICML](https://icml.cc/) accepted: [R2-T2](https://github.com/tianyi-lab/R2-T2) (Test-Time Multimodal MoE), Preference Controllable Multi-Objective RL, and [Tilted Sharpness-Aware Minimization](https://arxiv.org/abs/2410.22656).
 * 2025/04: We release [WALL-E 2.0](https://huggingface.co/papers/2504.15785) ([code](https://github.com/elated-sawyer/WALL-E)) to improve the world model for LLM-based embodied agents. TL;DR: WALL-E 2.0 = Neuro-Symbolic World Model + MPC-based LLM Agent, where Neuro-Symbolic World Model = LLM + Complementary Symbolic knowledge (action rules, scene graph, knowledge graph) extracted from LLM errors in experiences. 
