@@ -20,6 +20,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2025/05: 6 works (3 main + 3 findings) have been accepted by [ACL 2025](https://2025.aclweb.org/).
 * 2025/05: 3 [ICML](https://icml.cc/) accepted: [R2-T2](https://github.com/tianyi-lab/R2-T2) (Test-Time Multimodal MoE), Preference Controllable Multi-Objective RL, and [Tilted Sharpness-Aware Minimization](https://arxiv.org/abs/2410.22656).
 * 2025/04: We release [WALL-E 2.0](https://huggingface.co/papers/2504.15785) ([code](https://github.com/elated-sawyer/WALL-E)) to improve the world model for LLM-based embodied agents. TL;DR: WALL-E 2.0 = Neuro-Symbolic World Model + MPC-based LLM Agent, where Neuro-Symbolic World Model = LLM + Complementary Symbolic knowledge (action rules, scene graph, knowledge graph) extracted from LLM errors in experiences. 
 * 2025/04: We release [ColorBench](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), the first comprehensive benchmark exposing the weaknesses of existing VLMs on [color perception, reasoning, and robustness](https://x.com/zhoutianyi/status/1912922850136121571), across >5,800 images from 11 tasks based on real applications including shopping, medical test-kit reading, map-reading, agriculture, art, wildlife research, etc.  
