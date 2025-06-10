@@ -72,7 +72,7 @@ Research Topics
   1. Reasoning: [MiP-Overthinking](https://github.com/tianyi-lab/MiP-Overthinking), [AdaRFT](https://github.com/uscnlp-lime/verl)
 
 * Multi-modality Models (2021-present)
-  1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL)
+  1. Vision-Language Models and Dense Alignment across modalities: [Florence-VL](https://github.com/JiuhaiChen/Florence-VL), [BLIP3-o](https://github.com/JiuhaiChen/BLIP3o)
   1. VLM + RL, Multi-modality Embodied-AI: [EMMA](https://github.com/stevenyangyj/Emma-Alfworld), [CoTASP](https://github.com/stevenyangyj/CoTASP)
   1. Multi-modal Generative Agents: [MuLan](https://github.com/measure-infinity/mulan-code), [CoSTA\*](https://github.com/tianyi-lab/CoSTAR)
   1. Benchmarks: [HallusionBench](https://github.com/tianyi-lab/HallusionBench), [AutoHallusion](https://github.com/wuxiyang1996/AutoHallusion), [MOSSBench](https://github.com/xirui-li/MOSSBench), [ColorBench](https://huggingface.co/datasets/umd-zhou-lab/ColorBench)
