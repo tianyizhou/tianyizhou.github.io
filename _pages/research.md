@@ -126,7 +126,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ## Reinforcement Learning
 -----
-1. Yucheng Yang, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Preference Controllable Reinforcement Learning with Advanced Multi-Objective Optimization***", Forty-Second International Conference on Machine Learning (ICML), 2024.
+1. Yucheng Yang, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy, "***Preference Controllable Reinforcement Learning with Advanced Multi-Objective Optimization***", Forty-Second International Conference on Machine Learning (ICML), 2024. [PDF](https://openreview.net/pdf?id=49g4c8MWHy), [CODE](https://github.com/YYCAAA/ICML25PCRL)
 1. Shuang Ao, Tianyi Zhou, Guodong Long, Xuan Song, Jing Jiang, "***Curriculum Reinforcement Learning via Morphology-Environment Co-Evolution***", arXiv:2309.12529, 2023. [PDF](https://arxiv.org/pdf/2309.12529)
 1. Yucheng Yang, Tianyi Zhou, Qiang He, Lei Han, Mykola Pechenizkiy, Meng Fang, "***Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning***", International Conference on Learning Representations (ICLR) <span style="color:red"> *Spotlight* </span>, 2024. [PDF](https://openreview.net/pdf?id=zSxpnKh1yS)
 1. Qiang He, Tianyi Zhou, Meng Fang, Setareh Maghsudi, "***Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=apXtolxDaJ)
