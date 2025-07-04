@@ -188,6 +188,7 @@ alization via Model Merging***", arXiv:2504.06768, 2025. [PDF](https://arxiv.org
 
 ## Continual Learning, Plasticity-Stability Trade-off
 -----
+1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Jiangtao Kong, Jiacheng Shi, Ashley Gao, Shaohan Hu, Tianyi Zhou, Huajie Shao, "***Hybrid Memory Replay: Blending Real and Distilled Data for Class Incremental Learning***", arXiv:2410.15372, 2024. [PDF](https://arxiv.org/pdf/2410.15372)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***Condensed Prototype Replay for Class Incremental Learning***", arXiv:2305.16143, 2023. [PDF](https://arxiv.org/pdf/2305.16143)
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, and Chengqi Zhang. "***Does Continual Learning Equally Forget All Parameters?***", International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2304.04158.pdf)
