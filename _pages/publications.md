@@ -17,6 +17,9 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2025
+1. Laura Zheng*, Hamidreza Yaghoubi Araghi, Tony Wu, Sandeep Thalapanane, Tianyi Zhou, Ming C. Lin, "***Quantifying and Modeling Driving Style in Trajectory Forecasting***", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [PDF](https://arxiv.org/pdf/2503.04994)
+1. Bhrij Patel, Kasun Weerakoon Kulathun Mudiyanselage, Wesley A. Suttle, Alec Koppel, Brian Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha, "***Confidence-Controlled Exploration: Efficient Sparse-Reward Policy Learning for Robotic Navigation***",  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [PDF](https://arxiv.org/pdf/2306.06192)
+1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", International Conference on Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) <span style="color:red">*Oral*</span>, 2025. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 1. Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat, "***Multiple LLM Agents Debate for Equitable Cultural Alignment***", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) <span style="color:red">*Oral*</span>, 2025. [PDF](https://drive.google.com/file/d/1wMms_y720ZEY-2aEZuoyDZ3aU1z6_5hi/view), [CODE](https://github.com/dayeonki/cultural_debate)
@@ -159,6 +162,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 
 ## Journal
 -----
+1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang, "***False Correlation Reduction for Offline Reinforcement Learning***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
 1. Haiyan Zhao, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***Extracting Local Reasoning Chains of Deep Neural Networks***", Transactions on Machine Learning Research (TMLR), 2022. [PDF](https://openreview.net/pdf?id=RP6G787uD8)
