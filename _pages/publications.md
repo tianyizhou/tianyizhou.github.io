@@ -17,10 +17,10 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2025
-1. Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
+1. Chenrui Fan\*, Ming Li\*, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou, "***DynaSaur: Large Language Agents Beyond Predefined Actions***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2411.01747), [CODE](https://github.com/adobe-research/dynasaur)
 1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.07964), [CODE](https://github.com/tianyi-lab/C3PO)
-1. Laura Zheng*, Hamidreza Yaghoubi Araghi, Tony Wu, Sandeep Thalapanane, Tianyi Zhou, Ming C. Lin, "***Quantifying and Modeling Driving Style in Trajectory Forecasting***", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [PDF](https://arxiv.org/pdf/2503.04994)
+1. Laura Zheng\*, Hamidreza Yaghoubi Araghi\*, Tony Wu, Sandeep Thalapanane, Tianyi Zhou, Ming C. Lin, "***Quantifying and Modeling Driving Style in Trajectory Forecasting***", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [PDF](https://arxiv.org/pdf/2503.04994)
 1. Bhrij Patel, Kasun Weerakoon Kulathun Mudiyanselage, Wesley A. Suttle, Alec Koppel, Brian Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha, "***Confidence-Controlled Exploration: Efficient Sparse-Reward Policy Learning for Robotic Navigation***",  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [PDF](https://arxiv.org/pdf/2306.06192)
 <!-- 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO) -->
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", International Conference on Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
@@ -165,6 +165,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 
 ## Journal
 -----
+1. Ming Li, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "***Item Difficulty Modeling Using Fine-tuned Small and Large Language Models***", Educational and Psychological Measurement, 2025. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
 1. Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang, "***False Correlation Reduction for Offline Reinforcement Learning***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
