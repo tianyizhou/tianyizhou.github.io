@@ -15,12 +15,13 @@ I have published [~130 papers](https://scholar.google.com/citations?user=OKvgizM
 
 Our recent works mainly focus on: 
 - Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI alignment and teaming, etc; 
-- Training and test-time optimization of Generative AI for better controllability, efficiency, and reasoning skills;
+- Training Generative AI for better controllability, efficiency, and reasoning skills;
 - Synthetic data/tasks, self-evolving creative AI, and auto-benchmarking;
 - Neuro-symbolic World Models and Embodied Multi-modal Agents;
 - Mixture-of-Experts, Multi-Agent, and Collaborative Learning;
 - Memorization and Generalization mechanism in Foundation Models. 
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
+
 Our studies are built upon recent LLMs, multi-modal unified foundation models, and RL, to address practical challenges in education, design, medical health, visualization, embodied intelligence, autonomous driving, etc. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between humans and machines. Our code/data/models can be found at [Tianyi Lab's GitHub](https://github.com/tianyi-lab) and [HF](https://huggingface.co/umd-zhou-lab). 
 
 I was a visiting research scientist at Google between 2021-2022, hosted by [Prof. Boqing Gong](http://boqinggong.info/) and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). Before that, I received my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/), where I was a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). I have been working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) as a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), mentored by [Dr. Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Prof. Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), mentored by [Dr. Lin Xiao](https://linxiaolx.github.io/) (Meta AI). 
