@@ -13,8 +13,13 @@ My research interests are in machine learning, optimization, and natural languag
 I have published [~130 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 
-Our recent works study (1) Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI alignment and teaming, etc; 
-(2) Training and test-time optimization of Generative AI for better controllability, efficiency, and reasoning skills; (3) Synthetic data/tasks, self-evolving creative AI, and auto-benchmarking; (4) Neuro-symbolic World Models and Embodied Multi-modal Agents; (4) Mixture-of-Experts, Multi-Agent, and Collaborative Learning; (5) Memorization and Generalization mechanism in Foundation Models. 
+Our recent works mainly focus on: 
+- Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI alignment and teaming, etc; 
+- Training and test-time optimization of Generative AI for better controllability, efficiency, and reasoning skills;
+- Synthetic data/tasks, self-evolving creative AI, and auto-benchmarking;
+- Neuro-symbolic World Models and Embodied Multi-modal Agents;
+- Mixture-of-Experts, Multi-Agent, and Collaborative Learning;
+- Memorization and Generalization mechanism in Foundation Models. 
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 Our studies are built upon recent LLMs, multi-modal unified foundation models, and RL, to address practical challenges in education, design, medical health, visualization, embodied intelligence, autonomous driving, etc. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between humans and machines. Our code/data/models can be found at [Tianyi Lab's GitHub](https://github.com/tianyi-lab) and [HF](https://huggingface.co/umd-zhou-lab). 
 
