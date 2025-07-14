@@ -208,7 +208,7 @@ alization via Model Merging***", arXiv:2504.06768, 2025. [PDF](https://arxiv.org
 
 ## Optimization
 -----
-1. Tian Li, Tianyi Zhou, Jeffrey A Bilmes, "***Reweighting Local Mimina with Tilted SAM***", Forty-Second International Conference on Machine Learning (ICML), 2025. [PDF](https://arxiv.org/pdf/2410.22656)
+1. Tian Li, Tianyi Zhou, Jeffrey A Bilmes, "***Reweighting Local Mimina with Tilted SAM***", Forty-Second International Conference on Machine Learning (ICML), 2025. [PDF](https://arxiv.org/pdf/2410.22656), [CODE](https://github.com/litian96/TSAM)
 1. Shengjie Wang\*, Tianyi Zhou\*, Chandrashekhar Lavania, Jeff A. Bilmes, "***Constrained Robust Submodular Partitioning***", Advances in Neural Information Processing Systems 35 (NeurIPS) <span style="color:red"> *Spotlight* </span>, 2021. [PDF](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Paper.pdf), [Appendix](https://papers.nips.cc/paper/2021/file/161882dd2d19c716819081aee2c08b98-Supplemental.pdf)
 1. Tianyi Zhou, Hua Ouyang, Jeff A. Bilmes, Yi Chang and Carlos Guestrin, "***Scaling Submodular Maximization via Pruned Submodularity Graphs***", Twentyth International Conference on Artificial Intelligence and Statistics (AISTATS), Fort Lauderdale, FL, 2017. [PDF](http://proceedings.mlr.press/v54/zhou17a/zhou17a.pdf), [Appendix](http://proceedings.mlr.press/v54/zhou17a/zhou17a-supp.pdf)
 1. Tianyi Zhou and Jeff A. Bilmes, "***Stream Clipper: Scalable Submodular Maximization on Stream***", arXiv:1606.00389, 2016. [PDF](https://arxiv.org/pdf/1606.00389)
