@@ -13,7 +13,7 @@ My research interests are in machine learning, optimization, and natural languag
 I have published [~130 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI alignment & teaming, etc; 
+- Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI Alignment & Teaming, Co-Education, etc; 
 - Training Generative AI for better controllability, efficiency, and reasoning skills;
 - Synthetic data/tasks, self-evolving creative AI, and auto-benchmarking;
 - Neuro-symbolic, Physics-Informed World Models & Embodied Multi-modal Agents;
