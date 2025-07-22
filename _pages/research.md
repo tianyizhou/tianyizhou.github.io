@@ -14,6 +14,13 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs***", arXiv:2507.07996, 2025. [PDF](https://arxiv.org/pdf/2507.07996)
+1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", arXiv:2506.21551, 2025. [PDF](https://arxiv.org/pdf/2506.21551)
+1. Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin, "***The 4th Dimension for Scaling Model Size***", arXiv:2506.18233, 2025. [PDF](https://arxiv.org/pdf/2506.18233)
+1. Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou, "***Optimizing Length Compression in Large Reasoning Models***", arXiv:2506.14755, 2025. [PDF](https://arxiv.org/pdf/2506.14755), [CODE](https://github.com/zxiangx/LC-R1)
+1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", arXiv:2506.08343, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
+1. Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang, "***What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding***", arXiv:2506.06998, 2025. [PDF](https://arxiv.org/pdf/2506.06998)
+1. Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh, "***Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models***", arXiv:2505.21765, 2025. [PDF](https://arxiv.org/pdf/2505.21765)
 1. Ming Li, Yanhong Li, Ziyue Li, Tianyi Zhou, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
 1. Chenrui Fan\*, Ming Li\*, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents***", arXiv:2504.15785, 2025. [PDF](https://arxiv.org/pdf/2504.15785), [CODE](https://github.com/elated-sawyer/WALL-E)
@@ -59,6 +66,9 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 
 ### Multimodal Large Language Models (MLLMs)
+1. Ming Li, Chenguang Wang, Yijun Liang, Xiyao Wang, Yuhang Zhou, Xiyang Wu, Yuqing Zhang, Ruiyi Zhang, Tianyi Zhou, "***CaughtCheating: Is Your MLLM a Good Cheating Detective? Exploring the Boundary of Visual Perception and Reasoning***", arXiv:2507.00045, 2025. [PDF](https://arxiv.org/pdf/2507.00045)
+1. Zhiyang Xu, Jiuhai Chen, Zhaojiang Lin, Xichen Pan, Lifu Huang, Tianyi Zhou, Madian Khabsa, Qifan Wang, Di Jin, Michihiro Yasunaga, Lili Yu, Xi Victoria Lin, Shaoliang Nie, "***Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation***", arXiv:2506.10395, 2025. [PDF](https://arxiv.org/pdf/2506.10395)
+1. Chenxi Liu, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang, "***Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining***", arXiv:2506.08022, 2025. [PDF](https://arxiv.org/pdf/2506.08022?)
 1. Jiuhai Chen, Zhiyang Xu, Xichen Pan, Yushi Hu, Can Qin, Tom Goldstein, Lifu Huang, Tianyi Zhou, Saining Xie, Silvio Savarese, Le Xue, Caiming Xiong, Ran Xu, "***BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset***", arXiv:2505.09568, 2025. [PDF](https://arxiv.org/pdf/2505.09568), [CODE](https://github.com/JiuhaiChen/BLIP3o), [DATASET+MODEL](https://huggingface.co/BLIP3o)
 1. Zongxia Li, Xiyang Wu, Yubin Qin, Guangyao Shi, Hongyang Du, Dinesh Manocha, Tianyi Zhou, Jordan Lee Boyd-Graber, "***VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos***", arXiv:2505.01481, 2025. [PDF](https://arxiv.org/pdf/2505.01481)
 1. Yijun Liang, Ming Li, Chenrui Fan, Ziyue Li, Dang Nguyen, Kwesi Cobbina, Shweta Bhardwaj, Jiuhai Chen, Fuxiao Liu, Tianyi Zhou, "***ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness***", arXiv:2504.10514, 2025. [PDF](https://arxiv.org/pdf/2504.10514), [CODE](https://github.com/tianyi-lab/ColorBench), [DATASET](https://huggingface.co/datasets/umd-zhou-lab/ColorBench)
@@ -89,6 +99,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ## Agents and World Models
 -----
+1. Advait Gupta, Rishie Raj, Dang Nguyen, Tianyi Zhou, "***FaSTA\*: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing***", arXiv:2506.20911, 2025. [PDF](https://arxiv.org/pdf/2506.20911), [CODE](https://github.com/tianyi-lab/FaSTAR), [DEMO](https://github.com/tianyi-lab/FaSTAR/blob/main/Demo.ipynb)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents***", arXiv:2504.15785, 2025. [PDF](https://arxiv.org/pdf/2504.15785), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Advait Gupta, NandaKiran Velaga, Dang Nguyen Tianyi Zhou, "***CoSTA\*: Cost-Sensitive Toolpath Agent
 for Multi-turn Image Editing***", arXiv:2503.10613, 2025. [PDF](https://arxiv.org/pdf/2503.10613), [CODE](https://github.com/tianyi-lab/CoSTAR), [DEMO](https://storage.googleapis.com/costa-frontend/index.html), [DATASET](https://huggingface.co/datasets/advaitgupta/CoSTAR)
