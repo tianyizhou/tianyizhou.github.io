@@ -10,7 +10,7 @@ redirect_from:
 <!-- I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/), [UMIACS](https://www.umiacs.umd.edu/), and [AIM](https://aim.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/).  -->
 My research interests are in machine learning, optimization, and natural language processing. 
 <!-- I am part of the Center for Machine Learning ([CML](https://ml.umd.edu/)) and [CLIP Lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) at UMIACS.  -->
-I have published [~130 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
+I have published [~140 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
 - Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI Alignment & Teaming, Theory-of-Mind, Co-Education, etc; 
