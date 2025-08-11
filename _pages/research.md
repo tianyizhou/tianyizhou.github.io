@@ -14,6 +14,7 @@ redirect_from:
 ## Controllable Generative AI (LLMs, MLLMs, Diffusion Models, etc.)
 -----
 ### Large Language Models (LLMs)
+1. Kwesi Cobbina, Tianyi Zhou, "***Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning***", arXiv:2507.22887, 2025. [PDF](https://arxiv.org/pdf/2507.22887)
 1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs***", arXiv:2507.07996, 2025. [PDF](https://arxiv.org/pdf/2507.07996)
 1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", arXiv:2506.21551, 2025. [PDF](https://arxiv.org/pdf/2506.21551)
 1. Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin, "***The 4th Dimension for Scaling Model Size***", arXiv:2506.18233, 2025. [PDF](https://arxiv.org/pdf/2506.18233)
