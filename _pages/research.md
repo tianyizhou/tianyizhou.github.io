@@ -54,17 +54,16 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Lilly Kumari, Shengjie Wang, Arnav Mohanty Das, Tianyi Zhou, and Jeff Bilmes. "***An End-to-End Submodular Framework for Data-Efficient In-Context Learning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024. [PDF](https://aclanthology.org/2024.findings-naacl.209.pdf), [CODE](https://github.com/lillykumari8/ICL-Div-S3)
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
 
-### Prompting
+### Prompting and Test-Time Optimization
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.07964), [CODE](https://github.com/tianyi-lab/C3PO) 
 1. Ruochen Wang, Sohyun An, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, and Cho-Jui Hsieh. "***One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2407.00256), [CODE](https://github.com/ruocwang/mixture-of-prompts)
 1. Lichang Chen\*, Jiuhai Chen\*, Heng Huang, Tom Goldstein, and Tianyi Zhou. "***InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2306.03082), [CODE](https://github.com/Lichang-Chen/InstructZero)
 1. Jiuhai Chen, Lichang Chen, Heng Huang, and Tianyi Zhou, "***When do you need Chain-of-Thought Prompting for ChatGPT?***", arXiv:2304.03262, 2023. [PDF](https://arxiv.org/pdf/2304.03262)
-
-### Test-Time Optimization
-1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.07964), [CODE](https://github.com/tianyi-lab/C3PO) 
 1. Yue Huang, Chenrui Fan, Yuan Li, Siyuan Wu, Tianyi Zhou, Xiangliang Zhang, Lichao Sun, "***1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2406.14721)
 
-### Alignment and Reward Hacking
+### Human-AI Alignment and Reward Hacking
 <!-- 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E) -->
+1. Maharshi Gor, Hal Daumé III, Tianyi Zhou, Jordan Lee Boyd-Graber, "***Do great minds think alike? Investigating Human-AI Complementarity for Question Answering***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2410.06524)
 1. Xuanchang Zhang, Wei Xiong, Lichang Chen, Tianyi Zhou, Heng Huang, Tong Zhang, "***From Lists to Emojis: How format bias affects model alignment***", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [PDF](https://arxiv.org/pdf/2409.11704)
 1. Lichang Chen, Jiuhai Chen, Chenxi Liu, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Heng Huang, and Tianyi Zhou, "***OPTune: Efficient Online Preference Tuning***", arXiv:2406.07657, 2024. [PDF](https://arxiv.org/pdf/2406.07657)
 1. Lichang Chen, Chen Zhu, Davit Soselia, Jiuhai Chen, Tianyi Zhou, Tom Goldstein, Heng Huang, Mohammad Shoeybi, and Bryan Catanzaro. "***ODIN: Disentangled Reward Mitigates Hacking in RLHF***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2402.07319), [MODEL](https://huggingface.co/Lichang-Chen/ODIN-ppo-L230-best)
@@ -86,9 +85,6 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 ### Retrieval-Augmented Generation (RAG)
 1. Yibin Lei, Yu Cao, Tianyi Zhou, Tao Shen, Andrew Yates, "***Corpus-Steered Query Expansion with Large Language Models***", The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024. [PDF](https://arxiv.org/pdf/2402.18031)
 1. Tao Shen, Guodong Long, Xiubo Geng, Chongyang Tao, Yibin Lei, Tianyi Zhou, Michael Blumenstein, and Daxin Jiang, "***Large Language Models are Strong Zero-Shot Retriever***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2304.14233)
-
-### Human-AI
-1. Maharshi Gor, Hal Daumé III, Tianyi Zhou, Jordan Lee Boyd-Graber, "***Do great minds think alike? Investigating Human-AI Complementarity for Question Answering***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2410.06524)
 
 
 ## Multimodal Large Language Models (MLLMs)
