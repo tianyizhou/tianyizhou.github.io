@@ -11,7 +11,7 @@ redirect_from:
 
 <img title="Current Research Topics" src="/assets/img/topics.png" alt="Current Research Topics" style="height: 512px; width: 1289px;"/>
 
-## Generative AI and Foundation Models (LLMs, MLLMs, Diffusion Models, etc.)
+## Large Language Models (LLMs)
 -----
 ### Data Selection, Training Curriculum, and Synthetic Data
 1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
@@ -91,7 +91,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Maharshi Gor, Hal Daumé III, Tianyi Zhou, Jordan Lee Boyd-Graber, "***Do great minds think alike? Investigating Human-AI Complementarity for Question Answering***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://arxiv.org/pdf/2410.06524)
 
 
-### Multimodal Large Language Models (MLLMs)
+## Multimodal Large Language Models (MLLMs)
 1. Ming Li, Chenguang Wang, Yijun Liang, Xiyao Wang, Yuhang Zhou, Xiyang Wu, Yuqing Zhang, Ruiyi Zhang, Tianyi Zhou, "***CaughtCheating: Is Your MLLM a Good Cheating Detective? Exploring the Boundary of Visual Perception and Reasoning***", arXiv:2507.00045, 2025. [PDF](https://arxiv.org/pdf/2507.00045)
 1. Zhiyang Xu, Jiuhai Chen, Zhaojiang Lin, Xichen Pan, Lifu Huang, Tianyi Zhou, Madian Khabsa, Qifan Wang, Di Jin, Michihiro Yasunaga, Lili Yu, Xi Victoria Lin, Shaoliang Nie, "***Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation***", arXiv:2506.10395, 2025. [PDF](https://arxiv.org/pdf/2506.10395)
 1. Chenxi Liu, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang, "***Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining***", arXiv:2506.08022, 2025. [PDF](https://arxiv.org/pdf/2506.08022?)
@@ -115,13 +115,12 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, and Yuhui Shi. "***Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld***", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2311.16714), [CODE](https://github.com/stevenyangyj/Emma-Alfworld)
 1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://arxiv.org/pdf/2310.04550.pdf)
 
-### Diffusion Models
+## Diffusion Models
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", International Conference on Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, and Minhao Cheng, "***The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2406.01970)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh, "***When and How do negative prompts take effect?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2406.02965)
 1. Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou, "***MuLan: Multimodal-LLM agent for progressive multi-object diffusion***", arXiv:2402.12741, 2024. [PDF](https://arxiv.org/pdf/2402.12741), [CODE](https://github.com/measure-infinity/mulan-code)
 1. Soumik Mukhopadhyay, Matthew Gwilliam, Yosuke Yamaguchi, Vatsal Agarwal, Namitha Padmanabhan, Archana Swaminathan, Tianyi Zhou, Jun Ohya, Abhinav Shrivastava, "***Do text-free diffusion models learn discriminative visual representations?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2311.17921)
-
 
 ## Agents and World Models
 -----
