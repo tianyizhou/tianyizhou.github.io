@@ -17,6 +17,9 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2025
+1. Kwesi Cobbina, Tianyi Zhou, "***Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. [PDF](https://arxiv.org/pdf/2507.22887)
+1. Nan Zhang\*, Ming Li\*, Chenrui Fan, Hong Jiao, Yanbin Fu, Sydney Peters, Qingshu Xu, Robert Lissitz, Tianyi Zhou, "***Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. 
+1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
 1. Chenrui Fan\*, Ming Li\*, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 1. Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou, "***DynaSaur: Large Language Agents Beyond Predefined Actions***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2411.01747), [CODE](https://github.com/adobe-research/dynasaur)
 1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.07964), [CODE](https://github.com/tianyi-lab/C3PO)

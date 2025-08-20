@@ -33,8 +33,9 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou, "***A survey on knowledge distillation of large language models***", arXiv:2402.13116, 2024. [PDF](https://arxiv.org/pdf/2402.13116), [CODE](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)
 
 ### Reasoning
+1. Nan Zhang\*, Ming Li\*, Chenrui Fan, Hong Jiao, Yanbin Fu, Sydney Peters, Qingshu Xu, Robert Lissitz, Tianyi Zhou, "***Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. 
 1. Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou, "***Optimizing Length Compression in Large Reasoning Models***", arXiv:2506.14755, 2025. [PDF](https://arxiv.org/pdf/2506.14755), [CODE](https://github.com/zxiangx/LC-R1)
-1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", arXiv:2506.08343, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
+1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
 1. Ming Li, Zhengyuan Yang, Xiyao Wang, Dianqi Li, Kevin Lin, Tianyi Zhou, Lijuan Wang, "***What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding***", arXiv:2506.06998, 2025. [PDF](https://arxiv.org/pdf/2506.06998)
 1. Sohyun An, Ruochen Wang, Tianyi Zhou, Cho-Jui Hsieh, "***Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models***", arXiv:2505.21765, 2025. [PDF](https://arxiv.org/pdf/2505.21765)
 1. Ming Li, Yanhong Li, Ziyue Li, Tianyi Zhou, "***How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients***", arXiv:2504.10766, 2025. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
@@ -49,7 +50,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Yibin Lei, Di Wu, Tianyi Zhou, Tao Shen, Yu Cao, Chongyang Tao, and Andrew Yates, "***Meta-Task Prompting Elicits Embedding from Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL), 2024. [PDF](https://arxiv.org/pdf/2402.18458), [CODE](https://github.com/Yibin-Lei/MetaEOL)
 
 ### In-Context Learning
-1. Kwesi Cobbina, Tianyi Zhou, "***Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning***", arXiv:2507.22887, 2025. [PDF](https://arxiv.org/pdf/2507.22887)
+1. Kwesi Cobbina, Tianyi Zhou, "***Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. [PDF](https://arxiv.org/pdf/2507.22887)
 1. Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou, "***BenTo: Benchmark Task Reduction with In-Context Transferability***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2410.13804), [CODE](https://github.com/tianyi-lab/bento)
 1. Lilly Kumari, Shengjie Wang, Arnav Mohanty Das, Tianyi Zhou, and Jeff Bilmes. "***An End-to-End Submodular Framework for Data-Efficient In-Context Learning***", Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024. [PDF](https://aclanthology.org/2024.findings-naacl.209.pdf), [CODE](https://github.com/lillykumari8/ICL-Div-S3)
 1. Jiuhai Chen, Lichang Chen, Chen Zhu, Tianyi Zhou, "***How Many Demonstrations Do You Need for In-context Learning?***", The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023. [PDF](https://arxiv.org/pdf/2303.08119.pdf)
@@ -96,7 +97,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ### Post-Training
 1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", arXiv:2506.08343, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
-1. Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh, "***R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model***", arXiv:2503.05132, 2025. [PDF](https://arxiv.org/pdf/2503.05132), [CODE](https://github.com/turningpoint-ai/VisualThinker-R1-Zero), [MODEL](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)
+1. Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh, "***R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Mode`l***", arXiv:2503.05132, 2025. [PDF](https://arxiv.org/pdf/2503.05132), [CODE](https://github.com/turningpoint-ai/VisualThinker-R1-Zero), [MODEL](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)
 1. Xiyao Wang, Jiuhai Chen, Zhaoyang Wang, Yuhang Zhou, Yiyang Zhou, Huaxiu Yao, Tianyi Zhou, Tom Goldstein, Parminder Bhatia, Furong Huang, Cao Xiao, "***Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement***", Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) Findings, 2025. [PDF](https://arxiv.org/pdf/2405.15973)
 1. Chen Liang, Jiahui Yu, Ming-Hsuan Yang, Matthew Brown, Yin Cui, Tuo Zhao, Boqing Gong, Tianyi Zhou, "***Module-wise Adaptive Distillation for Multimodality Foundation Models***", Advances in Neural Information Processing Systems 37 (NeurIPS), 2023. [PDF](https://arxiv.org/pdf/2310.04550.pdf)
 1. Chenxi Liu, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang, "***Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining***", arXiv:2506.08022, 2025. [PDF](https://arxiv.org/pdf/2506.08022?)
@@ -122,6 +123,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 (CVPR), 2024. [PDF](https://arxiv.org/pdf/2310.14566), [CODE+DATA](https://github.com/tianyi-lab/HallusionBench)
 
 ## Diffusion Models
+-----
 1. Yijun Liang\*, Shweta Bhardwaj\*, Tianyi Zhou, "***Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion***", International Conference on Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2410.13674), [CODE](https://github.com/tianyi-lab/DisCL)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, and Minhao Cheng, "***The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise***", The Thirteenth International Conference on Learning Representations (ICLR), 2025. [PDF](https://arxiv.org/pdf/2406.01970)
 1. Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh, "***When and How do negative prompts take effect?***", European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2406.02965)
