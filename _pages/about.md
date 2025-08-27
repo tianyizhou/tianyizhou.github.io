@@ -30,7 +30,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 News
 ------
 * 2025/08: 3 works ([Demos' Position in Prompt bias](https://arxiv.org/pdf/2507.22887), Schoenfeld’s Episode Theory for LLM reasoning, [NoWait reasoning on LLMs/VLMs](https://arxiv.org/pdf/2506.08343)) have been accepted by [EMNLP 2025](https://2025.emnlp.org/).
-* 2025/08: I am going to serve as an Area Chair of [ICLR 2026](https://iclr.cc/) and [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/). 
+* 2025/08: I am going to serve as an Area Chair of [ICLR 2026](https://iclr.cc/) and [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). 
 * 2025/07: 3 works ([C3PO](https://github.com/tianyi-lab/C3PO), [MiP-Overthinking](https://github.com/tianyi-lab/MiP-Overthinking), [DynaSaur](https://github.com/adobe-research/dynasaur)) have been accepted by [COLM 2025](https://colmweb.org/).
 * 2025/05: We release [BLIP3-o](https://github.com/JiuhaiChen/BLIP3o), a fully-open sourced framework to unify image reasoning + generation in one model. It aligns the two foundamental tasks via CLIP-level features. You can find [report](https://huggingface.co/papers/2505.09568) and [demo](https://t.co/dbv6xed2X5).  
 * 2025/05: 6 works (3 main with 2 <span style="color:red">*Oral*</span> + 3 findings) have been accepted by [ACL 2025](https://2025.aclweb.org/).
