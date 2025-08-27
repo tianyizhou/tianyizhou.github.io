@@ -29,6 +29,8 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2025/08: 3 works ([Demos' Position in Prompt bias](https://arxiv.org/pdf/2507.22887), Schoenfeld’s Episode Theory for LLM reasoning, [NoWait reasoning on LLMs/VLMs](https://arxiv.org/pdf/2506.08343)) have been accepted by [EMNLP 2025](https://2025.emnlp.org/).
+* 2025/08: I am going to serve as an Area Chair of [ICLR 2026](https://iclr.cc/) and [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/). 
 * 2025/07: 3 works ([C3PO](https://github.com/tianyi-lab/C3PO), [MiP-Overthinking](https://github.com/tianyi-lab/MiP-Overthinking), [DynaSaur](https://github.com/adobe-research/dynasaur)) have been accepted by [COLM 2025](https://colmweb.org/).
 * 2025/05: We release [BLIP3-o](https://github.com/JiuhaiChen/BLIP3o), a fully-open sourced framework to unify image reasoning + generation in one model. It aligns the two foundamental tasks via CLIP-level features. You can find [report](https://huggingface.co/papers/2505.09568) and [demo](https://t.co/dbv6xed2X5).  
 * 2025/05: 6 works (3 main with 2 <span style="color:red">*Oral*</span> + 3 findings) have been accepted by [ACL 2025](https://2025.aclweb.org/).
@@ -46,10 +48,6 @@ News
 * 2024/11: I am going to serve as an Area Chair (SPC) for [IJCAI 2025](https://2025.ijcai.org/). 
 * 2024/09: Five papers (3 main + 2 findings) have been accepted by [EMNLP 2024](https://2024.emnlp.org/). 
 * 2024/09: I am going to serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
-* 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications and new datasets. 
-* 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
-* 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning. 
-* 2024/02: We release [a survey on knowledge distillation of LLMs](https://arxiv.org/pdf/2402.13116) with [GitHub repo](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs).
 
 
 Research Topics
@@ -91,6 +89,10 @@ Research Topics
 <br />
 
 <!-- 
+* 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications and new datasets. 
+* 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
+* 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning. 
+* 2024/02: We release [a survey on knowledge distillation of LLMs](https://arxiv.org/pdf/2402.13116) with [GitHub repo](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs).
 * 2023/11: I will give a talk "[Towards Controllable and Personalized AI Models](https://www.cs.umd.edu/event/2023/10/towards-controllable-and-personalized-ai-models)" at UMD CS department seminar on 11/03. 
 * 2023/10: We release [HallusionBench](https://github.com/tianyi-lab/HallusionBench) focusing on the Language Hallucination and Visual Illusion of GPT-4V(ision), Llava-1.5, and other multi-modality models. Analyses and insights can be found in the [preprint](https://arxiv.org/abs/2310.14566). 
 * 2023/10: Data recycling and filtering improves instruction-tuning of LLMs, leading to recycled LLMs outperforming other larger LLMs trained on new data and RLHF. We release [Reflection-Tuning preprint](https://arxiv.org/abs/2310.11716), [codebase](https://github.com/tianyi-lab/Reflection_Tuning), and the [model](https://huggingface.co/umd-zhou-lab/recycled-wizardlm-7b-v2.0). 
