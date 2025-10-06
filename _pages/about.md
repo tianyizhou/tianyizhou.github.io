@@ -10,15 +10,15 @@ redirect_from:
 <!-- I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/), [UMIACS](https://www.umiacs.umd.edu/), and [AIM](https://aim.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/).  -->
 My research interests are in machine learning, optimization, and natural language processing. 
 <!-- I am part of the Center for Machine Learning ([CML](https://ml.umd.edu/)) and [CLIP Lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) at UMIACS.  -->
-I have published [~140 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
+I have published [~150 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Human-AI Hybrid Intelligence on Curriculum Learning, Training Dynamics, Unsupervised Exploration, Human-AI Alignment & Teaming, Theory-of-Mind, Co-Education, etc; 
+- Human-AI Hybrid Intelligence on Curriculum Learning, Agent Exploration, Human-AI Alignment & Teaming, Theory-of-Mind, Co-Education, etc; 
 - Training Generative AI for better controllability, efficiency, and reasoning skills;
 - Synthetic data/tasks, self-evolving creative AI, and auto-benchmarking;
 - Neuro-symbolic, Physics-Informed World Models & Embodied Multi-modal Agents;
 - Mixture-of-Experts, Multi-Agent, and Collaborative Learning;
-- Memorization and Generalization mechanism in Foundation Models. 
+- Memorization, Generalization, and Training Dynamics of Foundation Models. 
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
 Our studies are built upon recent LLMs, unified multi-modal models, RL, agentic workflows, to address practical challenges in education, design, medical health, visualization, embodied intelligence, autonomous driving, etc. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between humans and machines. Our code/data/models can be found at [Tianyi Lab's GitHub](https://github.com/tianyi-lab) and [HF](https://huggingface.co/umd-zhou-lab). 
