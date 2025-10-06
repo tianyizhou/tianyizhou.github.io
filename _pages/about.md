@@ -29,6 +29,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2025/09: 4 works ([ColorBench: VLMs struggles on colors](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), [WALL-E: neurosymbolic world model](https://huggingface.co/papers/2504.15785), [VideoHallu: VLMs hallucinate on synthetic videos](https://github.com/zli12321/VideoHallu), [DTO: dynamic thinking pattern optimization](https://arxiv.org/pdf/2505.21765)) have been accepted by [NeurIPS 2025](https://neurips.cc/).
 * 2025/08: 3 works ([Demos' Position in Prompt bias](https://arxiv.org/pdf/2507.22887), [Schoenfeld’s Episode Theory for LLM reasoning](https://arxiv.org/pdf/2509.14662), [NoWait reasoning on LLMs/VLMs](https://arxiv.org/pdf/2506.08343)) have been accepted by [EMNLP 2025](https://2025.emnlp.org/).
 * 2025/08: I am going to serve as an Area Chair of [ICLR 2026](https://iclr.cc/) and [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). 
 * 2025/07: 3 works ([C3PO](https://github.com/tianyi-lab/C3PO), [MiP-Overthinking](https://github.com/tianyi-lab/MiP-Overthinking), [DynaSaur](https://github.com/adobe-research/dynasaur)) have been accepted by [COLM 2025](https://colmweb.org/).
@@ -44,10 +45,6 @@ News
 * 2025/03: [Florence-VL](https://github.com/JiuhaiChen/CVPR2025-Florence-VL) (3B/8B pretrained/SFT VLMs) trained with depth-breadth fusion has been accepted by [CVPR 2025](https://cvpr.thecvf.com/) and the complete training recipe has been open-sourced. 
 * 2025/02: Check the very first ["Aha moment" of multimodal reasoning by RL](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) acheived by VisualThinker-R1-Zero from our [TurningPoint-AI](https://www.turningpoint-ai.com/people) team!
 * 2025/01: 7 ICLR + 3 NAACL accepted, featuring our latest works on [synthetic data for post-training](https://github.com/tianyi-lab/RuleR), [MoE](https://github.com/tianyi-lab/MoE-Embedding) <span style="color:red">*(ICLR Oral)*</span>, [many-objective optimization](https://arxiv.org/pdf/2403.04099), [in-context transferality](https://github.com/tianyi-lab/bento), [multi-modality imbalance](https://arxiv.org/pdf/2410.12219) & [alignment](https://arxiv.org/pdf/2405.15973), [oversensitiveness](https://github.com/xirui-li/MOSSBench) & [controllability of GenAI](https://arxiv.org/pdf/2406.01970). 
-* 2024/12: I am going to serve as an Area Chair for [ARR](https://aclrollingreview.org/) Dec 2024 & Feb 2025 ([ACL 2025](https://2025.aclweb.org/)). 
-* 2024/11: I am going to serve as an Area Chair (SPC) for [IJCAI 2025](https://2025.ijcai.org/). 
-* 2024/09: Five papers (3 main + 2 findings) have been accepted by [EMNLP 2024](https://2024.emnlp.org/). 
-* 2024/09: I am going to serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
 
 
 Research Topics
@@ -89,6 +86,10 @@ Research Topics
 <br />
 
 <!-- 
+* 2024/12: I am going to serve as an Area Chair for [ARR](https://aclrollingreview.org/) Dec 2024 & Feb 2025 ([ACL 2025](https://2025.aclweb.org/)). 
+* 2024/11: I am going to serve as an Area Chair (SPC) for [IJCAI 2025](https://2025.ijcai.org/). 
+* 2024/09: Five papers (3 main + 2 findings) have been accepted by [EMNLP 2024](https://2024.emnlp.org/). 
+* 2024/09: I am going to serve as an Area Chair of [ICLR 2025](https://iclr.cc/). 
 * 2024/07: We initialize [TurningPoint AI](https://www.turningpoint-ai.com/), a research team from multiple universities and industry ([UMD+UCLA+PSU+Google](https://www.turningpoint-ai.com/people)) investigating Muiltimodal Agents, with the goals of building Trustworthy Embodied AI, Self-Evolving Machines, Compositional Agents, and Controllable AIGC. We already released [8 projects](https://www.turningpoint-ai.com/publications) with several ICML and ECCV publications and new datasets. 
 * 2024/07: 2 papers of diffusion models ([analysis of negative prompts](https://arxiv.org/pdf/2406.02965), [extracting discriminative features from generative models](https://arxiv.org/pdf/2311.17921)) have been accepted by ECCV 2024.
 * 2024/05: 4 ICLR + 4 ICML + 6 ACL + 2 NAACL + 2 CVPR have been accepted, featuring our works on controllable AIGC, personalized AI, data-efficient training of LLMs, RLHF, prompt optimization, multi-modal hallucinations, multi-modal and embodied agent, and curriculum reinforcement learning. 
