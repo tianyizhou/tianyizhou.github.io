@@ -14,7 +14,7 @@ redirect_from:
 -----
 1. [Shweta Bhardwaj](https://shwetabhardwaj44.github.io/)
 1. [Dongping Chen](https://dongping-chen.github.io/)
-1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)(co-advised with [Tom Goldstein](https://www.cs.umd.edu/~tomg/))
+1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. [Kwesi Cobbina](https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en)
 1. [Maharshi Gor](https://mgor.info/) (co-advised with [Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
@@ -23,14 +23,14 @@ redirect_from:
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
 1. [Ziyue Li](https://litzy0619.github.io/)
 1. [Dang Minh Nguyen](https://dangne.github.io/)
-1. [Fangxu Yu](https://scholar.google.com/citations?user=AQjUv4YAAAAJ&hl=zh-CN)(co-advised with [Yaodong Yu](https://yaodongyu.github.io/))
-1. [Hongyu Zhao](https://scholar.google.com/citations?user=bGy-EUAAAAAJ&hl=en)
+1. [Fangxu Yu](https://yu-fangxu.github.io/) (co-advised with [Yaodong Yu](https://yaodongyu.github.io/))
+1. [Hongyu Zhao](https://hzhao.ttic.edu/)
 1. Yanming Zhang
 
 
 ## Alumni
 -----
-1. [Fuxiao Liu](https://fuxiaoliu.github.io/)(co-advised with [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
+1. [Fuxiao Liu](https://fuxiaoliu.github.io/) (co-advised with [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
 1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
 1. [Lu Liu](https://liulu112601.github.io/), OpenAI
 1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
