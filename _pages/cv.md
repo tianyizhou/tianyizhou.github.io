@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2022-present: Assistant Professor of Computer Science
+* 2022-: Assistant Professor of Computer Science
   * [University of Maryland](https://www.umd.edu/)
   * Instructor of CMSC 421 Fall 2022-2023: Introduction to Artificial Intelligence
   * Instructor of CMSC 828A Spring 2023: Fantastic Machine Learning Paradigms and Where to Use Them
@@ -85,7 +85,7 @@ Service
   * ICLR 2025
   * ARR Dec 2024
   * ICPR 2024
-  * IJCAI 2023
+  * IJCAI 2023, 2025
   * WACV 2022, 2023, 2024
   * SIGKDD 2022
   * AAAI 2021
