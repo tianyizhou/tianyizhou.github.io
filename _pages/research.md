@@ -201,8 +201,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ## Distributed and Collaborative (Federated, Decentralized) Learning
 -----
-1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Person-
-alization via Model Merging***", arXiv:2504.06768, 2025. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge)
+1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Personalization via Model Merging***", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge)
 1. Yiyuan Yang, Guodong Long, Tianyi Zhou, Qinghua Lu, Shanshan Ye, Jing Jiang, "***Federated Adapter on Foundation Models: An Out-Of-Distribution Approach***", arXiv:2505.01075, 2025. [PDF](https://arxiv.org/pdf/2505.01075)
 1. Shutong Chen, Tianyi Zhou, Guodong Long, Jie Ma, Jing Jiang, Chengqi Zhang, "***Multi-Level Additive Modeling for Structured Non-IID Federated Learning***", arXiv:2405.16472, 2024. [PDF](https://arxiv.org/pdf/2405.16472), [CODE](https://github.com/shutong043/FeMAM)
 1. Zhiwei Li, Guodong Long, Tianyi Zhou, Jing Jiang, Chengqi Zhang, "***Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach***", The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. [PDF](https://arxiv.org/pdf/2408.08931), [CODE](https://github.com/mtics/FedDAE)

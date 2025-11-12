@@ -17,8 +17,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2026
-1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Person-
-alization via Model Merging***", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge)
+1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Personalization via Model Merging***", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge)
 
 ### 2025
 1. Yijun Liang\*, Ming Li\*, Chenrui Fan, Ziyue Li, Dang Nguyen, Kwesi Cobbina, Shweta Bhardwaj, Jiuhai Chen, Fuxiao Liu, Tianyi Zhou, "***ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness***", The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2025. [PDF](https://arxiv.org/pdf/2504.10514), [CODE](https://github.com/tianyi-lab/ColorBench), [DATASET](https://huggingface.co/datasets/umd-zhou-lab/ColorBench)
