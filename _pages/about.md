@@ -29,6 +29,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2025/11: I am going to serve as an Area Chair of [ICML 2026](https://icml.cc/Conferences/2026).
 * 2025/09: 4 works ([ColorBench: VLMs struggle on colors](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), [WALL-E: neurosymbolic world model](https://huggingface.co/papers/2504.15785), [VideoHallu: VLMs hallucinate on synthetic videos](https://github.com/zli12321/VideoHallu), [DTO: dynamic thinking pattern optimization](https://arxiv.org/pdf/2505.21765)) have been accepted by [NeurIPS 2025](https://neurips.cc/).
 * 2025/08: 3 works ([Demos' Position in Prompt bias](https://arxiv.org/pdf/2507.22887), [Schoenfeld’s Episode Theory for LLM reasoning](https://arxiv.org/pdf/2509.14662), [NoWait reasoning on LLMs/VLMs](https://arxiv.org/pdf/2506.08343)) have been accepted by [EMNLP 2025](https://2025.emnlp.org/).
 * 2025/08: I am going to serve as an Area Chair of [ICLR 2026](https://iclr.cc/) and [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). 
