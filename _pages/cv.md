@@ -81,9 +81,13 @@ Service
 * Student Travel Award Chair for
   * The Wed Conference (WWW) 2025
 
-* Meta-Reviewer or Area Chair for
-  * ICLR 2025
-  * ARR Dec 2024
+* Area Chair or Meta-Reviewer for
+  * NeurIPS 2025
+  * ICML 2026
+  * ICLR 2025, 2026
+  * ACL 2025
+  * EMNLP 2025
+  * ARR 2024, 2025
   * ICPR 2024
   * IJCAI 2023, 2025
   * WACV 2022, 2023, 2024
