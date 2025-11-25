@@ -29,7 +29,7 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
-* 2025/09: Congratulations to [Ming Li](https://mingliiii.github.io/) on being awarded [Apple Scholars in AI/ML Fellowship](hhttps://machinelearning.apple.com/) in his third year of PhD!
+* 2025/11: Congratulations to [Ming Li](https://mingliiii.github.io/) on being awarded [Apple Scholars in AI/ML Fellowship](hhttps://machinelearning.apple.com/) in his third year of PhD!
 * 2025/11: I am going to serve as an Area Chair of [ICML 2026](https://icml.cc/Conferences/2026).
 * 2025/09: 4 works ([ColorBench: VLMs struggle on colors](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), [WALL-E: neurosymbolic world model](https://huggingface.co/papers/2504.15785), [VideoHallu: VLMs hallucinate on synthetic videos](https://github.com/zli12321/VideoHallu), [DTO: dynamic thinking pattern optimization](https://arxiv.org/pdf/2505.21765)) have been accepted by [NeurIPS 2025](https://neurips.cc/).
 * 2025/09: Congratulations to [Dongping Chen](https://dongping-chen.github.io/) on being awarded [UMD Flagship Fellowship](https://gradschool.umd.edu/sites/default/files/2025-06/Flagship%20Fellows%20History_0.pdf) (the only CS recipient this year)!
