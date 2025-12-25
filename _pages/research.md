@@ -29,6 +29,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
 
 ### Post-training and Reasoning
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs***", arXiv:2511.07419, 2025. [PDF](https://arxiv.org/pdf/2511.07419), [CODE](https://github.com/tianyi-lab/RoMA)
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) <span style="color:red">*Oral*</span>, 2025. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 1. Dang Nguyen, Jiuhai Chen, and Tianyi Zhou, "***Multi-Objective Linguistic Control of Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2406.16229), [CODE](https://github.com/tianyi-lab/mctune)
 1. Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou, "***A survey on knowledge distillation of large language models***", arXiv:2402.13116, 2024. [PDF](https://arxiv.org/pdf/2402.13116), [CODE](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)
@@ -102,7 +103,6 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ### Post-Training
 
-1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs***", arXiv:2511.07419, 2025. [PDF](https://arxiv.org/pdf/2511.07419), [CODE](https://github.com/tianyi-lab/RoMA)
 1. Qinsi Wang, Bo Liu, Tianyi Zhou, Jing Shi, Yueqian Lin, Yiran Chen, Hai Helen Li, Kun Wan, Wentian Zhao, "***Vision-Zero: Scalable vlm self-improvement via strategic gamified self-play***", arXiv:2509.25541, 2025. [PDF](https://arxiv.org/pdf/2509.25541), [CODE](https://github.com/wangqinsi1/Vision-Zero)
 1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
 1. Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh, "***R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model***", arXiv:2503.05132, 2025. [PDF](https://arxiv.org/pdf/2503.05132), [CODE](https://github.com/turningpoint-ai/VisualThinker-R1-Zero), [MODEL](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)
