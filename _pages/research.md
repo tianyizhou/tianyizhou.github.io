@@ -63,6 +63,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ### Human-AI Alignment and Reward Hacking
 <!-- 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents***", arXiv:2410.07484, 2024. [PDF](https://arxiv.org/pdf/2410.07484), [CODE](https://github.com/elated-sawyer/WALL-E) -->
+1. Ming Li\*, Chenrui Fan\*, Yize Cheng\*, Soheil Feizi, Tianyi Zhou, "***Schoenfeld's Anatomy of Mathematical Reasoning by Language Models***", arXiv: 2512.19995, 2025. [PDF](https://arxiv.org/pdf/2512.19995), [CODE](https://github.com/MingLiiii/ThinkARM)
 1. Ming Li, Han Chen, Yunze Xiao, Jian Chen, Hong Jiao, Tianyi Zhou, "***Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction***", arXiv: 2512.18880, 2025. [PDF](https://arxiv.org/pdf/2512.18880), [CODE](https://github.com/MingLiiii/Difficulty_Alignment)
 1. Qingshu Xu, Hong Jiao, Tianyi Zhou, Ming Li, Nan Zhang, Sydney Peters, Yanbin Fu, "***Automated Alignment of Math Items to Content Standards in Large-Scale Assessments Using Language Models***", arXiv: 2510.05129, 2025. [PDF](https://arxiv.org/pdf/2510.05129)
 1. Yongkang Du, Jieyu Zhao, Yijun Yang, Tianyi Zhou, "***Controllable Pareto Trade-off between Fairness and Accuracy***", arXiv: 2509.13651, 2025. [PDF](https://arxiv.org/pdf/2509.13651)
