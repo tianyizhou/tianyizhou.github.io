@@ -17,6 +17,11 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2026
+1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2506.21551)
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2511.07419), [CODE](https://github.com/tianyi-lab/RoMA)
+1. Advait Gupta, Rishie Raj, Dang Nguyen, Tianyi Zhou, "***FaSTA\*: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2506.20911), [CODE](https://github.com/tianyi-lab/FaSTAR), [DEMO](https://github.com/tianyi-lab/FaSTAR/blob/main/Demo.ipynb)
+1. Qinsi Wang, Bo Liu, Tianyi Zhou, Jing Shi, Yueqian Lin, Yiran Chen, Hai Helen Li, Kun Wan, Wentian Zhao, "***Vision-Zero: Scalable vlm self-improvement via strategic gamified self-play***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2509.25541), [CODE](https://github.com/wangqinsi1/Vision-Zero)
+1. Yue Huang, Chujie Gao, Siyuan Wu, Haoran Wang, ... ,Tianyi Zhou, ... , Xiangliang Zhang, "***TrustGen: A Platform of Dynamic Benchmarking on the Trustworthiness of Generative Foundation Models***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2502.14296), [CODE](https://github.com/TrustGen/TrustEval-toolkit)
 1. Shutong Chen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang, "***FedMerge: Federated Personalization via Model Merging***", The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026. [PDF](https://arxiv.org/pdf/2504.06768), [CODE](https://github.com/shutong043/FedMerge)
 
 ### 2025

@@ -29,7 +29,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin, "***Alpagasus: Training a Better Alpaca Model with Fewer Data***", International Conference on Learning Representations (ICLR), 2024. [PDF](https://openreview.net/pdf?id=FdVXgSJhvz)
 
 ### Post-training and Reasoning
-1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs***", arXiv:2511.07419, 2025. [PDF](https://arxiv.org/pdf/2511.07419), [CODE](https://github.com/tianyi-lab/RoMA)
+1. Zhongyang Li, Ziyue Li, Tianyi Zhou, "***Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2511.07419), [CODE](https://github.com/tianyi-lab/RoMA)
 1. Ming Li, Yanhong Li, Tianyi Zhou,  "***What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective***", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) <span style="color:red">*Oral*</span>, 2025. [PDF](https://arxiv.org/abs/2410.23743), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 1. Dang Nguyen, Jiuhai Chen, and Tianyi Zhou, "***Multi-Objective Linguistic Control of Large Language Models***", Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2024. [PDF](https://arxiv.org/pdf/2406.16229), [CODE](https://github.com/tianyi-lab/mctune)
 1. Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, Tianyi Zhou, "***A survey on knowledge distillation of large language models***", arXiv:2402.13116, 2024. [PDF](https://arxiv.org/pdf/2402.13116), [CODE](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)
@@ -43,7 +43,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ### Generalization
 1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs***", arXiv:2507.07996, 2025. [PDF](https://arxiv.org/pdf/2507.07996)
-1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", arXiv:2506.21551, 2025. [PDF](https://arxiv.org/pdf/2506.21551)
+1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2506.21551)
 1. Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin, "***The 4th Dimension for Scaling Model Size***", arXiv:2506.18233, 2025. [PDF](https://arxiv.org/pdf/2506.18233)
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR) <span style="color:red"> *Oral, 1.8%* </span>, 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
 1. Ziyue Li, Tianyi Zhou, "***Sparser Mixture-of-Adapters with Cross-Layer Generalization***", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025. [PDF](), [CODE]()
@@ -103,7 +103,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ### Post-Training
 
-1. Qinsi Wang, Bo Liu, Tianyi Zhou, Jing Shi, Yueqian Lin, Yiran Chen, Hai Helen Li, Kun Wan, Wentian Zhao, "***Vision-Zero: Scalable vlm self-improvement via strategic gamified self-play***", arXiv:2509.25541, 2025. [PDF](https://arxiv.org/pdf/2509.25541), [CODE](https://github.com/wangqinsi1/Vision-Zero)
+1. Qinsi Wang, Bo Liu, Tianyi Zhou, Jing Shi, Yueqian Lin, Yiran Chen, Hai Helen Li, Kun Wan, Wentian Zhao, "***Vision-Zero: Scalable vlm self-improvement via strategic gamified self-play***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2509.25541), [CODE](https://github.com/wangqinsi1/Vision-Zero)
 1. Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou, "***Wait, We Don't Need to" Wait"! Removing Thinking Tokens Improves Reasoning Efficiency***", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025. [PDF](https://arxiv.org/pdf/2506.08343)
 1. Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh, "***R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model***", arXiv:2503.05132, 2025. [PDF](https://arxiv.org/pdf/2503.05132), [CODE](https://github.com/turningpoint-ai/VisualThinker-R1-Zero), [MODEL](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)
 1. Xiyao Wang, Jiuhai Chen, Zhaoyang Wang, Yuhang Zhou, Yiyang Zhou, Huaxiu Yao, Tianyi Zhou, Tom Goldstein, Parminder Bhatia, Furong Huang, Cao Xiao, "***Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement***", Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) Findings, 2025. [PDF](https://arxiv.org/pdf/2405.15973)
@@ -143,7 +143,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ## Agents and World Models
 -----
-1. Advait Gupta, Rishie Raj, Dang Nguyen, Tianyi Zhou, "***FaSTA\*: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing***", arXiv:2506.20911, 2025. [PDF](https://arxiv.org/pdf/2506.20911), [CODE](https://github.com/tianyi-lab/FaSTAR), [DEMO](https://github.com/tianyi-lab/FaSTAR/blob/main/Demo.ipynb)
+1. Advait Gupta, Rishie Raj, Dang Nguyen, Tianyi Zhou, "***FaSTA\*: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2506.20911), [CODE](https://github.com/tianyi-lab/FaSTAR), [DEMO](https://github.com/tianyi-lab/FaSTAR/blob/main/Demo.ipynb)
 1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Guodong Long, Deheng Ye, Jing Jiang, and Chengqi Zhang, "***WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents***", The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. [PDF](https://arxiv.org/pdf/2504.15785), [CODE](https://github.com/elated-sawyer/WALL-E)
 1. Advait Gupta, NandaKiran Velaga, Dang Nguyen Tianyi Zhou, "***CoSTA\*: Cost-Sensitive Toolpath Agent
 for Multi-turn Image Editing***", arXiv:2503.10613, 2025. [PDF](https://arxiv.org/pdf/2503.10613), [CODE](https://github.com/tianyi-lab/CoSTAR), [DEMO](https://storage.googleapis.com/costa-frontend/index.html), [DATASET](https://huggingface.co/datasets/advaitgupta/CoSTAR)
