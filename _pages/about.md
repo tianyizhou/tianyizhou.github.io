@@ -29,6 +29,8 @@ I was a visiting research scientist at Google between 2021-2022, hosted by [Prof
 
 News
 ------
+* 2026/05: 6 ICML (1 Oral + 1 Spotlight) + 5 ACL (1 Oral) + 7 ICLR + 1 ACM CAIS + 1 EACL + 1 AAAI have been accepted in 2026.  
+* 2026/03: I will serve as the Area Chair for NeurIPS 2026 and most ARR circles (ACL, EMNLP, etc.).  
 * 2026/01: Congratulations to [Ming Li](https://mingliiii.github.io/) on being awarded [2026 Apple Scholar in AI/ML](https://www.cs.umd.edu/node/27716)!
 * 2025/11: I am going to serve as an Area Chair of [ICML 2026](https://icml.cc/Conferences/2026).
 * 2025/09: 4 works ([ColorBench: VLMs struggle on colors](https://huggingface.co/datasets/umd-zhou-lab/ColorBench), [WALL-E: neurosymbolic world model](https://huggingface.co/papers/2504.15785), [VideoHallu: VLMs hallucinate on synthetic videos](https://github.com/zli12321/VideoHallu), [DTO: dynamic thinking pattern optimization](https://arxiv.org/pdf/2505.21765)) have been accepted by [NeurIPS 2025](https://neurips.cc/).
