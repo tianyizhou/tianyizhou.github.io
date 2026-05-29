@@ -85,7 +85,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Lichao Sun, Yue Huang, et al. "***TrustLLM: Trustworthiness in Large Language Models***", International Conference on Machine Learning (ICML), 2024. [PDF](https://arxiv.org/pdf/2401.05561), [CODE](https://github.com/HowieHwong/TrustLLM)
 
 ### Decoding
-1. Xin Teng, Canyu Zhang, Shaoyi Zheng, Danyang Zhuo, Tianyi Zhou, Shenji Wan, "***InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context***", Forty-third International Conference on Machine Learning (ICML), 2026. 
+1. Xin Teng, Canyu Zhang, Shaoyi Zheng, Danyang Zhuo, Tianyi Zhou, Shenji Wan, "***InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context***", Forty-third International Conference on Machine Learning (ICML), 2026. [PDF](https://arxiv.org/pdf/2603.05353)
 1. Lilly Kumari, Shengjie Wang, Tianyi Zhou, Nikhil Sarda, Anthony Rowe, and Jeff Bilmes, "***BumbleBee: Dynamic KV Cache Summarization in Transformers using Submodular Optimization***", First Conference on Language Modeling (COLM), 2024. [PDF](https://openreview.net/pdf?id=8w0RApM5yG)
 1. Hanchi Sun, Tianyi Zhou, Xun Chen, Lichao Sun, "***SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding***", The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [PDF](https://openreview.net/pdf?id=z4zVpx8OLs), [CODE](https://github.com/MasterGodzilla/Speculative_decoding_OT)
 
