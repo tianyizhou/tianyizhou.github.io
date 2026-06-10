@@ -42,7 +42,8 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 1. Chenrui Fan\*, Ming Li\*, Lichao Sun, Tianyi Zhou, "***Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?***", Conference on Language Modeling (COLM), 2025. [PDF](https://arxiv.org/pdf/2504.06514), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 
 ### Generalization
-1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs***", Forty-third International Conference on Machine Learning (ICML) <span style="color:red">*Oral, 0.7%*</span>, 2026. [PDF](https://arxiv.org/pdf/2507.07996), [CODE](https://github.com/tianyi-lab/PoLar)
+1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop It? Learning Program-of-Layers in LLMs***", Forty-third International Conference on Machine Learning (ICML) <span style="color:red">*Oral, 0.7%*</span>, 2026. [PDF](https://arxiv.org/pdf/2606.06574), [CODE](https://github.com/tianyi-lab/PoLar)
+1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs***", arXiv:2507.07996, 2026. [PDF](https://arxiv.org/pdf/2507.07996)
 1. Ziyue Li, Chenrui Fan, Tianyi Zhou, "***Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test***", The Fourteenth International Conference on Learning Representations (ICLR), 2026. [PDF](https://arxiv.org/pdf/2506.21551)
 1. Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin, "***The 4th Dimension for Scaling Model Size***", arXiv:2506.18233, 2025. [PDF](https://arxiv.org/pdf/2506.18233)
 1. Ziyue Li, Tianyi Zhou, "***Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free***", The Thirteenth International Conference on Learning Representations (ICLR) <span style="color:red"> *Oral, 1.8%* </span>, 2025. [PDF](https://arxiv.org/pdf/2410.10814), [CODE](https://github.com/tianyi-lab/MoE-Embedding)
