@@ -17,6 +17,10 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2026
+1. Chenrui Fan, Yijun Liang, Shweta Bhardwaj, Kwesi Adu Cobbina, Ming Li, Tianyi Zhou, "***V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions***", The European Conference on Computer Vision (ECCV), 2026. [PDF](https://arxiv.org/pdf/2512.11995), [CODE](https://github.com/tianyi-lab/VREX), [DATA](https://huggingface.co/datasets/umd-zhou-lab/V-REX)
+1. Siyu Zhou, Tianyi Zhou, Yijun Yang, Deheng Ye, Chengqi Zhang, Jing Jiang, Guodong Long, "***WALL-EVE: World Alignment with Rule Learning in Visual Environments***", The European Conference on Computer Vision (ECCV), 2026. [PDF], [CODE]
+1. Laura Zheng, Hamidreza Yaghoubi Araghi, Tony Wu, Tianyi Zhou, Ming C. Lin, "***Polysona: Modular Driving Styles in Trajectory Prediction***", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. [earlier version](https://arxiv.org/abs/2503.04994)
+1. Qitong Wang, Yijun Liang, Ming Li, Tianyi Zhou, Christopher Rasmussen, "***History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation***", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. [PDF](https://arxiv.org/pdf/2603.06480)
 1. Ziyue Li, Yang Li, Tianyi Zhou, "***Skip a Layer or Loop It? Learning Program-of-Layers in LLMs***", Forty-third International Conference on Machine Learning (ICML) <span style="color:red">*Oral, 0.7%*</span>, 2026. [PDF](https://arxiv.org/pdf/2606.06574), [CODE](https://github.com/tianyi-lab/PoLar)
 1. Yuchen Wang, Jiangtao Kong, Sizhe Wei, Xiaochang Li, Haohong Lin, Hongjue Zhao, Tianyi Zhou, Lu Gan, Huajie Shao, "***WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems***", Forty-third International Conference on Machine Learning (ICML) <span style="color:red">*Spotlight, 2.2%*</span>, 2026. [PDF](https://arxiv.org/pdf/2603.14392), [DEMO](https://westworldrobot.github.io/)
 1. Fangxu Yu, Xingang Guo, Lingzhi Yuan, Haoqiang Kang, Hongyu Zhao, Lianhui Qin, Furong Huang, Bin Hu, Tianyi Zhou, "***TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models***", Forty-third International Conference on Machine Learning (ICML), 2026. [PDF](https://arxiv.org/pdf/2601.18744), [CODE+DATA](https://tsrbench.github.io/)
@@ -196,6 +200,8 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 
 ## Journal
 -----
+1.Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
+Adaptive Curriculum Learning***", Transactions on Machine Learning Research (TMLR), 2026. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Ming Li, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "***Item Difficulty Modeling Using Fine-tuned Small and Large Language Models***", Educational and Psychological Measurement, 2025. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Songhua Wu, Tianyi Zhou, Yuxuan Du, Jun Yu, Bo Han, Tongliang Liu, "***A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels***", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
