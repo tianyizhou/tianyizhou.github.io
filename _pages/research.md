@@ -257,7 +257,7 @@ Adaptive Curriculum Learning***", Transactions on Machine Learning Research (TML
 
 ## Continual Learning, Plasticity-Stability Trade-off
 -----
-1. Jiangtao Kong, Peijun Zhao, Chun-Fu Chen, Youngwook Do, Shaohan Hu, Tianyi Zhou, Huajie Shao, "***ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation***", Forty-third International Conference on Machine Learning (ICML), 2026. 
+1. Jiangtao Kong, Peijun Zhao, Chun-Fu Chen, Youngwook Do, Shaohan Hu, Tianyi Zhou, Huajie Shao, "***ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation***", Forty-third International Conference on Machine Learning (ICML), 2026. [PDF](https://arxiv.org/pdf/2606.12633), [CODE](https://github.com/Snowball0823/ECA)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
 1. Jiangtao Kong, Jiacheng Shi, Ashley Gao, Shaohan Hu, Tianyi Zhou, Huajie Shao, "***Hybrid Memory Replay: Blending Real and Distilled Data for Class Incremental Learning***", arXiv:2410.15372, 2024. [PDF](https://arxiv.org/pdf/2410.15372)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***Condensed Prototype Replay for Class Incremental Learning***", arXiv:2305.16143, 2023. [PDF](https://arxiv.org/pdf/2305.16143)
