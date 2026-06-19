@@ -200,7 +200,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 
 ## Journal
 -----
-1.Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
+1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
 Adaptive Curriculum Learning***", Transactions on Machine Learning Research (TMLR), 2026. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Ming Li, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "***Item Difficulty Modeling Using Fine-tuned Small and Large Language Models***", Educational and Psychological Measurement, 2025. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full)
 1. Jiangtao Kong, Zhenyu Zong, Tianyi Zhou, Huajie Shao, "***YoooP: You Only Optimize One Prototype per Class for Non-Exemplar Incremental Learning***", Transactions on Machine Learning Research (TMLR), 2025. [PDF](https://openreview.net/pdf?id=FYe66NLDkO)
