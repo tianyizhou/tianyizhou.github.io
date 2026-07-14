@@ -100,7 +100,7 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 ## Multimodal Large Language Models (MLLMs)
 -----
 ### Model Architecture and Training Recipe
-1. Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou, "***TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning***", Third Conference on Language Modeling (COLM), 2026. [PDF](), [CODE]()
+1. Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou, "***TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning***", Third Conference on Language Modeling (COLM), 2026. [PDF](https://arxiv.org/pdf/2607.08940), [CODE](https://github.com/tianyi-lab/TSRouter)
 1. Fangxu Yu, Hongyu Zhao, Tianyi Zhou, "***TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning***", arXiv:2510.03519, 2025. [PDF](https://arxiv.org/pdf/2510.03519)
 1. Jiuhai Chen, Le Xue, Zhiyang Xu, Xichen Pan, Shusheng Yang, Can Qin, An Yan, Honglu Zhou, Zeyuan Chen, Lifu Huang, Tianyi Zhou, Junnan Li, Silvio Savarese, Caiming Xiong, Ran Xu, "***BLIP3o-NEXT: Next Frontier of Native Image Generation***", arXiv:2510.15857, 2025. [PDF](https://arxiv.org/pdf/2510.15857), [CODE](https://github.com/JiuhaiChen/BLIP3o), [DATASET+MODEL](https://huggingface.co/BLIP3o)
 1. Zhiyang Xu, Jiuhai Chen, Zhaojiang Lin, Xichen Pan, Lifu Huang, Tianyi Zhou, Madian Khabsa, Qifan Wang, Di Jin, Michihiro Yasunaga, Lili Yu, Xi Victoria Lin, Shaoliang Nie, "***Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation***", arXiv:2506.10395, 2025. [PDF](https://arxiv.org/pdf/2506.10395)
