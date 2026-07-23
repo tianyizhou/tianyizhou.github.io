@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 <!-- I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/), [UMIACS](https://www.umiacs.umd.edu/), and [AIM](https://aim.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/).  -->
-My research interests are in machine learning, optimization, and natural language processing. 
+My research interests are in machine learning, natural language processing, optimization, and multimodal agentic AI. 
 <!-- I am part of the Center for Machine Learning ([CML](https://ml.umd.edu/)) and [CLIP Lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) at UMIACS.  -->
-I have published [~150 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
+I have published [~180 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Expert Alignment in Generalist AI: MoE Routing, Dynamic Inference, Multimodal Fusion, Collaborative Learning, Multi-Agent Orchestration, etc; 
-- Human-AI Hybrid Intelligence: Cognitive/Educational Alignment, Human-AI Teaming, Curriculum Learning, Multi-Objective Control, etc;
-- World Models (WM): Neuro-Symbolic, Physics/Geometry-Grounded, WM-based Agent;
-- Self-evolving Sustainable AI: Data/task Selection, Synthesis, and Curriculum; Training; Auto-benchmarking and Auditing;
-- Training Dynamics & Interpretability: Memorization, Generalization, Grokking, Collpase.  
+- Human-AI-World Alignment: Cognitive/Epismetic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective;
+- World Models (WM): Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent;
+- Self-evolving Sustainable AI: Data/Task/Env Selection, Synthesis, and Curriculum; Auto-benchmarking/Auditing; Self-Reward/Labeling;
+- Experts in Generalist AI: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration; 
+- Interpretability: Memorization, Generalization, Grokking, Collpase, Representation, Steering; 
 <!-- - Generative AI with better controllability, efficiency, and reasoning skills; -->
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
-Our studies are built upon recent LLMs, unified multi-modal models, RL, agentic workflows, to address practical challenges in education, design, medical health, visualization, embodied intelligence, autonomous driving, etc. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between humans and machines. Our code/data/models can be found at [Tianyi Lab's GitHub](https://github.com/tianyi-lab) and [HF](https://huggingface.co/umd-zhou-lab). 
+Our studies are built upon recent LLMs, unified multi-modal models, RL, agentic systems, to address practical challenges in education, science, design, visualization, embodied intelligence, etc. Our goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between humans and machines. Our code/data/models can be found at [Tianyi Lab's GitHub](https://github.com/tianyi-lab) and [HF](https://huggingface.co/umd-zhou-lab). 
 
 <!-- I was a visiting research scientist at Google between 2021-2022, hosted by [Prof. Boqing Gong](https://boqinggong.github.io/) and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). Before that, I received my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/), where I was a member of [MELODI lab](https://melodi.ece.uw.edu/) led by [Prof. Jeff A. Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html). I have been working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) as a research assistant at [University of Technology, Sydney (UTS)](https://www.uts.edu.au/) and [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). I was a research intern at [Yahoo! Labs](https://research.yahoo.com/), mentored by [Dr. Hua Ouyang](https://www.linkedin.com/in/hua-ouyang-5869b851) (Apple) and [Prof. Yi Chang](http://www.yichang-cs.com/) (Jilin University), and a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), mentored by [Dr. Lin Xiao](https://linxiaolx.github.io/) (Meta AI).  -->
 <!-- I also work closely with several members and students of [Australian AI Institute](https://www.uts.edu.au/research-and-teaching/our-research/australian-artificial-intelligence-institute). -->
