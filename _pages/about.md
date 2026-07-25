@@ -14,11 +14,11 @@ I have published [~180 papers](https://scholar.google.com/citations?user=OKvgizM
 We built [Program-of-Layers](https://arxiv.org/pdf/2606.06574), [ThinkARM](https://aclanthology.org/2026.acl-long.1513.pdf), [HallusionBench](https://openaccess.thecvf.com/content/CVPR2024/papers/Guan_HallusionBench_An_Advanced_Diagnostic_Suite_for_Entangled_Language_Hallucination_and_CVPR_2024_paper.pdf), [WALL-E](https://arxiv.org/pdf/2504.15785), [MoE-Embedding](https://arxiv.org/pdf/2410.10814), [Blip3-o](https://arxiv.org/pdf/2505.09568), [SuperFiltering](https://arxiv.org/pdf/2402.00530), [InstructZero](https://arxiv.org/pdf/2306.03082), [FedProto](https://arxiv.org/pdf/2105.00243.pdf), [Robust Curriculum](https://openreview.net/pdf?id=lmTWnm3coJJ), [Curriculum HER](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [DiSAN](https://arxiv.org/pdf/1709.04696.pdf), [Divide-and-Conquer Anchoring](https://arxiv.org/pdf/1406.5752), [GoDec](https://icml.cc/2011/papers/41_icmlpaper.pdf), etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Human-AI-World Alignment: Cognitive/Epismetic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective;
-- World Models (WM): Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent;
-- Self-evolving Sustainable AI: Data/Task/Env Selection, Synthesis, and Curriculum; Auto-benchmarking/Auditing; Self-Reward/Labeling;
-- Experts in Generalist AI: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration; 
-- Interpretability: Memorization, Generalization, Grokking, Collpase, Representation, Steering; 
+- Human-AI-World Alignment: Cognitive/Epismetic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective Alignment;
+- World Models (WM): Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent/Robot;
+- Self-evolving AI and Sustainable Learning: Data/Task/Env Selection, Synthesis, and Curriculum; Auto-benchmarking/Auditing; Self-Reward/Labeling;
+- Generalist AI built by Experts: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration; Continual Learning;
+- Interpretability: Memorization, Generalization, Grokking, Collpase, Representation, Hallucination, Steering; 
 <!-- - Generative AI with better controllability, efficiency, and reasoning skills; -->
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
