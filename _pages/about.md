@@ -10,16 +10,16 @@ redirect_from:
 <!-- I am a tenure-track assistant professor of [Computer Science](https://www.cs.umd.edu/), [UMIACS](https://www.umiacs.umd.edu/), and [AIM](https://aim.umd.edu/) at [University of Maryland, College Park](https://www.umd.edu/).  -->
 My research interests are in machine learning, natural language processing, optimization, and multimodal agentic AI. 
 <!-- I am part of the Center for Machine Learning ([CML](https://ml.umd.edu/)) and [CLIP Lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) at UMIACS.  -->
-I received my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/). 
+I earned  my Ph.D. ([thesis](https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full)) from [Computer Science](https://www.cs.washington.edu/) of [University of Washington](https://www.washington.edu/). 
 I have published [~180 papers](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL, COLM), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 We built [Program-of-Layers](https://arxiv.org/pdf/2606.06574), [ThinkARM](https://aclanthology.org/2026.acl-long.1513.pdf), [HallusionBench](https://openaccess.thecvf.com/content/CVPR2024/papers/Guan_HallusionBench_An_Advanced_Diagnostic_Suite_for_Entangled_Language_Hallucination_and_CVPR_2024_paper.pdf), [WALL-E](https://arxiv.org/pdf/2504.15785), [MoE-Embedding](https://arxiv.org/pdf/2410.10814), [Blip3-o](https://arxiv.org/pdf/2505.09568), [SuperFiltering](https://arxiv.org/pdf/2402.00530), [InstructZero](https://arxiv.org/pdf/2306.03082), [FedProto](https://arxiv.org/pdf/2105.00243.pdf), [Robust Curriculum](https://openreview.net/pdf?id=lmTWnm3coJJ), [Curriculum HER](https://papers.nips.cc/paper/2019/file/83715fd4755b33f9c3958e1a9ee221e1-Paper.pdf), [DiSAN](https://arxiv.org/pdf/1709.04696.pdf), [Divide-and-Conquer Anchoring](https://arxiv.org/pdf/1406.5752), [GoDec](https://icml.cc/2011/papers/41_icmlpaper.pdf), etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Human-AI-World Alignment: Cognitive/Epismetic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective Alignment;
-- World Models (WM): Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent/Robot;
-- Self-evolving AI and Sustainable Learning: Data/Task/Env Selection, Synthesis, and Curriculum; Auto-benchmarking/Auditing; Self-Reward/Labeling;
-- Generalist AI built by Experts: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration; Continual Learning;
-- Interpretability: Memorization, Generalization, Grokking, Collpase, Representation, Hallucination, Steering; 
+- Human-AI-World Alignment: Cognitive/Epistemic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective Alignment;
+- World Models: Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent/Robot;
+- Self-evolving AI and Sustainable Learning: Data/Task/Env Selection, Synthesis, and Curriculum; Continual Learning; Auto-benchmarking; Auditing; Self-Reward/Labeling;
+- Generalist AI built by Experts: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration;
+- Interpretability: Memorization, Generalization, Grokking, Collapse, Representation, Hallucination, Steering; 
 <!-- - Generative AI with better controllability, efficiency, and reasoning skills; -->
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
