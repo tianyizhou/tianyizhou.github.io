@@ -15,11 +15,10 @@ We built [Program-of-Layers](https://arxiv.org/pdf/2606.06574), [ThinkARM](https
 [Our works](https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en) have been published in ML (NeurIPS, ICML, ICLR), NLP (ACL, EMNLP, NAACL, COLM), CV (CVPR, ICCV, ECCV), DM (KDD, ICDM), AI (AAAI, IJCAI) conferences, and journals as Machine Learning (Springer), IEEE TPAMI/TIP/TNNLS/TKDE, etc. 
 <!-- I am the recipient of the [Best Student Paper Award at ICDM 2013](https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf) and the [2020 IEEE TCSC Most Influential Paper Award](http://www.icml-2011.org/papers/41_icmlpaper.pdf). -->
 Our recent works mainly focus on: 
-- Human-AI-World Alignment: Cognitive/Epistemic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective Alignment;
-- World Models: Neuro-Symbolic, Physics/Geometry-Grounded, Interaction, WM-based Agent/Robot;
+- Human-AI-World Alignment: Cognitive/Epistemic Alignment, Human Modeling, Human-AI Teaming, Multi-Objective Alignment; Neuro-Symbolic and Physics/Geometry-Grounded World Models, Interactive Agents;
 - Self-evolving AI and Sustainable Learning: Data/Task/Env Selection, Synthesis, and Curriculum; Continual Learning; Auto-benchmarking; Auditing; Self-Reward/Labeling;
 - Generalist AI built by Experts: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration;
-- Interpretability: Memorization, Generalization, Grokking, Collapse, Representation, Hallucination, Steering; 
+- Interpretability of ML: Memorization, Generalization, Grokking, Collapse, Representation, Hallucination, Steering; 
 <!-- - Generative AI with better controllability, efficiency, and reasoning skills; -->
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
