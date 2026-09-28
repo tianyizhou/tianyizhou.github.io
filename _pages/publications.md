@@ -17,6 +17,10 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 -----
 
 ### 2026
+1. Dongping Chen, Tianyi Zhou, "***OopsWorld! Operation-Grounded Seamless World Generation***", The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026. 
+1. Dongping Chen, Xuanao Huang, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi Zhou, "***Sandboxed Coding Agents are Competitive Omni-modal Task Solvers***", The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
+1. Advait Gupta, NandaKiran Velaga, Dang Nguyen Tianyi Zhou, "***CoSTA\*: Cost-Sensitive Toolpath Agent
+for Multi-turn Image Editing***", The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2026. [PDF](https://arxiv.org/pdf/2503.10613), [CODE](https://github.com/tianyi-lab/CoSTAR), [DEMO](https://storage.googleapis.com/costa-frontend/index.html), [DATASET](https://huggingface.co/datasets/advaitgupta/CoSTAR)
 1. Hongyu Zhao, Siyu Zhou, Haolin Yang, Zengyi Qin, Tianyi Zhou, "***Neuro-Symbolic Synergy for Interactive World Modeling***", Third Conference on Language Modeling (COLM), 2026. [PDF](https://arxiv.org/pdf/2602.10480), [CODE](https://github.com/tianyi-lab/NeSyS)
 1. Xirui Li\*, Ming Li\*, Tianyi Zhou, "***What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis***", Third Conference on Language Modeling (COLM), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
 1. Fangxu Yu, Tao Feng, Dehai Min, Lu Cheng, Ge Liu, Tianyi Zhou, "***TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning***", Third Conference on Language Modeling (COLM), 2026. [PDF](https://arxiv.org/pdf/2607.08940), [CODE](https://github.com/tianyi-lab/TSRouter)
