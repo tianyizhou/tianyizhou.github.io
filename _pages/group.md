@@ -14,7 +14,6 @@ redirect_from:
 -----
 1. [Shweta Bhardwaj](https://shwetabhardwaj44.github.io/)
 1. [Dongping Chen](https://dongping-chen.github.io/)
-1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. [Kwesi Cobbina](https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en)
 1. [Maharshi Gor](https://mgor.info/) (co-advised with [Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
 1. Daeun Jung
@@ -30,6 +29,7 @@ redirect_from:
 
 ## Alumni
 -----
+1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. [Fuxiao Liu](https://fuxiaoliu.github.io/) (co-advised with [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
 1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
 1. [Lu Liu](https://liulu112601.github.io/), OpenAI
