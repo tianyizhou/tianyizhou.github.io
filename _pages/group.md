@@ -51,7 +51,6 @@ redirect_from:
 1. [Lilly Kumari](https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en)
 1. [Zhiwei Li](https://profiles.uts.edu.au/student_Zhiwei.Li)
 1. [Yibin Lei](https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en)
-1. [Fuxiao Liu](https://fuxiaoliu.github.io/)
 1. [Yu Shen](https://www.cs.umd.edu/~yushen/)
 1. [Wensi Tang](https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en)
 1. [Ruochen Wang](https://ruocwang.github.io/)
