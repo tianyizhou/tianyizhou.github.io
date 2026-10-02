@@ -30,7 +30,7 @@ Our studies are built upon recent LLMs, unified multi-modal models, RL, agentic 
 
 News
 ------
-* 2026/07: 4 papers have been accepted by [COLM](https://colmweb.org/). 
+* 2026/07: 4 papers have been accepted by [COLM 2026](https://colmweb.org/), 2 papers have been accepted by [ECCV 2026] (https://eccv.ecva.net/). 
 * 2026/07: [Schoenfeld’s Anatomy of Mathematical Reasoning by Language Models](https://aclanthology.org/2026.acl-long.1513/) has been selected as "SAC Highlight" on ACL 2026. 
 * 2026/06: Item Difficulty Modeling Using Fine-tuned Small and Large Language Models won [2026 Best Research Award from the International EAssessment Association (eAA)](https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research). 
 * 2026/05: 6 ICML (1 Oral + 1 Spotlight) + 5 ACL (1 Oral) + 5 ICLR + 1 ACM CAIS + 1 EACL + 1 AAAI have been accepted in 2026. 
