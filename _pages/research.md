@@ -151,6 +151,8 @@ Adaptive Curriculum Learning***", arXiv:2504.05520, 2025. [PDF](https://arxiv.or
 
 ## Agents and World Models
 -----
+1. Dongping Chen, Tianyi Zhou, "***OopsWorld! Operation-Grounded Seamless World Generation***", The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026. 
+1. Dongping Chen, Xuanao Huang, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi Zhou, "***Sandboxed Coding Agents are Competitive Omni-modal Task Solvers***", The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026. [PDF](https://arxiv.org/pdf/2606.00579), [CODE](https://github.com/Dongping-Chen/OmniCoding)
 1. Xirui Li, Ming Li, Ion Stoica, Cho-Jui Hsieh, Tianyi Zhou, "***ClawEnvKit: Automatic Environment Generation for Claw-Like Agents***", arXiv:2604.18543, 2026. [PDF](https://arxiv.org/pdf/2604.18543), [CODE](https://github.com/xirui-li/ClawEnvKit)
 1. Xirui Li\*, Ming Li\*, Yunze Xiao, Ryan Wong, Dianqi Li, Timothy Baldwin, Tianyi Zhou, "***Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents***", arXiv:2604.22452, 2026. [PDF](https://arxiv.org/pdf/2604.22452), [WEB](https://www.ai-agent-society.com/)
 1. Xiyang Wu, Zongxia Li, Guangyao Shi, Alexander Duffy, Tyler Marques, Matthew Lyle Olson, Tianyi Zhou, Dinesh Manocha, "***Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks***", arXiv:2604.20987, 2026. [PDF](https://arxiv.org/pdf/2604.20987), [CODE](https://github.com/wuxiyang1996/COS-PLAY)
