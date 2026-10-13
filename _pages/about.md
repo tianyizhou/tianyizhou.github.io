@@ -17,8 +17,8 @@ We built [Program-of-Layers](https://arxiv.org/pdf/2606.06574), [ThinkARM](https
 Our recent works mainly focus on: 
 - Human-AI-World Alignment: Cognitive & Epistemic Alignment, Human Modeling, Multi-Objective Alignment; Neuro-Symbolic and Physics/Geometry-Grounded World Models, Interactive Agents;
 - Self-evolving AI and Sustainable Learning: Data/Task/Env Selection, Synthesis, and Curriculum; Continual Learning; Auto-benchmarking; Auditing; Self-Reward/Labeling;
-- Generalist AI built by Experts: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration & Society;
-- Interpretability and Foundations of ML: Memorization, Generalization, Grokking, Collapse, Representation, Hallucination, Steering; 
+- Generalist-Specialist Cycle: Dynamic Models, Mixture-of-Experts, Federated/Collaborative Learning, Multi-Agent Orchestration & Society;
+- Interpretability and Foundation of ML: Memorization, Generalization, Grokking, Collapse, Representation, Hallucination, Steering; 
 <!-- - Generative AI with better controllability, efficiency, and reasoning skills; -->
 <!-- Our works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization.  How, why, and when to transfer human learning (e.g., curriculum, retention, sub-tasking, curiosity, exemplar selection, collaboration, etc.) to improve machine learning and generalization in the wild (e.g., with unlabeled, biased, noisy, redundant, or distributed data, in unseen tasks/environments); -->
 
