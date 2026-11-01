@@ -208,6 +208,8 @@ for Multi-turn Image Editing***", The 2026 Conference on Empirical Methods in Na
 
 ## Journal
 -----
+1. Fangxu Yu, Hongyu Zhao, Tianyi Zhou, "***TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning***", Transactions on Machine Learning Research (TMLR), 2026. [PDF](https://arxiv.org/pdf/2510.03519), [CODE](https://github.com/Yu-Fangxu/TS-Reasoner), [DATASET](https://huggingface.co/datasets/ParadiseYu/TS-Reasoner-trainingset), [MODEL](https://huggingface.co/ParadiseYu/TS-Reasoner-7B)
+1. Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou, "***Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction***", Transactions on Machine Learning Research (TMLR), 2026. [PDF](https://arxiv.org/pdf/2606.28186), [CODE](https://github.com/c-steve-wang/Epi2Diff)
 1. Taiwei Shi, Yiyang Wu, Linxin Song, Tianyi Zhou, Jieyu Zhao, "***Efficient Reinforcement Finetuning via
 Adaptive Curriculum Learning***", Transactions on Machine Learning Research (TMLR), 2026. [PDF](https://arxiv.org/pdf/2504.05520), [CODE](https://github.com/uscnlp-lime/verl), [DATASET](https://huggingface.co/datasets/lime-nlp/DeepScaleR_Difficulty)
 1. Ming Li, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "***Item Difficulty Modeling Using Fine-tuned Small and Large Language Models***", Educational and Psychological Measurement, 2025. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full)
