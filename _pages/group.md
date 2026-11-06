@@ -16,7 +16,6 @@ redirect_from:
 1. [Dongping Chen](https://dongping-chen.github.io/)
 1. [Kwesi Cobbina](https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en)
 1. [Maharshi Gor](https://mgor.info/) (co-advised with [Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/))
-1. Daeun Jung
 1. [Ming Li](https://mingliiii.github.io/)
 1. [Xirui Li](https://xirui-li.github.io/)
 1. [Yijun Liang](https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN)
@@ -32,9 +31,9 @@ redirect_from:
 1. [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en) (co-advised with [Tom Goldstein](https://www.cs.umd.edu/~tomg/))
 1. [Fuxiao Liu](https://fuxiaoliu.github.io/) (co-advised with [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/) and [Yaser Yacoob](https://users.umiacs.umd.edu/~yaser/))
 1. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en), Oracle
-1. [Lu Liu](https://liulu112601.github.io/), OpenAI
+1. [Lu Liu](https://liulu112601.github.io/), Meta
 1. [Shuang Ao](https://www.unsw.edu.au/staff/shuang-ao), PostDoc@UNSW
-1. [Yijun Yang](https://stevenyangyj.github.io/), Tencent AI Lab
+1. [Yijun Yang](https://stevenyangyj.github.io/)
 1. [Kaiwen Yang](https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en), Bytedance
 1. [Shuangtong Li](http://staff.ustc.edu.cn/~xinmei/stli.html)
 
@@ -42,6 +41,7 @@ redirect_from:
 ## Collaborating Ph.D. Students
 -----
 1. [Lichang Chen](https://lichang-chen.github.io/)
+1. [Chenrui Fan](https://fcr09.github.io/)
 1. [Chunxu Zhang](https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN)
 1. [Tianrui Guan](https://tianruiguan.phd/)
 1. [Jie Ma](https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en)
