@@ -1,0 +1,12 @@
+---
+layout: cv
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 6
+cv_pdf: # add assets/pdf/cv.pdf and set `cv_pdf: /assets/pdf/cv.pdf` to show a download button
+cv_format: rendercv # options: rendercv, jsonresume
+description: education, positions, teaching, service and awards.
+toc:
+  sidebar: left
+---

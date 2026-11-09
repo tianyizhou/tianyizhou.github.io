@@ -1,0 +1,161 @@
+cv:
+  name: Tianyi Zhou
+  label: Assistant Professor of Computer Science
+  email: tianyi.david.zhou@gmail.com
+  location: College Park, MD (visiting Abu Dhabi, 2026)
+  website: https://tianyizhou.github.io
+  summary: >
+    Machine learning researcher working on LLM reasoning, multimodal and agentic models, curriculum and data-centric learning,
+    mixture-of-experts and collaborative learning, and human–AI alignment. Assistant Professor at the University of Maryland
+    (CS, UMIACS, AIM); Visiting Assistant Professor at MBZUAI in 2026.
+
+  social_networks:
+    - network: GitHub
+      username: tianyizhou
+    - network: LinkedIn
+      username: tianyizhou
+    - network: X
+      username: zhoutianyi
+    - network: ORCID
+      username: 0000-0001-5348-0632
+
+  sections:
+    Education:
+      - institution: University of Washington
+        location: Seattle, WA
+        url: https://www.cs.washington.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2013
+        end_date: 2021
+        highlights:
+          - Advisor — Prof. Jeff A. Bilmes (MELODI Lab)
+          - Thesis — https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full
+
+    Positions:
+      - company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+        position: Visiting Assistant Professor
+        location: Abu Dhabi, UAE
+        start_date: 2026
+        end_date: present
+      - company: University of Maryland, College Park
+        position: Assistant Professor of Computer Science (CS, UMIACS, AIM)
+        location: College Park, MD
+        start_date: 2022
+        end_date: present
+        highlights:
+          - Leads the Tianyi Lab; member of the Center for Machine Learning (CML) and CLIP Lab at UMIACS
+      - company: Google
+        position: Visiting Research Scientist
+        location: Remote
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Hosts — Prof. Boqing Gong and Prof. Ming-Hsuan Yang
+      - company: University of Washington
+        position: Research Assistant, MELODI Lab
+        location: Seattle, WA
+        start_date: 2013
+        end_date: 2021
+      - company: Yahoo! Labs
+        position: Research Intern
+        location: Sunnyvale, CA
+        start_date: 2015-06
+        end_date: 2015-09
+        highlights:
+          - Mentors — Dr. Hua Ouyang and Prof. Yi Chang
+      - company: Microsoft Research
+        position: Research Intern
+        location: Redmond, WA
+        start_date: 2014-06
+        end_date: 2014-09
+        highlights:
+          - Mentor — Dr. Lin Xiao
+      - company: University of Technology Sydney (UTS)
+        position: Research Assistant
+        location: Sydney, Australia
+        start_date: 2011
+        end_date: 2013
+        highlights:
+          - Supervisor — Prof. Dacheng Tao
+      - company: Nanyang Technological University (NTU)
+        position: Research Assistant
+        location: Singapore
+        start_date: 2009
+        end_date: 2011
+        highlights:
+          - Supervisor — Prof. Dacheng Tao
+
+    Awards:
+      - title: Best Research Award, International e-Assessment Association (eAA)
+        date: 2026
+        awarder: eAA
+        url: https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research
+      - title: SAC Highlight, ACL 2026 — "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models"
+        date: 2026
+        awarder: ACL
+        url: https://aclanthology.org/2026.acl-long.1513/
+      - title: IEEE TCSC Most Influential Paper Award — GoDec (ICML 2011)
+        date: 2020
+        awarder: IEEE TCSC
+        url: http://www.icml-2011.org/papers/41_icmlpaper.pdf
+      - title: Best Student Paper Award, ICDM 2013 — Divide-and-Conquer Anchoring
+        date: 2013
+        awarder: IEEE ICDM
+        url: https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf
+
+    Teaching:
+      - company: University of Maryland
+        position: Instructor, CMSC 421 — Introduction to Artificial Intelligence
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Fall 2022 and Fall 2023
+      - company: University of Maryland
+        position: Instructor, CMSC 828A — Fantastic Machine Learning Paradigms and Where to Use Them
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - Spring 2023 (graduate seminar)
+      - company: University of Washington
+        position: Teaching Assistant, ECE 596A — Advanced Introduction to Machine Learning / Neural Networks
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - Winter and Spring 2019, instructor Prof. Jeff A. Bilmes
+      - company: University of Washington
+        position: Teaching Assistant, CSEP 546 — Data Mining / Machine Learning
+        start_date: 2014
+        end_date: 2014
+        highlights:
+          - Winter 2014, instructor Prof. Carlos Guestrin
+
+    Service:
+      - company: Area Chair
+        position: NeurIPS 2025–2026, ICML 2026, ICLR 2025–2026, AAAI 2026, IJCAI 2025 (SPC), ACL Rolling Review (2024–present)
+        start_date: 2024
+        end_date: present
+      - company: Reviewer
+        position: NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, IJCAI, KDD; TPAMI, TMLR, JMLR and others
+        start_date: 2012
+        end_date: present
+
+    Students:
+      - company: Ph.D. students (current)
+        position: Shweta Bhardwaj, Dongping Chen, Kwesi Cobbina, Maharshi Gor, Ming Li, Xirui Li, Yijun Liang, Ziyue Li, Dang Minh Nguyen, Fangxu Yu, Hongyu Zhao, Yanming Zhang
+        start_date: 2022
+        end_date: present
+        highlights:
+          - Ming Li — 2026 Apple Scholar in AI/ML; Dongping Chen — 2025 UMD Flagship Fellowship
+      - company: Alumni
+        position: Jiuhai Chen, Fuxiao Liu, Tao Shen (Oracle), Lu Liu (Meta), Shuang Ao (UNSW), Yijun Yang, Kaiwen Yang (ByteDance), Shuangtong Li
+        start_date: 2016
+        end_date: 2025
+
+    Publications:
+      - title: Full list
+        authors:
+          - see the publications page and Google Scholar
+        publisher: https://tianyizhou.github.io/publications/
+        releaseDate: 2026
+        url: https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en

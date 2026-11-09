@@ -1,0 +1,17 @@
+github_users:
+  - tianyizhou
+  - tianyi-lab
+
+repo_description_lines_max: 2
+
+github_repos:
+  - tianyi-lab/HallusionBench
+  - tianyi-lab/Superfiltering
+  - tianyi-lab/Reflection_Tuning
+  - tianyi-lab/MoE-Embedding
+  - tianyi-lab/PoLar
+  - tianyi-lab/C3PO
+  - tianyi-lab/R2-T2
+  - tianyi-lab/BenTo
+  - JiuhaiChen/BLIP3o
+  - elated-sawyer/WALL-E

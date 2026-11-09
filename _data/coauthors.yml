@@ -1,0 +1,150 @@
+# Co-author links: last name (lowercase, no accents) -> first-name variants + homepage.
+# Matching names in the publication list become links. Generated from _data/group.yml; edit freely.
+
+"ao":
+  - firstname: ["Shuang", "S."]
+    url: https://www.unsw.edu.au/staff/shuang-ao
+
+"bhardwaj":
+  - firstname: ["Shweta", "S."]
+    url: https://shwetabhardwaj44.github.io/
+
+"bilmes":
+  - firstname: ["Jeff A.", "Jeff", "J."]
+    url: https://people.ece.uw.edu/bilmes/p/pgs/index.html
+
+"boyd-graber":
+  - firstname: ["Jordan", "J."]
+    url: https://users.umiacs.umd.edu/~jbg/
+
+"chen":
+  - firstname: ["Dongping", "D."]
+    url: https://dongping-chen.github.io/
+  - firstname: ["Jiuhai", "J."]
+    url: https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en
+  - firstname: ["Lichang", "L."]
+    url: https://lichang-chen.github.io/
+  - firstname: ["Jiuhai", "J."]
+    url: https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en
+
+"cobbina":
+  - firstname: ["Kwesi", "K."]
+    url: https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en
+
+"fan":
+  - firstname: ["Chenrui", "C."]
+    url: https://fcr09.github.io/
+
+"goldstein":
+  - firstname: ["Tom", "T."]
+    url: https://www.cs.umd.edu/~tomg/
+
+"gor":
+  - firstname: ["Maharshi", "M."]
+    url: https://mgor.info/
+
+"guan":
+  - firstname: ["Tianrui", "T."]
+    url: https://tianruiguan.phd/
+
+"guestrin":
+  - firstname: ["Carlos", "C."]
+    url: https://guestrin.su.domains/
+
+"he":
+  - firstname: ["Qiang", "Q."]
+    url: https://sweetice.github.io/
+
+"hou":
+  - firstname: ["Chengkai", "C."]
+    url: https://jackhck.github.io/
+
+"kothandaraman":
+  - firstname: ["Divya", "D."]
+    url: https://divyakraman.github.io/
+
+"kumari":
+  - firstname: ["Lilly", "L."]
+    url: https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en
+
+"lei":
+  - firstname: ["Yibin", "Y."]
+    url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
+
+"li":
+  - firstname: ["Ming", "M."]
+    url: https://mingliiii.github.io/
+  - firstname: ["Xirui", "X."]
+    url: https://xirui-li.github.io/
+  - firstname: ["Ziyue", "Z."]
+    url: https://litzy0619.github.io/
+  - firstname: ["Shuangtong", "S."]
+    url: http://staff.ustc.edu.cn/~xinmei/stli.html
+  - firstname: ["Zhiwei", "Z."]
+    url: https://profiles.uts.edu.au/student_Zhiwei.Li
+
+"liang":
+  - firstname: ["Yijun", "Y."]
+    url: https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN
+
+"liu":
+  - firstname: ["Fuxiao", "F."]
+    url: https://fuxiaoliu.github.io/
+  - firstname: ["Lu", "L."]
+    url: https://liulu112601.github.io/
+
+"long":
+  - firstname: ["Guodong", "G."]
+    url: https://profiles.uts.edu.au/Guodong.Long
+
+"ma":
+  - firstname: ["Jie", "J."]
+    url: https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en
+
+"nguyen":
+  - firstname: ["Dang Minh", "Dang", "D."]
+    url: https://dangne.github.io/
+
+"shen":
+  - firstname: ["Tao", "T."]
+    url: https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en
+  - firstname: ["Yu", "Y."]
+    url: https://www.cs.umd.edu/~yushen/
+
+"shrivastava":
+  - firstname: ["Abhinav", "A."]
+    url: https://www.cs.umd.edu/~abhinav/
+
+"tang":
+  - firstname: ["Wensi", "W."]
+    url: https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en
+
+"tao":
+  - firstname: ["Dacheng", "D."]
+    url: https://dr.ntu.edu.sg/cris/rp/rp02343
+
+"wang":
+  - firstname: ["Ruochen", "R."]
+    url: https://ruocwang.github.io/
+
+"yang":
+  - firstname: ["Yijun", "Y."]
+    url: https://stevenyangyj.github.io/
+  - firstname: ["Kaiwen", "K."]
+    url: https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en
+  - firstname: ["Yucheng", "Y."]
+    url: https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN
+
+"yu":
+  - firstname: ["Fangxu", "F."]
+    url: https://yu-fangxu.github.io/
+
+"zhang":
+  - firstname: ["Chunxu", "C."]
+    url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
+  - firstname: ["Jieyu", "J."]
+    url: https://jieyuz2.github.io/
+
+"zhao":
+  - firstname: ["Hongyu", "H."]
+    url: https://hzhao.ttic.edu/

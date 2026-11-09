@@ -1,0 +1,31 @@
+# Venue badge colors/links keyed by the `abbr` field in papers.bib
+"NeurIPS": { url: https://neurips.cc/, color: "#5c4b99" }
+"ICML": { url: https://icml.cc/, color: "#1f6feb" }
+"ICLR": { url: https://iclr.cc/, color: "#0e7c86" }
+"COLM": { url: https://colmweb.org/, color: "#2e7d32" }
+"ACL": { url: https://www.aclweb.org/, color: "#b23a48" }
+"EMNLP": { url: https://www.aclweb.org/, color: "#b23a48" }
+"NAACL": { url: https://www.aclweb.org/, color: "#b23a48" }
+"EACL": { url: https://www.aclweb.org/, color: "#b23a48" }
+"COLING": { color: "#b23a48" }
+"CVPR": { url: https://cvpr.thecvf.com/, color: "#c2410c" }
+"ICCV": { url: https://iccv.thecvf.com/, color: "#c2410c" }
+"ECCV": { url: https://eccv.ecva.net/, color: "#c2410c" }
+"KDD": { url: https://kdd.org/, color: "#6d28d9" }
+"ICDM": { color: "#6d28d9" }
+"CIKM": { color: "#6d28d9" }
+"WWW": { color: "#6d28d9" }
+"AAAI": { url: https://aaai.org/, color: "#0f766e" }
+"IJCAI": { url: https://www.ijcai.org/, color: "#0f766e" }
+"AISTATS": { url: https://aistats.org/, color: "#1f6feb" }
+"IROS": { color: "#374151" }
+"ICRA": { color: "#374151" }
+"AAMAS": { color: "#374151" }
+"TMLR": { url: https://jmlr.org/tmlr/, color: "#4b5563" }
+"TPAMI": { color: "#4b5563" }
+"TNNLS": { color: "#4b5563" }
+"TIP": { color: "#4b5563" }
+"TKDE": { color: "#4b5563" }
+"MLJ": { color: "#4b5563" }
+"EPM": { color: "#4b5563" }
+"arXiv": { url: https://arxiv.org/, color: "#b31b1b" }

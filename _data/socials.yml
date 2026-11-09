@@ -1,0 +1,18 @@
+# Social links shown at the bottom of the About page (in this order).
+# Icons/keys follow the jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: tianyi.david.zhou@gmail.com
+scholar_userid: OKvgizMAAAAJ
+github_username: tianyizhou
+linkedin_username: tianyizhou
+x_username: zhoutianyi
+orcid_id: 0000-0001-5348-0632
+research_gate_profile: Tianyi_Zhou2
+huggingface:
+  logo: fa-solid fa-face-smile
+  title: Hugging Face (umd-zhou-lab)
+  url: https://huggingface.co/umd-zhou-lab
+tianyi_lab:
+  logo: fa-solid fa-flask
+  title: Tianyi Lab on GitHub
+  url: https://github.com/tianyi-lab
+rss_icon: false
