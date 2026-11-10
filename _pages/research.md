@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: our papers organized by topic — preprints first, then published work. The same papers listed by year are under <a href="/publications/">publications</a>.
+description: our papers organized by topic, preprints first, then published work. The same papers listed by year are on the publications page.
 nav: true
 nav_order: 2
 ---

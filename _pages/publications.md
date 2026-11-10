@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: peer-reviewed conference and journal papers, by year. Oral / Spotlight / award papers are badged; GitHub stars and citation counts are shown where available. Preprints are listed by topic on the <a href="/research/">research</a> page.
+description: peer-reviewed conference and journal papers, by year. Oral / Spotlight / award papers are badged; GitHub stars and citation counts are shown where available. Preprints are listed by topic on the research page.
 nav: true
 nav_order: 1
 ---
