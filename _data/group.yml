@@ -11,11 +11,11 @@ current:
   photo: dongping-chen.jpg
 - name: Kwesi Cobbina
   url: https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en
-  photo: placeholder.svg
+  photo: kwesi-cobbina.jpg
 - name: Maharshi Gor
   url: https://mgor.info/
   note: co-advised with Jordan Boyd-Graber
-  photo: placeholder.svg
+  photo: maharshi-gor.jpg
 - name: Ming Li
   url: https://mingliiii.github.io/
   note: Apple Scholar in AI/ML 2026
@@ -25,7 +25,7 @@ current:
   photo: xirui-li.jpg
 - name: Yijun Liang
   url: https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN
-  photo: placeholder.svg
+  photo: yijun-liang.jpg
 - name: Ziyue Li
   url: https://litzy0619.github.io/
   photo: ziyue-li.jpg
@@ -38,14 +38,15 @@ current:
   photo: fangxu-yu.jpg
 - name: Hongyu Zhao
   url: https://hzhao.ttic.edu/
-  photo: placeholder.svg
+  photo: hongyu-zhao.jpg
 - name: Yanming Zhang
-  photo: placeholder.svg
+  photo: yanming-zhang.jpg
+  url: https://www.linkedin.com/in/yanming-zhang-a119022b3
 alumni:
 - name: Jiuhai Chen
-  url: https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en
+  url: https://jiuhaichen.github.io/
   note: Ph.D., co-advised with Tom Goldstein
-  photo: placeholder.svg
+  photo: jiuhai-chen.jpg
 - name: Fuxiao Liu
   url: https://fuxiaoliu.github.io/
   note: Ph.D., co-advised with Abhinav Shrivastava and Yaser Yacoob
@@ -53,25 +54,25 @@ alumni:
 - name: Tao Shen
   url: https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en
   note: Oracle
-  photo: placeholder.svg
+  photo: tao-shen.jpg
 - name: Lu Liu
-  url: https://liulu112601.github.io/
+  url: https://luliu.us/
   note: Meta; leading contributor to OpenAI 4o image generation
-  photo: placeholder.svg
+  photo: lu-liu.jpg
 - name: Shuang Ao
   url: https://www.unsw.edu.au/staff/shuang-ao
   note: Postdoc, UNSW
-  photo: placeholder.svg
+  photo: shuang-ao.jpg
 - name: Yijun Yang
   url: https://stevenyangyj.github.io/
   photo: yijun-yang.jpg
 - name: Kaiwen Yang
   url: https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en
   note: ByteDance
-  photo: placeholder.svg
+  photo: kaiwen-yang.jpg
 - name: Shuangtong Li
   url: http://staff.ustc.edu.cn/~xinmei/stli.html
-  photo: placeholder.svg
+  photo: shuangtong-li.jpg
 collaborators:
 - name: Lichang Chen
   url: https://lichang-chen.github.io/
