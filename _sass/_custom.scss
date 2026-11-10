@@ -4,7 +4,7 @@
 
 /* Soft, readable background: a faint accent wash behind the top of every page */
 body {
-  background-image: radial-gradient(1200px 420px at 15% -10%, rgba(179, 0, 27, 0.07), transparent 60%),
+  background-image: radial-gradient(1200px 420px at 15% -10%, rgba(124, 58, 237, 0.07), transparent 60%),
     radial-gradient(900px 380px at 100% 0%, rgba(120, 120, 160, 0.08), transparent 60%);
   background-repeat: no-repeat;
 }
@@ -518,5 +518,36 @@ h3.research-subsection {
   }
   > a {
     color: var(--global-theme-color);
+  }
+}
+
+/* ---- Research page: counts inside the category pills ------------------------- */
+.topic-nav {
+  align-items: center;
+  .topic-nav-total {
+    font-size: 0.86rem;
+    color: var(--global-text-color-light);
+    margin-right: 0.5rem;
+    strong {
+      font-size: 1.1rem;
+      color: var(--global-theme-color);
+    }
+    small {
+      display: block;
+      font-size: 0.68rem;
+      line-height: 1.1;
+    }
+  }
+  .nav-count {
+    display: inline-block;
+    min-width: 1.6em;
+    margin-left: 0.35rem;
+    padding: 0 0.4em;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    background: var(--global-theme-color);
   }
 }

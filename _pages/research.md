@@ -7,14 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-{% include research_stats.liquid %}
-
 <nav class="topic-nav" aria-label="Research topics">
-  <a class="topic-nav-section" href="#large-language-models">Large Language Models</a>
-  <a class="topic-nav-section" href="#multimodal-models">Multimodal Models</a>
-  <a class="topic-nav-section" href="#agents-world-models">Agents & World Models</a>
-  <a class="topic-nav-section" href="#learning-paradigms">Learning Paradigms</a>
-  <a class="topic-nav-section" href="#foundations-earlier-work">Foundations & Earlier Work</a>
+  <span class="topic-nav-total"><strong>{{ site.data.pubstats.published | plus: site.data.pubstats.preprints }}</strong> papers <small>{{ site.data.pubstats.published }} published · {{ site.data.pubstats.preprints }} preprints</small></span>
+  <a class="topic-nav-section" href="#large-language-models">Large Language Models <span class="nav-count">{{ site.data.pubstats.sections.llm }}</span></a>
+  <a class="topic-nav-section" href="#multimodal-models">Multimodal Models <span class="nav-count">{{ site.data.pubstats.sections.mllm }}</span></a>
+  <a class="topic-nav-section" href="#agents-world-models">Agents & World Models <span class="nav-count">{{ site.data.pubstats.sections.agents }}</span></a>
+  <a class="topic-nav-section" href="#learning-paradigms">Learning Paradigms <span class="nav-count">{{ site.data.pubstats.sections.paradigms }}</span></a>
+  <a class="topic-nav-section" href="#foundations-earlier-work">Foundations & Earlier Work <span class="nav-count">{{ site.data.pubstats.sections.foundations }}</span></a>
 </nav>
 
 <h2 id="large-language-models" class="research-section">Large Language Models</h2>

@@ -11,9 +11,9 @@
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
   // Accent colour (light mode). Alternatives that work with the dark red/grey wash:
-  //   deep red #b3001b (current) · UMD red #e21833 · teal #0f766e · indigo #3b4cca · navy #1f4e9c · forest #1b7f4b · burnt orange #c2410c
-  --global-theme-color: #b3001b;
-  --global-hover-color: #8f0016;
+  //   plum #7c3aed (current) · deep red #b3001b · UMD red #e21833 · teal #0f766e · indigo #3b4cca · navy #1f4e9c · forest #1b7f4b · burnt orange #c2410c
+  --global-theme-color: #7c3aed; /* plum */
+  --global-hover-color: #5b21b6;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
