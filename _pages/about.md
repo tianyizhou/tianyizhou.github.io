@@ -19,7 +19,8 @@ facts:
     label: papers at top venues
     url: /publications/
   - value: "Top 2%"
-    label: scientists worldwide, Stanford (2024–26)
+    label: scientists worldwide by Stanford
+    url: https://topresearcherslist.com/
   - value: "14"
     label: Ph.D. advised (2 graduated)
     url: /group/
@@ -30,7 +31,7 @@ profile:
   image_circular: false
   more_info: >
     <p><a href="https://github.com/tianyi-lab"><i class="fa-brands fa-github"></i> Tianyi Lab @ GitHub</a></p>
-    <p><a href="https://huggingface.co/umd-zhou-lab">🤗 umd-zhou-lab @ Hugging Face</a></p>
+    <p><a href="https://huggingface.co/umd-zhou-lab">🤗 umd-zhou-lab @ HF</a></p>
 
 selected_papers: true
 social: true
@@ -43,7 +44,7 @@ announcements:
 
 I lead the **Tianyi Lab**, where we study how machines can learn the way strong learners do in an open world: choosing *what* to learn and *when* <span class="kw-box">curricula · data selection · epistemic exploration · self-evolving</span>, looping specialists into generalists and evolving specialists from reusable generalists <span class="kw-box">routing · mixture-of-experts · agentic learning · collaborative &amp; federated learning</span>, and staying aligned with the world and with humans <span class="kw-box">neuro-symbolic world modeling · interactive personal agents · cognitive alignment</span>. Our current work spans **LLM reasoning, unified multimodal models, agents, and human–AI–world alignment**, with applications in education, science, design, and digital/embodied agents.
 
-Recent recognition includes the **ACL 2026 SAC Highlight Award**, the **2026 Best Research Award** from the International e-Assessment Association, a **Best Paper Honorable Mention** at the NeurIPS 2026 Workshop on AI-Native Academia and the **ICDM 2013 Best Student Paper Award**; I have been listed among Stanford's World's Top 2% Scientists since 2024. I serve as an Area Chair for NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI and IJCAI.
+Recent recognition includes the **ACL 2026 SAC Highlight Award**, the **2026 eAA Best Research Award**, a **Best Paper Honorable Mention** at the NeurIPS 2026 Workshop on AI-Native Academia and the **ICDM 2013 Best Student Paper Award**; I have been listed among Stanford's World's Top 2% Scientists since 2024. I serve as an Area Chair for NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI and IJCAI.
 
 I have advised 14 Ph.D. students at UMD, including a **2026 Apple Scholar in AI/ML** ([Ming Li](https://mingliiii.github.io/)) and a **2025 UMD Flagship Fellow** ([Dongping Chen](https://dongping-chen.github.io/)). The [group](/group/) page has the full list and a note for prospective students.
 

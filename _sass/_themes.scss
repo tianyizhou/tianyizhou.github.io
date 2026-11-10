@@ -10,8 +10,10 @@
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$purple-color};
-  --global-hover-color: #{v.$purple-color};
+  // Accent colour (light mode). Alternatives that work with the dark red/grey wash:
+  //   deep red #b3001b (current) · UMD red #e21833 · teal #0f766e · indigo #3b4cca · navy #1f4e9c · forest #1b7f4b · burnt orange #c2410c
+  --global-theme-color: #b3001b;
+  --global-hover-color: #8f0016;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -80,8 +82,9 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{v.$code-bg-color-dark};
   --global-text-color: #{v.$grey-color-light};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{#ff7b72};
-  --global-hover-color: #{#ff7b72};
+  // Accent colour (dark mode): a lighter, warmer tint of the light-mode accent
+  --global-theme-color: #ff7b72;
+  --global-hover-color: #ffa39b;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
