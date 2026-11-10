@@ -101,7 +101,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1000px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -381,6 +381,8 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    citations,
+    keywords,
     abstract,
     additional_info,
     altmetric,

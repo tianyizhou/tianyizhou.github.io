@@ -1,88 +1,107 @@
-# Group members. Edit this file to add/remove people; the Group page renders it.
-# Fields: name (required), url (optional), note (optional: co-advisor, award, placement, year).
+# Group members, rendered by _pages/group.md.
+# Fields: name (required), url, note, photo (file in assets/img/people/, or placeholder.svg).
+# To add a photo: drop a square JPG (400x400 works well) into assets/img/people/ and set `photo:`.
 current:
-  - name: Shweta Bhardwaj
-    url: https://shwetabhardwaj44.github.io/
-  - name: Dongping Chen
-    url: https://dongping-chen.github.io/
-    note: UMD Flagship Fellowship 2025
-  - name: Kwesi Cobbina
-    url: https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en
-  - name: Maharshi Gor
-    url: https://mgor.info/
-    note: co-advised with Jordan Boyd-Graber
-  - name: Ming Li
-    url: https://mingliiii.github.io/
-    note: Apple Scholar in AI/ML 2026
-  - name: Xirui Li
-    url: https://xirui-li.github.io/
-  - name: Yijun Liang
-    url: https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN
-  - name: Ziyue Li
-    url: https://litzy0619.github.io/
-  - name: Dang Minh Nguyen
-    url: https://dangne.github.io/
-  - name: Fangxu Yu
-    url: https://yu-fangxu.github.io/
-    note: co-advised with Yaodong Yu
-  - name: Hongyu Zhao
-    url: https://hzhao.ttic.edu/
-  - name: Yanming Zhang
-
+- name: Shweta Bhardwaj
+  url: https://shwetabhardwaj44.github.io/
+  photo: shweta-bhardwaj.jpg
+- name: Dongping Chen
+  url: https://dongping-chen.github.io/
+  note: UMD Flagship Fellowship 2025
+  photo: dongping-chen.jpg
+- name: Kwesi Cobbina
+  url: https://scholar.google.com/citations?user=Xt49YYgAAAAJ&hl=en
+  photo: placeholder.svg
+- name: Maharshi Gor
+  url: https://mgor.info/
+  note: co-advised with Jordan Boyd-Graber
+  photo: placeholder.svg
+- name: Ming Li
+  url: https://mingliiii.github.io/
+  note: Apple Scholar in AI/ML 2026
+  photo: ming-li.jpg
+- name: Xirui Li
+  url: https://xirui-li.github.io/
+  photo: xirui-li.jpg
+- name: Yijun Liang
+  url: https://scholar.google.com/citations?user=YSy5z0MAAAAJ&hl=zh-CN
+  photo: placeholder.svg
+- name: Ziyue Li
+  url: https://litzy0619.github.io/
+  photo: ziyue-li.jpg
+- name: Dang Minh Nguyen
+  url: https://dangne.github.io/
+  photo: dang-nguyen.jpg
+- name: Fangxu Yu
+  url: https://yu-fangxu.github.io/
+  note: co-advised with Yaodong Yu
+  photo: fangxu-yu.jpg
+- name: Hongyu Zhao
+  url: https://hzhao.ttic.edu/
+  photo: placeholder.svg
+- name: Yanming Zhang
+  photo: placeholder.svg
 alumni:
-  - name: Jiuhai Chen
-    url: https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en
-    note: Ph.D., co-advised with Tom Goldstein
-  - name: Fuxiao Liu
-    url: https://fuxiaoliu.github.io/
-    note: Ph.D., co-advised with Abhinav Shrivastava and Yaser Yacoob
-  - name: Tao Shen
-    url: https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en
-    note: Oracle
-  - name: Lu Liu
-    url: https://liulu112601.github.io/
-    note: Meta
-  - name: Shuang Ao
-    url: https://www.unsw.edu.au/staff/shuang-ao
-    note: Postdoc, UNSW
-  - name: Yijun Yang
-    url: https://stevenyangyj.github.io/
-  - name: Kaiwen Yang
-    url: https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en
-    note: ByteDance
-  - name: Shuangtong Li
-    url: http://staff.ustc.edu.cn/~xinmei/stli.html
-
+- name: Jiuhai Chen
+  url: https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en
+  note: Ph.D., co-advised with Tom Goldstein
+  photo: placeholder.svg
+- name: Fuxiao Liu
+  url: https://fuxiaoliu.github.io/
+  note: Ph.D., co-advised with Abhinav Shrivastava and Yaser Yacoob
+  photo: fuxiao-liu.jpg
+- name: Tao Shen
+  url: https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en
+  note: Oracle
+  photo: placeholder.svg
+- name: Lu Liu
+  url: https://liulu112601.github.io/
+  note: Meta; leading contributor to OpenAI 4o image generation
+  photo: placeholder.svg
+- name: Shuang Ao
+  url: https://www.unsw.edu.au/staff/shuang-ao
+  note: Postdoc, UNSW
+  photo: placeholder.svg
+- name: Yijun Yang
+  url: https://stevenyangyj.github.io/
+  photo: yijun-yang.jpg
+- name: Kaiwen Yang
+  url: https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en
+  note: ByteDance
+  photo: placeholder.svg
+- name: Shuangtong Li
+  url: http://staff.ustc.edu.cn/~xinmei/stli.html
+  photo: placeholder.svg
 collaborators:
-  - name: Lichang Chen
-    url: https://lichang-chen.github.io/
-  - name: Chenrui Fan
-    url: https://fcr09.github.io/
-  - name: Chunxu Zhang
-    url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
-  - name: Tianrui Guan
-    url: https://tianruiguan.phd/
-  - name: Jie Ma
-    url: https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en
-  - name: Qiang He
-    url: https://sweetice.github.io/
-  - name: Chengkai Hou
-    url: https://jackhck.github.io/
-  - name: Divya Kothandaraman
-    url: https://divyakraman.github.io/
-  - name: Lilly Kumari
-    url: https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en
-  - name: Zhiwei Li
-    url: https://profiles.uts.edu.au/student_Zhiwei.Li
-  - name: Yibin Lei
-    url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
-  - name: Yu Shen
-    url: https://www.cs.umd.edu/~yushen/
-  - name: Wensi Tang
-    url: https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en
-  - name: Ruochen Wang
-    url: https://ruocwang.github.io/
-  - name: Yucheng Yang
-    url: https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN
-  - name: Jieyu Zhang
-    url: https://jieyuz2.github.io/
+- name: Lichang Chen
+  url: https://lichang-chen.github.io/
+- name: Chenrui Fan
+  url: https://fcr09.github.io/
+- name: Chunxu Zhang
+  url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
+- name: Tianrui Guan
+  url: https://tianruiguan.phd/
+- name: Jie Ma
+  url: https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en
+- name: Qiang He
+  url: https://sweetice.github.io/
+- name: Chengkai Hou
+  url: https://jackhck.github.io/
+- name: Divya Kothandaraman
+  url: https://divyakraman.github.io/
+- name: Lilly Kumari
+  url: https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en
+- name: Zhiwei Li
+  url: https://profiles.uts.edu.au/student_Zhiwei.Li
+- name: Yibin Lei
+  url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
+- name: Yu Shen
+  url: https://www.cs.umd.edu/~yushen/
+- name: Wensi Tang
+  url: https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en
+- name: Ruochen Wang
+  url: https://ruocwang.github.io/
+- name: Yucheng Yang
+  url: https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN
+- name: Jieyu Zhang
+  url: https://jieyuz2.github.io/

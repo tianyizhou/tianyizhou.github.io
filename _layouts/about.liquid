@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<div class="post about-page">
+  <header class="post-header hero">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc affiliation">{{ page.subtitle }}</p>
+    {% if page.facts %}
+      <ul class="fact-strip">
+        {% for f in page.facts %}
+          <li>
+            {% if f.url %}<a href="{{ f.url }}">{% endif %}
+            <span class="fact-value">{{ f.value }}</span>
+            <span class="fact-label">{{ f.label }}</span>
+            {% if f.url %}</a>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </header>
+
+  <article>
+    {% if page.profile %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {%
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            cache_bust=true
+          %}
+        {% endif %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
+
+    <!-- News (last 12 months) -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2 class="section-title">
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <small class="section-sub">last 12 months · <a href="{{ '/news/' | relative_url }}">full archive</a></small>
+      </h2>
+      {% include news_recent.liquid months=12 %}
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2 class="section-title">
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">highly cited</a>
+        <small class="section-sub">1,000+ citations each</small>
+      </h2>
+      <div class="publications selected">
+        {% bibliography --group_by none --query @*[keywords ~= pick:highly-cited;] %}
+      </div>
+      <h2 class="section-title">
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected recent work</a>
+        <small class="section-sub">2024 – 2026 · <a href="{{ '/publications/' | relative_url }}">all publications</a></small>
+      </h2>
+      <div class="publications selected">
+        {% bibliography --group_by none --query @*[keywords ~= pick:recent;] %}
+      </div>
+    {% endif %}
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+  </article>
+</div>

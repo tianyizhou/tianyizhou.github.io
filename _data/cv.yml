@@ -1,13 +1,13 @@
 cv:
   name: Tianyi Zhou
-  label: Assistant Professor of Computer Science
+  label: Visiting Assistant Professor, MBZUAI
   email: tianyi.david.zhou@gmail.com
-  location: College Park, MD (visiting Abu Dhabi, 2026)
+  location: Office C-2.33, Building 1B, MBZUAI, Masdar City, Abu Dhabi, UAE
   website: https://tianyizhou.github.io
   summary: >
-    Machine learning researcher working on LLM reasoning, multimodal and agentic models, curriculum and data-centric learning,
-    mixture-of-experts and collaborative learning, and human–AI alignment. Assistant Professor at the University of Maryland
-    (CS, UMIACS, AIM); Visiting Assistant Professor at MBZUAI in 2026.
+    Machine learning and natural language processing — LLMs and multimodal models, mixture-of-experts,
+    interactive agents, and human–AI–world alignment. 20k+ citations, h-index 65; listed among Stanford's
+    World's Top 2% Scientists in 2024, 2025 and 2026.
 
   social_networks:
     - network: GitHub
@@ -21,141 +21,95 @@ cv:
 
   sections:
     Education:
-      - institution: University of Washington
+      - institution: University of Washington, Seattle
         location: Seattle, WA
         url: https://www.cs.washington.edu/
         area: Computer Science
         studyType: Ph.D.
-        start_date: 2013
-        end_date: 2021
+        start_date: 2013-09
+        end_date: 2022-08
         highlights:
-          - Advisor — Prof. Jeff A. Bilmes (MELODI Lab)
-          - Thesis — https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full
+          - 'Thesis: <a href="https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full"><em>Curriculum Learning: from Human Strategies to Learning Dynamics</em></a>'
+          - "Advisor: Prof. Jeff Bilmes"
 
-    Positions:
+    Experience:
       - company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
         position: Visiting Assistant Professor
         location: Abu Dhabi, UAE
-        start_date: 2026
+        start_date: 2026-01
         end_date: present
       - company: University of Maryland, College Park
-        position: Assistant Professor of Computer Science (CS, UMIACS, AIM)
+        position: Assistant Professor, Department of Computer Science
         location: College Park, MD
-        start_date: 2022
-        end_date: present
-        highlights:
-          - Leads the Tianyi Lab; member of the Center for Machine Learning (CML) and CLIP Lab at UMIACS
-      - company: Google
+        start_date: 2022-09
+        end_date: 2025-12
+      - company: Google LLC
         position: Visiting Research Scientist
-        location: Remote
-        start_date: 2021
-        end_date: 2022
-        highlights:
-          - Hosts — Prof. Boqing Gong and Prof. Ming-Hsuan Yang
-      - company: University of Washington
-        position: Research Assistant, MELODI Lab
         location: Seattle, WA
-        start_date: 2013
-        end_date: 2021
-      - company: Yahoo! Labs
-        position: Research Intern
-        location: Sunnyvale, CA
-        start_date: 2015-06
-        end_date: 2015-09
-        highlights:
-          - Mentors — Dr. Hua Ouyang and Prof. Yi Chang
-      - company: Microsoft Research
-        position: Research Intern
-        location: Redmond, WA
-        start_date: 2014-06
-        end_date: 2014-09
-        highlights:
-          - Mentor — Dr. Lin Xiao
-      - company: University of Technology Sydney (UTS)
-        position: Research Assistant
-        location: Sydney, Australia
-        start_date: 2011
-        end_date: 2013
-        highlights:
-          - Supervisor — Prof. Dacheng Tao
-      - company: Nanyang Technological University (NTU)
-        position: Research Assistant
-        location: Singapore
-        start_date: 2009
-        end_date: 2011
-        highlights:
-          - Supervisor — Prof. Dacheng Tao
+        start_date: 2021-11
+        end_date: 2022-08
 
-    Awards:
+    Research Fields:
+      - label: Areas
+        details: Machine Learning, Natural Language Processing
+      - label: Focus
+        details: LLMs & multimodal models, mixture-of-experts, interactive agents, human–AI–world alignment
+
+    Publication Summary:
+      - label: Citations
+        details: "20,116 total; by year 861 (2022) → 1,480 (2023) → 3,027 (2024) → 5,418 (2025) → 6,718 (2026)"
+      - label: Impact
+        details: "Most-cited paper 1,490 citations; h-index 65; i10-index 182"
+      - label: Recognition
+        details: "World's Top 2% Scientists (Stanford) in 2024, 2025, 2026 (self-citation ratio 5.18%, 5.57%, 4.35%)"
+      - label: Conference papers
+        details: "166 — 20 NeurIPS, 22 ICML, 24 ICLR, 18 ACL, 12 EMNLP, 7 NAACL, 8 COLM, 5 AAAI, 5 IJCAI, 4 KDD, 3 ICCV, 4 CVPR, 4 ECCV"
+      - label: Journal papers
+        details: "17 — IEEE TPAMI / TIP / TNNLS / TKDE, Machine Learning Journal, TMLR, WWW, DMKD"
+
+    Honors and Awards:
+      - title: Best Paper Honorable Mention, NeurIPS 2026 Workshop on AI-Native Academia
+        date: 2026
+        awarder: NeurIPS Workshop on AI-Native Academia
+      - title: SAC Highlight Award, ACL 2026
+        date: 2026
+        awarder: ACL
+        url: https://aclanthology.org/2026.acl-long.1513/
       - title: Best Research Award, International e-Assessment Association (eAA)
         date: 2026
         awarder: eAA
         url: https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research
-      - title: SAC Highlight, ACL 2026 — "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models"
-        date: 2026
-        awarder: ACL
-        url: https://aclanthology.org/2026.acl-long.1513/
-      - title: IEEE TCSC Most Influential Paper Award — GoDec (ICML 2011)
+      - title: Top 10% of high-scoring reviewers, NeurIPS 2020
         date: 2020
-        awarder: IEEE TCSC
-        url: http://www.icml-2011.org/papers/41_icmlpaper.pdf
-      - title: Best Student Paper Award, ICDM 2013 — Divide-and-Conquer Anchoring
+        awarder: NeurIPS
+      - title: Best Student Paper Award, IEEE International Conference on Data Mining (ICDM)
         date: 2013
         awarder: IEEE ICDM
-        url: https://tianyizhou.files.wordpress.com/2010/08/dca-paper.pdf
+
+    Advising:
+      - label: Ph.D. students (UMD)
+        details: "14 — 2 graduated, 8 in their fourth year, 4 in their second year; including an Apple Scholar 2026 (Ming Li) and a UMD Flagship Fellow 2025 (Dongping Chen)"
+      - label: Master's students (UMD)
+        details: "4, of whom 3 graduated"
+      - label: Undergraduates (UMD)
+        details: "4"
+      - label: Mentoring
+        details: "20+ Ph.D. and master's students at other universities in the US and Australia since 2016, including a leading contributor to OpenAI 4o image generation (Lu Liu)"
 
     Teaching:
-      - company: University of Maryland
-        position: Instructor, CMSC 421 — Introduction to Artificial Intelligence
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - Fall 2022 and Fall 2023
-      - company: University of Maryland
-        position: Instructor, CMSC 828A — Fantastic Machine Learning Paradigms and Where to Use Them
-        start_date: 2023
-        end_date: 2023
-        highlights:
-          - Spring 2023 (graduate seminar)
-      - company: University of Washington
-        position: Teaching Assistant, ECE 596A — Advanced Introduction to Machine Learning / Neural Networks
-        start_date: 2019
-        end_date: 2019
-        highlights:
-          - Winter and Spring 2019, instructor Prof. Jeff A. Bilmes
-      - company: University of Washington
-        position: Teaching Assistant, CSEP 546 — Data Mining / Machine Learning
-        start_date: 2014
-        end_date: 2014
-        highlights:
-          - Winter 2014, instructor Prof. Carlos Guestrin
+      - label: "CMSC 421 (Undergraduate), Fall 2022 & Fall 2023"
+        details: "Introduction to Artificial Intelligence, University of Maryland — updated the curriculum with deep neural networks, large language models and optional research projects"
+      - label: "CMSC 828A (Graduate), Spring 2023 & Spring 2024"
+        details: "Fantastic Machine Learning Paradigms and Where to Use Them, University of Maryland — developed the whole course, project topics and reading list from scratch"
 
-    Service:
-      - company: Area Chair
-        position: NeurIPS 2025–2026, ICML 2026, ICLR 2025–2026, AAAI 2026, IJCAI 2025 (SPC), ACL Rolling Review (2024–present)
-        start_date: 2024
-        end_date: present
-      - company: Reviewer
-        position: NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, IJCAI, KDD; TPAMI, TMLR, JMLR and others
-        start_date: 2012
-        end_date: present
+    Institutional Service:
+      - label: UMD CS
+        details: Field Committee in Artificial Intelligence (2023–2024); Graduate Admissions Committee (2023, 2025)
+      - label: Community
+        details: Award Committee, 2024 Rising Stars in Machine Learning
 
-    Students:
-      - company: Ph.D. students (current)
-        position: Shweta Bhardwaj, Dongping Chen, Kwesi Cobbina, Maharshi Gor, Ming Li, Xirui Li, Yijun Liang, Ziyue Li, Dang Minh Nguyen, Fangxu Yu, Hongyu Zhao, Yanming Zhang
-        start_date: 2022
-        end_date: present
-        highlights:
-          - Ming Li — 2026 Apple Scholar in AI/ML; Dongping Chen — 2025 UMD Flagship Fellowship
-      - company: Alumni
-        position: Jiuhai Chen, Fuxiao Liu, Tao Shen (Oracle), Lu Liu (Meta), Shuang Ao (UNSW), Yijun Yang, Kaiwen Yang (ByteDance), Shuangtong Li
-        start_date: 2016
-        end_date: 2025
-
-    Publications:
-      - title: Full list
-        authors:
-          - see the publications page and Google Scholar
-        publisher: https://tianyizhou.github.io/publications/
-        releaseDate: 2026
-        url: https://scholar.google.com/citations?user=OKvgizMAAAAJ&hl=en
+    Professional Service:
+      - label: Area Chair
+        details: NeurIPS 2025, 2026 · ICML 2026 · ICLR 2025, 2026 · ACL 2025, 2026 · EMNLP 2025, 2026 · AAAI 2021, 2026 (SPC) · IJCAI 2023, 2025 · SIGKDD 2022 (SPC) · WACV 2022–2024 (SPC) · ICPR 2024
+      - label: Organization
+        details: Student Travel Award Chair, The Web Conference (WWW) 2025

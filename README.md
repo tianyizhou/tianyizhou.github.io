@@ -8,8 +8,12 @@ Personal academic website of [Tianyi Zhou](https://tianyizhou.github.io), built 
 | What | File(s) |
 | --- | --- |
 | Bio / homepage | `_pages/about.md` |
-| **Publications (single source of truth)** | `_bibliography/papers.bib` — one BibTeX entry per paper. Extra fields: `abbr` (venue badge), `pdf`, `code`, `website`, `supp`, `slides`, `poster`, `video`, `arxiv`, `award` + `award_name`, `selected = {true}` (shows on homepage), `preview` (thumbnail in `assets/img/publication_preview/`), `keywords = {topic:<slug>;}` (drives the Research page) |
-| Research-by-topic page | `_pages/research.md` — each section is a `{% bibliography --query @*[keywords ~= topic:<slug>;] %}` |
+| **Publications (single source of truth)** | `_bibliography/papers.bib` — one BibTeX entry per paper. Extra fields: `abbr` (venue badge), `pdf`, `code`, `website`, `supp`, `slides`, `poster`, `video`, `arxiv`, `award` + `award_name`, `selected = {true}` (shows on homepage), `preview` (thumbnail in `assets/img/publication_preview/`), `citations` (Google Scholar count; a citation pill shows at 50+), `keywords` — `status:published;` or `status:preprint;` plus `topic:<slug>;` tokens (drive the Research page) and `pick:highly-cited;` / `pick:recent;` (homepage sections) |
+| Research-by-topic page | `_pages/research.md` — each subtopic lists `preprint:<slug>;` entries first, then `published:<slug>;` (the merge script writes both tokens from `topic:`) |
+| Publication entry template | `_layouts/bib.liquid` — Oral/Spotlight pills, GitHub button with live star badge (shields.io), citation pill |
+| Citation refresh | `scripts/update_citations.py`, run weekly by `.github/workflows/update-citations.yml` (Semantic Scholar; counts only ever go up) |
+| Paper thumbnails | `assets/img/publication_preview/` + `preview = {file.png}` (640×480 PNG with transparent padding) |
+| People photos | `assets/img/people/` (400×400 JPG) referenced from `_data/group.yml` |
 | News | one file per item in `_news/` (`YYYY-MM-DD-*.md`); homepage shows the latest 8 |
 | Group | `_data/group.yml` (rendered by `_pages/group.md`) |
 | Co-author links in paper lists | `_data/coauthors.yml` |
