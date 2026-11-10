@@ -525,17 +525,13 @@ h3.research-subsection {
 .topic-nav {
   align-items: center;
   .topic-nav-total {
-    font-size: 0.86rem;
+    flex-basis: 100%; /* own line; the category pills follow on the row below */
+    font-size: 0.9rem;
     color: var(--global-text-color-light);
-    margin-right: 0.5rem;
+    margin-bottom: 0.15rem;
     strong {
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       color: var(--global-theme-color);
-    }
-    small {
-      display: block;
-      font-size: 0.68rem;
-      line-height: 1.1;
     }
   }
   .nav-count {

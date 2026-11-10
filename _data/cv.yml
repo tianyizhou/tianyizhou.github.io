@@ -59,7 +59,7 @@ cv:
       - label: Citations
         details: "20,116 total; h-index 65; i10-index 182"
       - label: Recognition
-        details: "World's Top 2% Scientists (Stanford) in 2024, 2025 and 2026 — self-citation ratio 5.18%, 5.57%, 4.35%"
+        details: "World's Top 2% Scientists by Stanford since 2024"
       - label: Venues
         details: "20 NeurIPS, 22 ICML, 24 ICLR, 18 ACL, 12 EMNLP, 7 NAACL, 8 COLM, 5 AAAI, 5 IJCAI, 4 KDD, 3 ICCV, 4 CVPR, 4 ECCV; 17 journal papers in IEEE TPAMI / TIP / TNNLS / TKDE, Machine Learning Journal, TMLR, WWW, DMKD"
       - label: Full list

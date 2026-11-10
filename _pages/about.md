@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-tagline: "Towards AI that automatically pushes its learning frontier, turns experience into reusable expertise, cycles between generalist and specialist, explores the unknown, and stays aligned with people and the world."
+tagline: "Towards AI that automatically pushes its learning frontier, turns experience into reusable expertise, cycles between generalist and specialist, explores the unknown, and stays aligned with humans and the world."
 subtitle: >
   Visiting Assistant Professor @ <a href="https://mbzuai.ac.ae/">MBZUAI</a> ·
   Prev. Assistant Professor @ <a href="https://www.cs.umd.edu/">UMD CS</a> &amp; Research Scientist @ <a href="https://research.google/">Google</a> ·

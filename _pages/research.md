@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <nav class="topic-nav" aria-label="Research topics">
-  <span class="topic-nav-total"><strong>{{ site.data.pubstats.published | plus: site.data.pubstats.preprints }}</strong> papers <small>{{ site.data.pubstats.published }} published · {{ site.data.pubstats.preprints }} preprints</small></span>
+  <div class="topic-nav-total"><strong>{{ site.data.pubstats.published | plus: site.data.pubstats.preprints }}</strong> papers &nbsp;·&nbsp; {{ site.data.pubstats.published }} published &nbsp;·&nbsp; {{ site.data.pubstats.preprints }} preprints</div>
   <a class="topic-nav-section" href="#large-language-models">Large Language Models <span class="nav-count">{{ site.data.pubstats.sections.llm }}</span></a>
   <a class="topic-nav-section" href="#multimodal-models">Multimodal Models <span class="nav-count">{{ site.data.pubstats.sections.mllm }}</span></a>
   <a class="topic-nav-section" href="#agents-world-models">Agents & World Models <span class="nav-count">{{ site.data.pubstats.sections.agents }}</span></a>
