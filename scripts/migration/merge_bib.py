@@ -79,6 +79,7 @@ EXTRA = {  # title fragment -> extra fields
     "Item Difficulty Modeling Using Fine-tuned": {"award_name": "eAA Best Research", "award": "2026 Best Research Award, International e-Assessment Association"},
     "Divide-and-Conquer Anchoring": {"award_name": "Best Student Paper", "award": "ICDM 2013 Best Student Paper Award"},
     "BLIP3-o: A Family": {"code": "https://github.com/JiuhaiChen/BLIP3o"},
+    "Many-Class Few-Shot Learning on Multi-Granularity": {"code": "https://github.com/liulu112601/MahiNet"},
 }
 
 def parse_note(note):
@@ -142,6 +143,10 @@ def build(src_path, status):
                 cand = f"repo-{m.group(1)}_{m.group(2).replace('.git','')}.png".lower()
                 if os.path.exists(os.path.join(os.path.dirname(OUT), "..", "assets", "img", "publication_preview", cand)):
                     f["preview"] = cand
+        if "preview" not in f and a:
+            cand = f"arxiv-{a}.png"
+            if os.path.exists(os.path.join(os.path.dirname(OUT), "..", "assets", "img", "publication_preview", cand)):
+                f["preview"] = cand
         for i, (frag, prev) in enumerate(SELECTED.items()):
             if frag.lower() in title.lower():
                 f["selected"] = "true"; f["preview"] = prev

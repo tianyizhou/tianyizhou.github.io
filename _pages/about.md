@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+tagline: "Teaching machines what to learn, when, and with whom — so AI keeps improving in an open world."
 subtitle: >
   Visiting Assistant Professor @ <a href="https://mbzuai.ac.ae/">MBZUAI</a> ·
   Prev. Assistant Professor @ <a href="https://www.cs.umd.edu/">UMD CS</a> &amp; Research Scientist @ <a href="https://research.google/">Google</a> ·
