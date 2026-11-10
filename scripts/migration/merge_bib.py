@@ -73,7 +73,7 @@ TOPIC_FIX = {  # title fragment -> topic slug(s), for papers missing from the ol
 EXTRA = {  # title fragment -> extra fields
     "HallusionBench": {"code": "https://github.com/tianyi-lab/HallusionBench", "citations": "1363"},
     "DiSAN": {"citations": "1011"},
-    "GoDec": {"citations": "954", "award_name": "Most Influential Paper", "award": "IEEE TCSC Most Influential Paper Award (2020)"},
+    "GoDec": {"citations": "954"},
     "Schoenfeld's Anatomy": {"award_name": "Oral · SAC Highlight", "award": "Oral; ACL 2026 SAC Highlight Award", "code": "https://github.com/MingLiiii/ThinkARM"},
     "WestWorld": {"website": "https://westworldrobot.github.io/"},
     "Item Difficulty Modeling Using Fine-tuned": {"award_name": "eAA Best Research", "award": "2026 Best Research Award, International e-Assessment Association"},
@@ -93,7 +93,6 @@ def parse_note(note):
     if n.strip().lower() == "long presentation": return "Oral", "Long presentation (oral)", None
     if "contributed equally" in n: return None, None, n.strip()
     if "Best Student Paper" in n: return "Best Student Paper", "ICDM 2013 Best Student Paper Award", None
-    if "Most Influential" in n: return "Most Influential Paper", "IEEE TCSC Most Influential Paper Award (2020)", None
     return None, None, None  # "980 citations" etc. are dropped (we keep the citations field)
 
 def build(src_path, status):
@@ -131,7 +130,7 @@ def build(src_path, status):
             for k in ("code", "website", "supp", "slides", "poster", "video"):
                 if k in o and k not in f: f[k] = g(o, k)
             if "pdf" not in f and "pdf" in o: f["pdf"] = g(o, "pdf")
-            if "award_name" not in f and "award_name" in o:
+            if "award_name" not in f and "award_name" in o and "Most Influential" not in g(o, "award_name"):
                 f["award_name"], f["award"] = g(o, "award_name"), g(o, "award")
             kws.update(re.findall(r"topic:[a-z0-9_\-]+;", g(o, "keywords")))
         for frag, extra in EXTRA.items():

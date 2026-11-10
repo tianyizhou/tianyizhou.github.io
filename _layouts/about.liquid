@@ -82,8 +82,11 @@ layout: default
       </div>
     {% endif %}
 
-    {% if page.social and site.contact_note %}
-      <div class="contact-note mt-3">{{ site.contact_note }}</div>
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
     {% endif %}
   </article>
 </div>

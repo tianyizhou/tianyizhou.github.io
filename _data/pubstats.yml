@@ -7,3 +7,9 @@ ml: 66
 nlp: 46
 cv: 11
 ai: 11
+sections:
+  llm: 74
+  mllm: 46
+  agents: 43
+  paradigms: 59
+  foundations: 41

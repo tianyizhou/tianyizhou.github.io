@@ -19,9 +19,9 @@ facts:
     label: papers at top venues
     url: /publications/
   - value: "Top 2%"
-    label: scientists worldwide (Stanford list, 2024–26)
+    label: scientists worldwide, Stanford (2024–26)
   - value: "14"
-    label: Ph.D. students advised (2 graduated)
+    label: Ph.D. advised (2 graduated)
     url: /group/
 
 profile:
@@ -49,9 +49,51 @@ I have advised 14 Ph.D. students at UMD, including a **2026 Apple Scholar in AI/
 
 #### Research themes
 
-- **Human–AI–World alignment** — [cognitive](https://arxiv.org/abs/2512.19995)/[cultural](https://aclanthology.org/2025.acl-long.1210/)/epistemic alignment, [human modeling](https://arxiv.org/abs/2512.18880), [multi-objective alignment](https://proceedings.mlr.press/v267/yang25ax.html); [neuro-symbolic world models](https://arxiv.org/abs/2504.15785); interactive agents.
-- **Self-evolving / sustaining AI** — [data](https://aclanthology.org/2024.acl-long.769/)/[task](https://arxiv.org/abs/2504.05520)/[environment](https://proceedings.mlr.press/v162/ao22a.html) selection, [synthesis](https://arxiv.org/abs/2402.10110) and [curricula](https://proceedings.neurips.cc/paper/2019/hash/83715fd4755b33f9c3958e1a9ee221e1-Abstract.html); [continual learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6ffbbacbe2e56f2ec9a0da907382b4a-Abstract-Conference.html); [auto-benchmarking](https://arxiv.org/html/2604.18543); auto-research, [self-improving](https://arxiv.org/abs/2606.13929); [self-labeling](https://openreview.net/forum?id=lmTWnm3coJJ).
-- **Generalist–specialist cycle** — [dynamic models](https://arxiv.org/abs/2606.06574), [routing](https://arxiv.org/abs/2511.07419), [mixture-of-experts](https://arxiv.org/abs/2410.10814), [library learning](https://arxiv.org/abs/2506.20911), [federated](https://arxiv.org/abs/2105.00243) and [collaborative](https://ieeexplore.ieee.org/abstract/document/9880456) learning, [multi-agent](https://arxiv.org/abs/2604.22452).
-- **Interpretability and foundations** — [memorization, generalization, grokking](https://arxiv.org/abs/2506.21551), collapse, [reasoning](https://arxiv.org/abs/2506.08343), [hallucination](https://arxiv.org/abs/2310.14566), [steering](https://arxiv.org/abs/2606.11599).
+<div class="theme-grid">
+  <div class="theme-card">
+    <h5><i class="fa-solid fa-people-arrows"></i> Human–AI–World alignment</h5>
+    <div class="theme-chips">
+      <span><a href="https://arxiv.org/abs/2512.19995">cognitive</a> / <a href="https://aclanthology.org/2025.acl-long.1210/">cultural</a> / epistemic alignment</span>
+      <a href="https://arxiv.org/abs/2512.18880">human modeling</a>
+      <a href="https://proceedings.mlr.press/v267/yang25ax.html">multi-objective alignment</a>
+      <a href="https://arxiv.org/abs/2504.15785">neuro-symbolic world models</a>
+      <span>interactive agents</span>
+    </div>
+  </div>
+  <div class="theme-card">
+    <h5><i class="fa-solid fa-arrows-rotate"></i> Self-evolving / sustaining AI</h5>
+    <div class="theme-chips">
+      <span><a href="https://aclanthology.org/2024.acl-long.769/">data</a> / <a href="https://arxiv.org/abs/2504.05520">task</a> / <a href="https://proceedings.mlr.press/v162/ao22a.html">environment</a> selection</span>
+      <a href="https://arxiv.org/abs/2402.10110">synthesis</a>
+      <a href="https://proceedings.neurips.cc/paper/2019/hash/83715fd4755b33f9c3958e1a9ee221e1-Abstract.html">curricula</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6ffbbacbe2e56f2ec9a0da907382b4a-Abstract-Conference.html">continual learning</a>
+      <a href="https://arxiv.org/html/2604.18543">auto-benchmarking</a>
+      <span>auto-research</span>
+      <a href="https://arxiv.org/abs/2606.13929">self-improving</a>
+      <a href="https://openreview.net/forum?id=lmTWnm3coJJ">self-labeling</a>
+    </div>
+  </div>
+  <div class="theme-card">
+    <h5><i class="fa-solid fa-diagram-project"></i> Generalist–specialist cycle</h5>
+    <div class="theme-chips">
+      <a href="https://arxiv.org/abs/2606.06574">dynamic models</a>
+      <a href="https://arxiv.org/abs/2511.07419">routing</a>
+      <a href="https://arxiv.org/abs/2410.10814">mixture-of-experts</a>
+      <a href="https://arxiv.org/abs/2506.20911">library learning</a>
+      <span><a href="https://arxiv.org/abs/2105.00243">federated</a> &amp; <a href="https://ieeexplore.ieee.org/abstract/document/9880456">collaborative</a> learning</span>
+      <a href="https://arxiv.org/abs/2604.22452">multi-agent</a>
+    </div>
+  </div>
+  <div class="theme-card">
+    <h5><i class="fa-solid fa-magnifying-glass-chart"></i> Interpretability and foundations</h5>
+    <div class="theme-chips">
+      <a href="https://arxiv.org/abs/2506.21551">memorization, generalization, grokking</a>
+      <span>collapse</span>
+      <a href="https://arxiv.org/abs/2506.08343">reasoning</a>
+      <a href="https://arxiv.org/abs/2310.14566">hallucination</a>
+      <a href="https://arxiv.org/abs/2606.11599">steering</a>
+    </div>
+  </div>
+</div>
 
 Papers by topic are on the [research](/research/) page; the complete list by year is under [publications](/publications/).

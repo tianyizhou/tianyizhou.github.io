@@ -442,16 +442,81 @@ h3.research-subsection {
 /* ---- Homepage: smaller photo, links in the header --------------------------- */
 @media (min-width: 576px) {
   .about-page .profile {
-    width: 24%; /* 4/5 of the theme default */
+    width: 22%; /* ~3/4 of the theme default */
   }
 }
 .hero-social {
-  margin-top: 0.75rem;
+  margin-top: 0.9rem;
   .contact-icons {
-    font-size: 1.6rem;
+    font-size: 2.6rem; /* large, clickable at a glance */
+    line-height: 1;
     text-align: left;
     a {
-      margin-right: 0.35rem;
+      margin-right: 0.45rem;
     }
+  }
+}
+.about-page .social .contact-icons {
+  font-size: 3.2rem;
+}
+
+/* ---- Research themes: 2x2 cards with linked keyword chips ------------------- */
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 0.75rem 0 1.5rem;
+  clear: both;
+}
+@media (max-width: 700px) {
+  .theme-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.theme-card {
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 0.5rem;
+  background: var(--global-card-bg-color);
+  padding: 0.75rem 0.9rem 0.8rem;
+  h5 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    i {
+      color: var(--global-theme-color);
+      margin-right: 0.3rem;
+      font-size: 0.9em;
+    }
+  }
+}
+.theme-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  > a,
+  > span {
+    display: inline-block;
+    font-size: 0.8rem;
+    line-height: 1.3;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid var(--global-divider-color);
+    background: var(--global-bg-color);
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
+  > a:hover,
+  > span a:hover {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+  > span a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--global-theme-color);
+  }
+  > a {
+    color: var(--global-theme-color);
   }
 }
