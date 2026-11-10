@@ -164,13 +164,36 @@ html[data-theme="dark"] body {
     }
   }
 }
-/* Thumbnails: fixed-height strip so every entry stays on one row, text and figure vertically centred */
+/* Thumbnails: the theme only ships the column widths it uses, so define ours:
+   badge+thumbnail 25% | text 75%, never wrapping, vertically centred, thumbnail height capped */
 .publications .row {
+  display: flex;
+  flex-wrap: nowrap;
   align-items: center;
 }
-.publications .abbr {
+.publications .row > .abbr {
+  flex: 0 0 25%;
+  max-width: 25%;
   text-align: center;
-  .preview {
+}
+.publications .row > .col-sm-7 {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+@media (max-width: 575px) {
+  .publications .row {
+    flex-wrap: wrap;
+  }
+  .publications .row > .abbr,
+  .publications .row > .col-sm-7 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+.publications .abbr {
+  .preview,
+  .preview img,
+  .preview picture {
     display: block;
     max-width: 100%;
     width: auto;
@@ -178,13 +201,6 @@ html[data-theme="dark"] body {
     object-fit: contain;
     margin: 0.25rem auto;
     border-radius: 4px;
-  }
-  .preview img,
-  .preview picture {
-    max-height: 118px;
-    width: auto;
-    max-width: 100%;
-    object-fit: contain;
   }
 }
 .publications.selected {
