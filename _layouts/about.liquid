@@ -13,6 +13,11 @@ layout: default
     </h1>
     {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
     <p class="desc affiliation">{{ page.subtitle }}</p>
+    {% if page.social %}
+      <div class="hero-social">
+        <div class="contact-icons">{% social_links %}</div>
+      </div>
+    {% endif %}
     {% if page.facts %}
       <ul class="fact-strip">
         {% for f in page.facts %}
@@ -77,12 +82,8 @@ layout: default
       </div>
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
+    {% if page.social and site.contact_note %}
+      <div class="contact-note mt-3">{{ site.contact_note }}</div>
     {% endif %}
   </article>
 </div>

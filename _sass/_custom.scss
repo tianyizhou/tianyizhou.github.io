@@ -375,8 +375,10 @@ h3.research-subsection {
 
 /* ---- About: boxed parentheticals in the intro paragraph ---------------------- */
 .kw-box {
-  display: inline-block;
-  font-size: 0.86em;
+  display: inline;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  font-size: 0.82em;
   line-height: 1.35;
   padding: 0.05rem 0.5rem;
   margin: 0.1rem 0.15rem;
@@ -387,4 +389,69 @@ h3.research-subsection {
   color: var(--global-text-color-light);
   white-space: normal;
   vertical-align: baseline;
+}
+
+/* ---- Stat strips (publications / research / group) ----------------------------- */
+.stat-strip {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.6rem;
+  padding: 0;
+  margin: 0 0 1.25rem;
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 999px;
+    padding: 0.3rem 0.9rem;
+    line-height: 1.25;
+    a {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+  .stat-sep {
+    background: none;
+    border: none;
+    padding: 0;
+    width: 0.25rem;
+  }
+  .stat-value {
+    font-weight: 700;
+    font-size: 1.15rem;
+    color: var(--global-theme-color);
+  }
+  .stat-label {
+    font-size: 0.86rem;
+    color: var(--global-text-color-light);
+    small {
+      display: block;
+      font-size: 0.68rem;
+      letter-spacing: 0.02em;
+      opacity: 0.85;
+    }
+  }
+}
+
+/* ---- Homepage: smaller photo, links in the header --------------------------- */
+@media (min-width: 576px) {
+  .about-page .profile {
+    width: 24%; /* 4/5 of the theme default */
+  }
+}
+.hero-social {
+  margin-top: 0.75rem;
+  .contact-icons {
+    font-size: 1.6rem;
+    text-align: left;
+    a {
+      margin-right: 0.35rem;
+    }
+  }
 }

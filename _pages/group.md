@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+<ul class="stat-strip" aria-label="Group statistics">
+  <li><a href="#current-phd-students"><span class="stat-value">{{ site.data.group.current | size }}</span><span class="stat-label">current Ph.D. students</span></a></li>
+  <li><a href="#alumni"><span class="stat-value">{{ site.data.group.alumni | size }}</span><span class="stat-label">alumni</span></a></li>
+  <li><a href="#collaborating-phd-students"><span class="stat-value">{{ site.data.group.collaborators | size }}</span><span class="stat-label">collaborating Ph.D. students</span></a></li>
+</ul>
+
 <div class="callout" markdown="1">
 **Prospective students and interns.** I work with Ph.D. students, visiting students and interns on LLM reasoning, multimodal and agentic models, data-centric learning and human–AI alignment. If you would like to work with me, please email your CV, a short note on which of our [papers](/publications/) you would build on, and links to any code or writing of yours. I read every message but can only reply to those that fit the group's current directions.
 </div>

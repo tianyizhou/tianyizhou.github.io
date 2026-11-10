@@ -80,6 +80,7 @@ EXTRA = {  # title fragment -> extra fields
     "Divide-and-Conquer Anchoring": {"award_name": "Best Student Paper", "award": "ICDM 2013 Best Student Paper Award"},
     "BLIP3-o: A Family": {"code": "https://github.com/JiuhaiChen/BLIP3o"},
     "Many-Class Few-Shot Learning on Multi-Granularity": {"code": "https://github.com/liulu112601/MahiNet"},
+    "OopsWorld": {"preview": "oopsworld.png"},
 }
 
 def parse_note(note):

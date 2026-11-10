@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+{% include pub_stats.liquid %}
+
 {% include bib_search.liquid %}
 
 <div class="publications">

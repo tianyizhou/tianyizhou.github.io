@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+{% include pub_stats.liquid %}
+
 <nav class="topic-nav" aria-label="Research topics">
   <a class="topic-nav-section" href="#large-language-models">Large Language Models</a>
   <a class="topic-nav-section" href="#multimodal-models">Multimodal Models</a>

@@ -1,0 +1,11 @@
+{% assign s = site.data.pubstats %}
+<ul class="stat-strip" aria-label="Publication statistics">
+  <li><span class="stat-value">{{ s.conference }}</span><span class="stat-label">conference papers</span></li>
+  <li><span class="stat-value">{{ s.journal }}</span><span class="stat-label">journal papers</span></li>
+  <li><span class="stat-value">{{ s.preprints }}</span><span class="stat-label">preprints</span></li>
+  <li class="stat-sep"></li>
+  <li><span class="stat-value">{{ s.ml }}</span><span class="stat-label">ML <small>NeurIPS · ICML · ICLR</small></span></li>
+  <li><span class="stat-value">{{ s.nlp }}</span><span class="stat-label">NLP <small>ACL · EMNLP · NAACL · COLM</small></span></li>
+  <li><span class="stat-value">{{ s.cv }}</span><span class="stat-label">CV <small>CVPR · ICCV · ECCV</small></span></li>
+  <li><span class="stat-value">{{ s.ai }}</span><span class="stat-label">AI <small>AAAI · IJCAI</small></span></li>
+</ul>
