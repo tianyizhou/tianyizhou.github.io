@@ -6,6 +6,7 @@ instructor: Tianyi Zhou
 year: 2023
 term: Spring
 location: University of Maryland, College Park
+tag: UMD
 course_id: cmsc828a-Spring-2023
 ---
 

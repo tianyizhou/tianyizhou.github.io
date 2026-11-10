@@ -172,13 +172,6 @@ html[data-theme="dark"] body {
 }
 
 /* ---- Research page --------------------------------------------------------- */
-.topics-figure {
-  margin: 0 0 1.25rem;
-  img {
-    width: 100%;
-    height: auto;
-  }
-}
 .topic-nav {
   position: sticky;
   top: 57px; /* below the navbar */
@@ -252,7 +245,7 @@ h3.research-subsection {
     padding: 0.35rem 0;
   }
   .abbr .preview {
-    display: none; /* keep the topic page compact: badges only, no thumbnails */
+    max-width: 100%;
   }
 }
 
@@ -319,4 +312,24 @@ h3.research-subsection {
   .topic-nav {
     top: 0;
   }
+}
+
+/* ---- Teaching: institution tags ------------------------------------------- */
+.inst-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.5rem;
+  border-radius: 4px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+  color: #fff;
+  background: #6b7280;
+}
+.inst-umd {
+  background: #e21833;
+}
+.inst-mbzuai {
+  background: #1f6feb;
 }

@@ -29,3 +29,8 @@
 "MLJ": { color: "#4b5563" }
 "EPM": { color: "#4b5563" }
 "arXiv": { url: https://arxiv.org/, color: "#b31b1b" }
+"ACL Findings": { url: https://www.aclweb.org/, color: "#c4707c" }
+"EMNLP Findings": { url: https://www.aclweb.org/, color: "#c4707c" }
+"NAACL Findings": { url: https://www.aclweb.org/, color: "#c4707c" }
+"EACL Findings": { url: https://www.aclweb.org/, color: "#c4707c" }
+"Preprint": { color: "#6b7280" }

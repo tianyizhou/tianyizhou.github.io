@@ -73,11 +73,17 @@ alumni:
 - name: Shuangtong Li
   url: http://staff.ustc.edu.cn/~xinmei/stli.html
   photo: shuangtong-li.jpg
+- name: Chenrui Fan
+  url: https://fcr09.github.io/
+  note: M.S. UMD → Ph.D. student, UMD
+  photo: chenrui-fan.jpg
+- name: Advait Gupta
+  url: https://advaitgupta.github.io/
+  note: M.S. UMD → Ph.D. student, UC Riverside
+  photo: advait-gupta.jpg
 collaborators:
 - name: Lichang Chen
   url: https://lichang-chen.github.io/
-- name: Chenrui Fan
-  url: https://fcr09.github.io/
 - name: Chunxu Zhang
   url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
 - name: Tianrui Guan

@@ -46,4 +46,4 @@ nav_order: 3
 
 ## Code, data and models
 
-Our releases live at [github.com/tianyi-lab](https://github.com/tianyi-lab) and [huggingface.co/umd-zhou-lab](https://huggingface.co/umd-zhou-lab). We are also part of [TurningPoint AI](https://www.turningpoint-ai.com/), a multi-university team on multimodal agents.
+Our releases live at [github.com/tianyi-lab](https://github.com/tianyi-lab) and [huggingface.co/umd-zhou-lab](https://huggingface.co/umd-zhou-lab).

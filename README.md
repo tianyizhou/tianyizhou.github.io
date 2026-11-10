@@ -12,7 +12,7 @@ Personal academic website of [Tianyi Zhou](https://tianyizhou.github.io), built 
 | Research-by-topic page | `_pages/research.md` — each subtopic lists `preprint:<slug>;` entries first, then `published:<slug>;` (the merge script writes both tokens from `topic:`) |
 | Publication entry template | `_layouts/bib.liquid` — Oral/Spotlight pills, GitHub button with live star badge (shields.io), citation pill |
 | Citation refresh | `scripts/update_citations.py`, run weekly by `.github/workflows/update-citations.yml` (Semantic Scholar; counts only ever go up) |
-| Paper thumbnails | `assets/img/publication_preview/` + `preview = {file.png}` (640×480 PNG with transparent padding) |
+| Paper thumbnails | `assets/img/publication_preview/` + `preview = {file.png}`; entries whose `code` is a GitHub repo pick up `repo-<owner>_<repo>.png` automatically when it exists (teaser figure from the repo README, never cropped) |
 | People photos | `assets/img/people/` (400×400 JPG) referenced from `_data/group.yml` |
 | News | one file per item in `_news/` (`YYYY-MM-DD-*.md`); homepage shows the latest 8 |
 | Group | `_data/group.yml` (rendered by `_pages/group.md`) |

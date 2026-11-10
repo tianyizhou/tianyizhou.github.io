@@ -41,8 +41,8 @@ cv:
       - company: University of Maryland, College Park
         position: Assistant Professor, Department of Computer Science
         location: College Park, MD
-        start_date: 2022-09
-        end_date: 2025-12
+        start_date: 2022
+        end_date: 2024
       - company: Google LLC
         position: Visiting Research Scientist
         location: Seattle, WA
@@ -57,15 +57,13 @@ cv:
 
     Publication Summary:
       - label: Citations
-        details: "20,116 total; by year 861 (2022) → 1,480 (2023) → 3,027 (2024) → 5,418 (2025) → 6,718 (2026)"
-      - label: Impact
-        details: "Most-cited paper 1,490 citations; h-index 65; i10-index 182"
+        details: "20,116 total; h-index 65; i10-index 182"
       - label: Recognition
-        details: "World's Top 2% Scientists (Stanford) in 2024, 2025, 2026 (self-citation ratio 5.18%, 5.57%, 4.35%)"
-      - label: Conference papers
-        details: "166 — 20 NeurIPS, 22 ICML, 24 ICLR, 18 ACL, 12 EMNLP, 7 NAACL, 8 COLM, 5 AAAI, 5 IJCAI, 4 KDD, 3 ICCV, 4 CVPR, 4 ECCV"
-      - label: Journal papers
-        details: "17 — IEEE TPAMI / TIP / TNNLS / TKDE, Machine Learning Journal, TMLR, WWW, DMKD"
+        details: "World's Top 2% Scientists (Stanford) in 2024, 2025 and 2026 — self-citation ratio 5.18%, 5.57%, 4.35%"
+      - label: Venues
+        details: "20 NeurIPS, 22 ICML, 24 ICLR, 18 ACL, 12 EMNLP, 7 NAACL, 8 COLM, 5 AAAI, 5 IJCAI, 4 KDD, 3 ICCV, 4 CVPR, 4 ECCV; 17 journal papers in IEEE TPAMI / TIP / TNNLS / TKDE, Machine Learning Journal, TMLR, WWW, DMKD"
+      - label: Full list
+        details: '<a href="/publications/">by year</a> · <a href="/research/">by topic</a>'
 
     Honors and Awards:
       - title: Best Paper Honorable Mention, NeurIPS 2026 Workshop on AI-Native Academia
@@ -88,23 +86,25 @@ cv:
 
     Advising:
       - label: Ph.D. students (UMD)
-        details: "14 — 2 graduated, 8 in their fourth year, 4 in their second year; including an Apple Scholar 2026 (Ming Li) and a UMD Flagship Fellow 2025 (Dongping Chen)"
+        details: "14 — 2 graduated, 12 in progress; including an Apple Scholar 2026 (Ming Li) and a UMD Flagship Fellow 2025 (Dongping Chen)"
       - label: Master's students (UMD)
         details: "4, of whom 3 graduated"
-      - label: Undergraduates (UMD)
-        details: "4"
       - label: Mentoring
-        details: "20+ Ph.D. and master's students at other universities in the US and Australia since 2016, including a leading contributor to OpenAI 4o image generation (Lu Liu)"
+        details: "20+ Ph.D. and master's students at other universities"
 
     Teaching:
       - label: "CMSC 421 (Undergraduate), Fall 2022 & Fall 2023"
         details: "Introduction to Artificial Intelligence, University of Maryland — updated the curriculum with deep neural networks, large language models and optional research projects"
       - label: "CMSC 828A (Graduate), Spring 2023 & Spring 2024"
         details: "Fantastic Machine Learning Paradigms and Where to Use Them, University of Maryland — developed the whole course, project topics and reading list from scratch"
+      - label: "AI7102 (Graduate), Spring 2026"
+        details: "Introduction to Deep Learning, MBZUAI"
 
     Institutional Service:
       - label: UMD CS
-        details: Field Committee in Artificial Intelligence (2023–2024); Graduate Admissions Committee (2023, 2025)
+        details: Field Committee in Artificial Intelligence (2023–2024)
+      - label: UMD CS
+        details: Graduate Admissions Committee (2023, 2025)
       - label: Community
         details: Award Committee, 2024 Rising Stars in Machine Learning
 

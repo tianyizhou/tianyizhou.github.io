@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build papers.bib from the uploaded pub2026.bib + preprints2026.bib, merging extra
 fields (code/website/keywords/abbr/awards) from the previously generated bib."""
-import re, sys, json, unicodedata
+import re, sys, json, unicodedata, os
 from collections import OrderedDict
 import bibtexparser
 from bibtexparser.model import Entry, Field
@@ -40,6 +40,8 @@ def classify(venue):
                         ("World Wide Web", "WWWJ"), ("Data Mining and Knowledge", "DMKD"), ("Machine Learning", "MLJ"), ("arXiv", "arXiv"),
                         ("Under review", "Preprint"), ("Position paper", "Preprint")]:
             if pat.lower() in venue.lower(): abbr = ab; break
+    if abbr and re.search(r"findings", venue, re.I) and "Findings" not in abbr:
+        abbr += " Findings"
     return abbr or ""
 
 SELECTED = OrderedDict([  # title fragment -> preview image
@@ -133,6 +135,13 @@ def build(src_path, status):
         for frag, extra in EXTRA.items():
             if frag.lower() in title.lower():
                 for k, v in extra.items(): f[k] = v
+        # auto thumbnail from the paper's GitHub repo (assets/img/publication_preview/repo-<owner>__<repo>.png)
+        if "code" in f and "github.com/" in f["code"]:
+            m = re.search(r"github\.com/([^/]+)/([^/#?]+)", f["code"])
+            if m:
+                cand = f"repo-{m.group(1)}_{m.group(2).replace('.git','')}.png".lower()
+                if os.path.exists(os.path.join(os.path.dirname(OUT), "..", "assets", "img", "publication_preview", cand)):
+                    f["preview"] = cand
         for i, (frag, prev) in enumerate(SELECTED.items()):
             if frag.lower() in title.lower():
                 f["selected"] = "true"; f["preview"] = prev

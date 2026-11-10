@@ -62,18 +62,17 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2 class="section-title">
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">highly cited</a>
-        <small class="section-sub">1,000+ citations each</small>
-      </h2>
-      <div class="publications selected">
-        {% bibliography --group_by none --query @*[keywords ~= pick:highly-cited;] %}
-      </div>
-      <h2 class="section-title">
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected recent work</a>
-        <small class="section-sub">2024 – 2026 · <a href="{{ '/publications/' | relative_url }}">all publications</a></small>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Work (2024–2026)</a>
+        <small class="section-sub"><a href="{{ '/publications/' | relative_url }}">all publications</a> · <a href="{{ '/research/' | relative_url }}">by topic</a></small>
       </h2>
       <div class="publications selected">
         {% bibliography --group_by none --query @*[keywords ~= pick:recent;] %}
+      </div>
+      <h2 class="section-title">
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Highly-cited Work</a>
+      </h2>
+      <div class="publications selected">
+        {% bibliography --group_by none --query @*[keywords ~= pick:highly-cited;] %}
       </div>
     {% endif %}
 

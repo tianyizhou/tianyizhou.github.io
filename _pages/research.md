@@ -7,10 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<figure class="topics-figure">
-  <img src="{{ '/assets/img/topics.webp' | relative_url }}" alt="Research topics of the Tianyi Lab" class="img-fluid rounded z-depth-1" loading="lazy">
-</figure>
-
 <nav class="topic-nav" aria-label="Research topics">
   <a class="topic-nav-section" href="#large-language-models">Large Language Models</a>
   <a class="topic-nav-section" href="#multimodal-models">Multimodal Models</a>
