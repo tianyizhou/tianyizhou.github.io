@@ -547,3 +547,13 @@ h3.research-subsection {
     background: var(--global-theme-color);
   }
 }
+
+/* ---- Tianyi Lab mark in the navbar ---- */
+.navbar-brand .lab-mark {
+  width: 34px;
+  height: 34px;
+  margin-right: 0.5rem;
+  vertical-align: -9px;
+  color: var(--global-text-color);
+}
+.navbar-brand:hover .lab-mark { color: var(--global-theme-color); }
