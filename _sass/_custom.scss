@@ -662,3 +662,9 @@ h2.section-title a {
 .fact-strip, .stat-strip, .nav-count, .topic-nav-total, .cite-pill {
   font-variant-numeric: tabular-nums;
 }
+
+/* affiliation: keep on one line on desktop */
+.about-page .hero .affiliation { font-size: 0.95rem; }
+@media (min-width: 992px) {
+  .about-page .hero .affiliation { white-space: nowrap; }
+}

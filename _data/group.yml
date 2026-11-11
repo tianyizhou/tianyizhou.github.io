@@ -81,9 +81,14 @@ alumni:
   url: https://advaitgupta.github.io/
   note: M.S. UMD → Ph.D. student, UC Riverside
   photo: advait-gupta.jpg
-collaborators:
+- name: Zhongyang Li
+  url: https://zhongyangli0124.github.io/
+  note: M.S. JHU → Ph.D. student, OSU
+  photo: zhongyang-li.jpg
 - name: Lichang Chen
   url: https://lichang-chen.github.io/
+  photo: lichang-chen.jpg
+collaborators:
 - name: Chunxu Zhang
   url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
 - name: Tianrui Guan
