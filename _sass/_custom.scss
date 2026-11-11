@@ -618,3 +618,47 @@ details.research-sub {
   &[open] > summary::before { content: "\2212"; }
   &[open] { padding-bottom: 0.75rem; }
 }
+
+/* ---- Typography: Inter everywhere, Source Serif 4 for the slogan ------------- */
+body,
+h1, h2, h3, h4, h5, h6,
+.navbar, .btn, .badge, button, input {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+body {
+  font-size: 16.5px;
+  font-feature-settings: "cv11", "ss03";
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3 { letter-spacing: -0.015em; }
+.about-page .hero .post-title { font-weight: 700; letter-spacing: -0.02em; }
+.about-page .hero .tagline {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-style: normal;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+  margin: 0.6rem 0 0.5rem;
+  letter-spacing: 0;
+}
+/* section titles: labels, not headlines */
+h2.section-title,
+h2.section-title a {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+.publications h2.bibliography { font-size: 1.6rem; font-weight: 600; }
+/* paper rows: medium-weight titles, quieter authors and venue lines */
+.publications ol.bibliography li {
+  .title { font-weight: 500; font-size: 1rem; }
+  .author, .periodical {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+  .author > em { color: var(--global-text-color); font-weight: 500; }
+}
+/* numbers line up */
+.fact-strip, .stat-strip, .nav-count, .topic-nav-total, .cite-pill {
+  font-variant-numeric: tabular-nums;
+}
