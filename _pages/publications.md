@@ -11,7 +11,7 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="publications pub-compact">
 
 {% bibliography --query @*[keywords ~= status:published;] %}
 

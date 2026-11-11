@@ -13,18 +13,6 @@ layout: default
     </h1>
     {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
     <p class="desc affiliation">{{ page.subtitle }}</p>
-    {% if page.facts %}
-      <ul class="fact-strip">
-        {% for f in page.facts %}
-          <li>
-            {% if f.url %}<a href="{{ f.url }}">{% endif %}
-            <span class="fact-value">{{ f.value }}</span>
-            <span class="fact-label">{{ f.label }}</span>
-            {% if f.url %}</a>{% endif %}
-          </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </header>
 
   <article>

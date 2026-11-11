@@ -2,16 +2,6 @@
    Site-specific styles for tianyizhou.github.io (loaded last from main.scss)
    --------------------------------------------------------------------------- */
 
-/* Soft, readable background: a faint accent wash behind the top of every page */
-body {
-  background-image: radial-gradient(1200px 420px at 15% -10%, rgba(124, 58, 237, 0.07), transparent 60%),
-    radial-gradient(900px 380px at 100% 0%, rgba(120, 120, 160, 0.08), transparent 60%);
-  background-repeat: no-repeat;
-}
-html[data-theme="dark"] body {
-  background-image: radial-gradient(1200px 420px at 15% -10%, rgba(255, 123, 114, 0.1), transparent 60%),
-    radial-gradient(900px 380px at 100% 0%, rgba(120, 140, 200, 0.1), transparent 60%);
-}
 
 /* ---- Homepage hero ------------------------------------------------------- */
 .about-page .hero {
@@ -557,3 +547,74 @@ h3.research-subsection {
   color: var(--global-text-color);
 }
 .navbar-brand:hover .lab-mark { color: var(--global-theme-color); }
+
+/* ---- Clean-up pass: more air, less decoration -------------------------------- */
+.about-page .hero { margin-bottom: 2rem; }
+.about-page .fact-strip { margin: 1.25rem 0 0.5rem; }
+h2.section-title { margin-top: 3.5rem; margin-bottom: 1.25rem; }
+.about-page .theme-grid { margin-top: 1rem; }
+.post article p { line-height: 1.7; }
+
+/* paper rows: generous spacing and a thin divider everywhere */
+.publications .row,
+.publications.selected .row,
+.research-list .row {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+.publications ol.bibliography { margin-bottom: 0; }
+.publications ol.bibliography > li:last-child .row { border-bottom: none; }
+.publications h2.bibliography { margin-top: 3rem; }
+
+/* publications page: text-only list (venue badge, no thumbnail) */
+.pub-compact {
+  .abbr .preview,
+  .abbr figure,
+  .abbr picture,
+  .abbr video { display: none !important; }
+  .row { align-items: flex-start; }
+  .row > .abbr { flex: 0 0 8.5rem; max-width: 8.5rem; padding-top: 0.15rem; }
+  .row > .col-sm-7 { flex: 1 1 auto; max-width: none; }
+}
+
+/* research page: collapsible subtopics */
+.research-hint {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin: 0.75rem 0 0;
+}
+.expand-all {
+  margin-left: 0.5rem;
+  font-size: 0.8rem;
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--global-divider-color);
+  background: transparent;
+  color: var(--global-text-color);
+  cursor: pointer;
+  &:hover { border-color: var(--global-theme-color); color: var(--global-theme-color); }
+}
+h2.research-section { margin-top: 3.5rem; }
+details.research-sub {
+  border-bottom: 1px solid var(--global-divider-color);
+  scroll-margin-top: 110px;
+  > summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 1.05rem;
+    font-weight: 500;
+    padding: 0.85rem 0;
+    color: var(--global-text-color);
+    &::-webkit-details-marker { display: none; }
+    &::before {
+      content: "+";
+      display: inline-block;
+      width: 1.2rem;
+      color: var(--global-theme-color);
+      font-weight: 700;
+    }
+    &:hover { color: var(--global-theme-color); }
+  }
+  &[open] > summary::before { content: "\2212"; }
+  &[open] { padding-bottom: 0.75rem; }
+}
