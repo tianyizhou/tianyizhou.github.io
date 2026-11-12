@@ -571,8 +571,17 @@ h3.research-subsection {
   color: var(--global-text-color-light);
   white-space: nowrap;
 }
-@media (max-width: 575px) {
+/* keep the lockup and the menu on one line once the menu is expanded */
+@media (min-width: 768px) {
+  #navbar > .container { flex-wrap: nowrap; }
+  #navbar .navbar-brand.lab-brand { flex: none; margin-right: 0.75rem; }
+  #navbar .navbar-collapse { flex: 0 1 auto; min-width: 0; margin-left: auto; }
+  #navbar .navbar-nav { flex-wrap: nowrap; white-space: nowrap; }
+  #navbar .navbar-nav .nav-link { padding-left: 0.4rem; padding-right: 0.4rem; }
+}
+@media (max-width: 991px) {
   .lab-brand-tag { display: none; }
+  #navbar .navbar-nav .nav-link { padding-left: 0.3rem; padding-right: 0.3rem; }
 }
 
 /* ---- Clean-up pass: more air, less decoration -------------------------------- */
