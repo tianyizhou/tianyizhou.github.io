@@ -719,3 +719,21 @@ h2.section-title a {
   color: var(--global-text-color-light);
   margin-bottom: 0.5rem;
 }
+
+/* ---- Profile photo: swap to the illustrated portrait on hover ----------------- */
+.profile-photo {
+  position: relative;
+  figure, picture, figure img { transition: opacity 0.3s ease; }
+  .profile-alt {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  &:hover .profile-alt { opacity: 1; }
+  &:hover figure { opacity: 0; }
+}

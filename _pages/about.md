@@ -29,6 +29,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  hover_image: prof_pic_cartoon.webp
   more_info: >
     <p><a href="https://github.com/tianyi-lab"><i class="fa-brands fa-github"></i> Tianyi Lab @ GitHub</a></p>
     <p><a href="https://huggingface.co/umd-zhou-lab">🤗 umd-zhou-lab @ HF</a></p>

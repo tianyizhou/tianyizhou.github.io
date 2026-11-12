@@ -25,11 +25,16 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
+          <div class="profile-photo">
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
+            {% if page.profile.hover_image %}
+              <img class="profile-alt" src="{{ page.profile.hover_image | prepend: '/assets/img/' | relative_url }}" alt="" aria-hidden="true" loading="lazy">
+            {% endif %}
+          </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
