@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
-  <path d="M12 44 Q60 14 108 44" fill="none" stroke="#7c3aed" stroke-width="9" stroke-linecap="round"/>
-  <path d="M60 70 L30.6 53.0 M60 70 L89.4 53.0 M60 70 L89.4 87.0 M60 70 L60.0 104.0 M60 70 L30.6 87.0" stroke="#c4b5fd" stroke-width="3.5" fill="none" opacity="0.8"/>
-  <path d="M60 70 L60 22" stroke="#ff7b72" stroke-width="3.5" fill="none" stroke-dasharray="1 6" stroke-linecap="round"/>
-  <path d="M30.6 53.0 A34 34 0 0 1 89.4 53.0" fill="none" stroke="#ff7b72" stroke-width="4" stroke-linecap="round" opacity="0.0"/>
-  <circle cx="60" cy="70" r="13" fill="#7c3aed"/>
-  <circle cx="30.6" cy="53.0" r="7.5" fill="#1f1b2e"/><circle cx="89.4" cy="53.0" r="7.5" fill="#1f1b2e"/><circle cx="89.4" cy="87.0" r="7.5" fill="#1f1b2e"/><circle cx="60.0" cy="104.0" r="7.5" fill="#1f1b2e"/><circle cx="30.6" cy="87.0" r="7.5" fill="#1f1b2e"/>
-  <circle cx="60" cy="20" r="8" fill="#ff7b72"/>
+  <defs><radialGradient id="pgS1m" gradientUnits="userSpaceOnUse" cx="60" cy="44" r="60"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.26"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient></defs><path d="M3 47 A215 215 0 0 1 117 47 L117 106 L3 106 Z" fill="url(#pgS1m)"/>
+  <path d="M1 42.5 A122 122 0 0 1 119 42.5" fill="none" stroke="#c4b5fd" stroke-width="1.6" stroke-linecap="round" opacity="0.75"/>
+  <path d="M3 47 A118 118 0 0 1 117 47 A215 215 0 0 0 3 47 Z" fill="#7c3aed"/>
+  <path d="M22 15 L22.84 17.16 L25 18 L22.84 18.84 L22 21 L21.16 18.84 L19 18 L21.16 17.16 Z" fill="#c4b5fd" opacity="1"/><path d="M98 11.4 L98.73 13.27 L100.6 14 L98.73 14.73 L98 16.6 L97.27 14.73 L95.4 14 L97.27 13.27 Z" fill="#c4b5fd" opacity="1"/><path d="M84 26.2 L84.50 27.50 L85.8 28 L84.50 28.50 L84 29.8 L83.50 28.50 L82.2 28 L83.50 27.50 Z" fill="#1f1b2e" opacity="0.55"/>
+  <path d="M60 72 L31.4 55.5 M60 72 L88.6 55.5 M60 72 L88.6 88.5 M60 72 L60.0 105.0 M60 72 L31.4 88.5" stroke="#c4b5fd" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M60 56 L60 30" stroke="#ff7b72" stroke-width="2.6" fill="none" stroke-dasharray="4.5 4" stroke-linecap="round"/>
+  <circle cx="31.4" cy="55.5" r="7" fill="#1f1b2e"/><circle cx="31.4" cy="55.5" r="2.4" fill="#c4b5fd"/><circle cx="88.6" cy="55.5" r="7" fill="#1f1b2e"/><circle cx="88.6" cy="55.5" r="2.4" fill="#c4b5fd"/><circle cx="88.6" cy="88.5" r="7" fill="#1f1b2e"/><circle cx="88.6" cy="88.5" r="2.4" fill="#c4b5fd"/><circle cx="60.0" cy="105.0" r="7" fill="#1f1b2e"/><circle cx="60.0" cy="105.0" r="2.4" fill="#c4b5fd"/><circle cx="31.4" cy="88.5" r="7" fill="#1f1b2e"/><circle cx="31.4" cy="88.5" r="2.4" fill="#c4b5fd"/>
+  <path d="M71.3 78.5 L60.0 85.0 L48.7 78.5 L48.7 65.5 L60.0 59.0 L71.3 65.5 Z" fill="#7c3aed" stroke="#7c3aed" stroke-width="4" stroke-linejoin="round"/><circle cx="60" cy="72" r="6.2" fill="none" stroke="#ffffff" stroke-width="2.2"/><circle cx="60" cy="72" r="2" fill="#ffffff"/>
+  <path d="M60 2 L61.50 11.60 L67.5 14 L61.50 16.40 L60 26 L58.50 16.40 L52.5 14 L58.50 11.60 Z" fill="#ff7b72" stroke="#ff7b72" stroke-width="1.2" stroke-linejoin="round"/>
 </svg>

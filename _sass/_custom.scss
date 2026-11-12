@@ -538,15 +538,42 @@ h3.research-subsection {
   }
 }
 
-/* ---- Tianyi Lab mark in the navbar ---- */
-.navbar-brand .lab-mark {
-  width: 34px;
-  height: 34px;
-  margin-right: 0.5rem;
-  vertical-align: -9px;
+/* ---- Tianyi Lab lockup in the navbar ---- */
+.navbar-brand.lab-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+.lab-brand .lab-mark {
+  width: 44px;
+  height: 44px;
+  flex: none;
   color: var(--global-text-color);
 }
-.navbar-brand:hover .lab-mark { color: var(--global-theme-color); }
+.lab-brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.lab-brand-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--global-text-color);
+}
+.lab-brand-accent { color: var(--global-theme-color); }
+.lab-brand-tag {
+  margin-top: 0.2rem;
+  font-size: 0.58rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
+@media (max-width: 575px) {
+  .lab-brand-tag { display: none; }
+}
 
 /* ---- Clean-up pass: more air, less decoration -------------------------------- */
 .about-page .hero { margin-bottom: 2rem; }
