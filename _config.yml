@@ -702,3 +702,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Visitor map (MapMyVisitors globe at the bottom of the About page); leave empty to hide
+# -----------------------------------------------------------------------------
+mapmyvisitors_id: ZC1W3FvBdYd1XagVFVBPRe6mKib4pKx_ch5ONyAn6rA

@@ -71,5 +71,12 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+
+    {% if site.mapmyvisitors_id %}
+      <div class="visitor-map" aria-label="Visitor map">
+        <div class="visitor-map-label">Visitors</div>
+        <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_id }}"></script>
+      </div>
+    {% endif %}
   </article>
 </div>

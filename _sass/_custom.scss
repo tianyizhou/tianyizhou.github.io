@@ -668,3 +668,18 @@ h2.section-title a {
 @media (min-width: 992px) {
   .about-page .hero .affiliation { white-space: nowrap; }
 }
+
+/* ---- Visitor globe at the bottom of the About page --------------------------- */
+.visitor-map {
+  margin: 3rem auto 1rem;
+  max-width: 260px;
+  text-align: center;
+  canvas, img { max-width: 100%; height: auto; }
+}
+.visitor-map-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.5rem;
+}
