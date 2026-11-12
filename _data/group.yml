@@ -42,7 +42,7 @@ current:
 - name: Yanming Zhang
   photo: yanming-zhang.jpg
   url: https://www.linkedin.com/in/yanming-zhang-a119022b3
-alumni:
+phd_alumni:
 - name: Jiuhai Chen
   url: https://jiuhaichen.github.io/
   note: Ph.D., co-advised with Tom Goldstein
@@ -51,6 +51,39 @@ alumni:
   url: https://fuxiaoliu.github.io/
   note: Ph.D., co-advised with Abhinav Shrivastava and Yaser Yacoob → NVIDIA
   photo: fuxiao-liu.jpg
+ms_alumni:
+- name: Advait Gupta
+  url: https://advaitgupta.github.io/
+  note: M.S. UMD → Ph.D. student, UC Riverside
+  photo: advait-gupta.jpg
+- name: Chenrui Fan
+  url: https://fcr09.github.io/
+  note: M.S. UMD → Ph.D. student, UMD
+  photo: chenrui-fan.jpg
+- name: Zhongyang Li
+  url: https://zhongyangli0124.github.io/
+  note: M.S. JHU → Ph.D. student, OSU
+  photo: zhongyang-li.jpg
+mentored:
+- name: Lichang Chen
+  url: https://lichang-chen.github.io/
+  note: Google DeepMind
+  photo: lichang-chen.jpg
+- name: Divya Kothandaraman
+  url: https://scholar.google.com/citations?user=ejLpAX0AAAAJ&hl=en
+  note: Dolby Laboratories
+- name: Tianrui Guan
+  url: https://tianruiguan.phd/
+  note: Waymo
+  photo: tianrui-guan.jpg
+- name: Yu Shen
+  url: https://www.cs.umd.edu/~yushen/
+  note: ByteDance
+- name: Davit Soselia
+  url: https://davitsoselia.com/
+  note: M.S. UMD → Ph.D. student, UMD
+- name: Aniruddh Bansal
+  photo: aniruddh-bansal.jpg
 - name: Tao Shen
   url: https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en
   note: Oracle
@@ -67,55 +100,62 @@ alumni:
   url: https://stevenyangyj.github.io/
   note: Z.ai
   photo: yijun-yang.jpg
+- name: Jie Ma
+  url: https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en
+  note: UTS
+  photo: jie-ma.jpg
+- name: Haiyan Zhao
+  url: https://scholar.google.com/citations?user=s7nyGQEAAAAJ&hl=zh-CN
 - name: Kaiwen Yang
   url: https://scholar.google.com/citations?user=WQzn8u0AAAAJ&hl=en
   note: ByteDance
   photo: kaiwen-yang.jpg
-- name: Lichang Chen
-  url: https://lichang-chen.github.io/
-  note: Google DeepMind
-  photo: lichang-chen.jpg
-- name: Chenrui Fan
-  url: https://fcr09.github.io/
-  note: M.S. UMD → Ph.D. student, UMD
-  photo: chenrui-fan.jpg
-- name: Advait Gupta
-  url: https://advaitgupta.github.io/
-  note: M.S. UMD → Ph.D. student, UC Riverside
-  photo: advait-gupta.jpg
-- name: Zhongyang Li
-  url: https://zhongyangli0124.github.io/
-  note: M.S. JHU → Ph.D. student, OSU
-  photo: zhongyang-li.jpg
 - name: Shuangtong Li
   note: TikTok
   photo: shuangtong-li.jpg
-collaborators:
-- name: Chunxu Zhang
-  url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
-- name: Tianrui Guan
-  url: https://tianruiguan.phd/
-- name: Jie Ma
-  url: https://scholar.google.com.au/citations?user=tSmDoz0AAAAJ&hl=en
-- name: Qiang He
-  url: https://sweetice.github.io/
-- name: Chengkai Hou
-  url: https://jackhck.github.io/
-- name: Divya Kothandaraman
-  url: https://divyakraman.github.io/
-- name: Lilly Kumari
-  url: https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en
-- name: Zhiwei Li
-  url: https://profiles.uts.edu.au/student_Zhiwei.Li
-- name: Yibin Lei
-  url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
-- name: Yu Shen
-  url: https://www.cs.umd.edu/~yushen/
-- name: Wensi Tang
-  url: https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en
 - name: Ruochen Wang
   url: https://ruocwang.github.io/
+  note: OpenAI
+  photo: ruochen-wang.jpg
+- name: Lilly Kumari
+  url: https://scholar.google.co.in/citations?user=eoGxOusAAAAJ&hl=en
+  note: Meta
+  photo: lilly-kumari.jpg
+- name: Yibin Lei
+  url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
+  note: University of Amsterdam
+  photo: yibin-lei.jpg
+collaborators:
+- name: Xiyang Wu
+  url: https://wuxiyang1996.github.io/
+  note: UMD
+- name: Laura Yu Zheng
+  url: https://laurayuzheng.github.io/
+  note: UMD
+- name: Yizhe Cheng
+  url: https://chengez.github.io/
+  note: UMD
+- name: Yihan Bian
+  url: https://scholar.google.com/citations?user=x7KRy_oAAAAJ&hl=en
+  note: UMD
+- name: Hengguang Zhou
+  url: https://scholar.google.com/citations?user=yU0Ud7QAAAAJ&hl=en
+  note: UCLA
+- name: Chunxu Zhang
+  url: https://scholar.google.com/citations?user=cYvbwQsAAAAJ&hl=zh-CN
+  note: UTS
+- name: Zhiwei Li
+  url: https://profiles.uts.edu.au/student_Zhiwei.Li
+  note: UTS
+- name: Wensi Tang
+  url: https://scholar.google.com/citations?user=Nb1kMiAAAAAJ&hl=en
+  note: UTS
+- name: Qiang He
+  url: https://sweetice.github.io/
+  note: Ruhr University
 - name: Yucheng Yang
   url: https://scholar.google.com/citations?user=MDEntKcAAAAJ&hl=zh-CN
+  note: TU/e
 - name: Jieyu Zhang
   url: https://jieyuz2.github.io/
+  note: UW
