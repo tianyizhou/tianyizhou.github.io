@@ -31,6 +31,7 @@ cv:
         highlights:
           - 'Thesis: <a href="https://digital.lib.washington.edu/researchworks/items/6512d9f6-be50-431e-88dd-8359c737a204/full"><em>Curriculum Learning: from Human Strategies to Learning Dynamics</em></a>'
           - "Advisor: Prof. Jeff Bilmes"
+          - "Interned at Microsoft Research Redmond (2014) & Yahoo! Labs (2015)"
 
     Experience:
       - company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
@@ -38,6 +39,10 @@ cv:
         location: Abu Dhabi, UAE
         start_date: 2026-01
         end_date: present
+      - company: Independent Researcher
+        location: College Park, MD
+        start_date: 2024
+        end_date: 2025
       - company: University of Maryland, College Park
         position: Assistant Professor, Department of Computer Science
         location: College Park, MD
