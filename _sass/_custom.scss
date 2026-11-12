@@ -549,24 +549,24 @@ h3.research-subsection {
   text-decoration: none;
 }
 .lab-brand .lab-mark {
-  width: 44px;
-  height: 44px;
+  width: 54px;
+  height: 54px;
   flex: none;
   color: var(--global-text-color);
 }
 .lab-brand-text { display: flex; flex-direction: column; line-height: 1.1; }
 .lab-brand-name {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   font-weight: 700;
   letter-spacing: -0.01em;
   color: var(--global-text-color);
 }
 .lab-brand-accent { color: var(--global-theme-color); }
 .lab-brand-tag {
-  margin-top: 0.2rem;
-  font-size: 0.58rem;
+  margin-top: 0.25rem;
+  font-size: 0.47rem;
   font-weight: 500;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--global-text-color-light);
   white-space: nowrap;
