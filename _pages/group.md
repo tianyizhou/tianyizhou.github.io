@@ -47,6 +47,7 @@ nav_order: 3
 ## M.S. alumni
 {: #ms-alumni}
 
+<p class="text-muted">Graduated from UMD.</p>
 <div class="people-grid">
 {% for p in site.data.group.ms_alumni %}
   <div class="person-card">

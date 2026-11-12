@@ -60,10 +60,6 @@ ms_alumni:
   url: https://fcr09.github.io/
   note: M.S. UMD → Ph.D. student, UMD
   photo: chenrui-fan.jpg
-- name: Zhongyang Li
-  url: https://zhongyangli0124.github.io/
-  note: M.S. JHU → Ph.D. student, OSU
-  photo: zhongyang-li.jpg
 mentored:
 - name: Lichang Chen
   url: https://lichang-chen.github.io/
@@ -72,6 +68,7 @@ mentored:
 - name: Divya Kothandaraman
   url: https://scholar.google.com/citations?user=ejLpAX0AAAAJ&hl=en
   note: Dolby Laboratories
+  photo: divya-kothandaraman.jpg
 - name: Tianrui Guan
   url: https://tianruiguan.phd/
   note: Waymo
@@ -79,9 +76,11 @@ mentored:
 - name: Yu Shen
   url: https://www.cs.umd.edu/~yushen/
   note: ByteDance
+  photo: yu-shen.jpg
 - name: Davit Soselia
   url: https://davitsoselia.com/
   note: M.S. UMD → Ph.D. student, UMD
+  photo: davit-soselia.jpg
 - name: Aniruddh Bansal
   photo: aniruddh-bansal.jpg
 - name: Tao Shen
@@ -125,6 +124,10 @@ mentored:
   url: https://scholar.google.com/citations?user=raNLEXsAAAAJ&hl=en
   note: University of Amsterdam
   photo: yibin-lei.jpg
+- name: Zhongyang Li
+  url: https://zhongyangli0124.github.io/
+  note: M.S. JHU → Ph.D. student, OSU
+  photo: zhongyang-li.jpg
 collaborators:
 - name: Xiyang Wu
   url: https://wuxiyang1996.github.io/
