@@ -59,6 +59,7 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
       <a href="https://arxiv.org/abs/2512.18880">human modeling</a>
       <a href="https://proceedings.mlr.press/v267/yang25ax.html">multi-objective alignment</a>
       <a href="https://arxiv.org/abs/2504.15785">neuro-symbolic world models</a>
+      <a href="https://arxiv.org/abs/2608.08975">AI reviewer</a>
       <span>interactive agents</span>
     </div>
   </div>
