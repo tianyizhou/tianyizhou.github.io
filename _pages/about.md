@@ -70,7 +70,7 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
       <a href="https://proceedings.neurips.cc/paper/2019/hash/83715fd4755b33f9c3958e1a9ee221e1-Abstract.html">curricula</a>
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6ffbbacbe2e56f2ec9a0da907382b4a-Abstract-Conference.html">continual learning</a>
       <a href="https://arxiv.org/html/2604.18543">auto-benchmarking</a>
-      <span>auto-research</span>
+      <a href="https://arxiv.org/abs/2611.25214">auto-research</a>
       <a href="https://arxiv.org/abs/2606.13929">self-improving</a>
       <a href="https://openreview.net/forum?id=lmTWnm3coJJ">self-labeling</a>
     </div>
