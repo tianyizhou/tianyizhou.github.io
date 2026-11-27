@@ -59,7 +59,7 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
       <a href="https://arxiv.org/abs/2512.18880">human modeling</a>
       <a href="https://proceedings.mlr.press/v267/yang25ax.html">multi-objective optimization</a>
       <a href="https://arxiv.org/abs/2504.15785">neuro-symbolic world models</a>
-      <a href="https://arxiv.org/abs/2301.09109">Recommendation System</a>
+      <a href="https://arxiv.org/abs/2301.09109">recommendation system</a>
       <a href="https://arxiv.org/abs/2608.08975">AI reviewer</a>
       <span>interactive agents</span>
     </div>
@@ -84,6 +84,7 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
       <a href="https://arxiv.org/abs/2606.06574">dynamic models</a>
       <a href="https://arxiv.org/abs/2511.07419">routing</a>
       <a href="https://arxiv.org/abs/2410.10814">mixture-of-experts</a>
+      <a href="https://arxiv.org/abs/2607.26246">distillation</a>
       <a href="https://arxiv.org/abs/2506.20911">library learning</a>
       <span><a href="https://arxiv.org/abs/2105.00243">federated</a> &amp; <a href="https://ieeexplore.ieee.org/abstract/document/9880456">collaborative</a> learning</span>
       <a href="https://arxiv.org/abs/2604.22452">multi-agent</a>
@@ -94,6 +95,7 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
     <div class="theme-chips">
       <a href="https://arxiv.org/abs/2506.21551">memorization, generalization, grokking</a>
       <span>collapse</span>
+      <a href="https://arxiv.org/abs/2504.10766">training dynamics</a>
       <a href="https://arxiv.org/abs/2506.08343">reasoning</a>
       <a href="https://arxiv.org/abs/2310.14566">hallucination</a>
       <a href="https://arxiv.org/abs/2606.11599">steering</a>
