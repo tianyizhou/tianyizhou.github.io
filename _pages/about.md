@@ -57,19 +57,20 @@ Recent recognition includes the **ACL 2026 SAC Highlight Award** and the **2026 
     <div class="theme-chips">
       <span><a href="https://arxiv.org/abs/2512.19995">cognitive</a> / <a href="https://aclanthology.org/2025.acl-long.1210/">cultural</a> / epistemic alignment</span>
       <a href="https://arxiv.org/abs/2512.18880">human modeling</a>
-      <a href="https://proceedings.mlr.press/v267/yang25ax.html">multi-objective alignment</a>
+      <a href="https://proceedings.mlr.press/v267/yang25ax.html">multi-objective optimization</a>
       <a href="https://arxiv.org/abs/2504.15785">neuro-symbolic world models</a>
       <a href="https://arxiv.org/abs/2608.08975">AI reviewer</a>
       <span>interactive agents</span>
     </div>
   </div>
   <div class="theme-card">
-    <h5><i class="fa-solid fa-arrows-rotate"></i> Self-evolving / sustaining AI</h5>
+    <h5><i class="fa-solid fa-arrows-rotate"></i> Self-evolving AI</h5>
     <div class="theme-chips">
       <span><a href="https://aclanthology.org/2024.acl-long.769/">data</a> / <a href="https://arxiv.org/abs/2504.05520">task</a> / <a href="https://proceedings.mlr.press/v162/ao22a.html">environment</a> selection</span>
       <a href="https://arxiv.org/abs/2402.10110">synthesis</a>
       <a href="https://proceedings.neurips.cc/paper/2019/hash/83715fd4755b33f9c3958e1a9ee221e1-Abstract.html">curricula</a>
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6ffbbacbe2e56f2ec9a0da907382b4a-Abstract-Conference.html">continual learning</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2019/hash/00ac8ed3b4327bdd4ebbebcb2ba10a00-Abstract.html">meta-learning</a>
       <a href="https://arxiv.org/html/2604.18543">auto-benchmarking</a>
       <a href="https://arxiv.org/abs/2611.25214">auto-research</a>
       <a href="https://arxiv.org/abs/2606.13929">self-improving</a>
